@@ -1,0 +1,26 @@
+# Stream Checklist
+
+**Status:** draft  
+**Owner:** Stream Operator / Tech Lead  
+**Last reviewed:** 2026-08-12
+
+## Pre
+
+- [ ] Destination / title / thumb correct
+- [ ] Audio source confirmed (broadcast mix vs house matrix)
+- [ ] Cameras powered; framing presets
+- [ ] Recording path has disk space
+- [ ] Backup hotspot / secondary path if used
+- [ ] 5-minute test stream or private test when policy requires
+
+## Service
+
+- [ ] Go-live at agreed time
+- [ ] Watch audio meters more than vanity tiles
+- [ ] Handle disconnects per contingency doc
+
+## Post
+
+- [ ] End stream cleanly
+- [ ] Confirm recording landed
+- [ ] Note platform warnings

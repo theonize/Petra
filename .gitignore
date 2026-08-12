@@ -1,0 +1,20 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor
+.idea/
+.vscode/
+*.swp
+*~
+
+# Secrets — never commit
+.env
+.env.*
+*.pem
+secrets/
+**/credentials*
+
+# Local notes
+local/
+*.local.md
