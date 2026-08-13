@@ -2,7 +2,7 @@
 
 **Status:** draft  
 **Owner:** Pastoral oversight  
-**Last reviewed:** 2026-08-12
+**Last reviewed:** 2026-08-13
 
 ## Purpose
 
@@ -12,8 +12,9 @@ Carry spiritual and operational ownership of the worship ministry so the team is
 
 - Vision, values, and Petra policy approval
 - Team culture, discipline, and pastoral care pathway
-- Leadership development (MD, Tech Lead, section leads)
+- Leadership development (MD, **Song Selector**, Tech Lead, section leads)
 - Service planning standards and final accountability for Sunday readiness
+- Final accountability for song diet / set direction (often exercised *through* Song Selector)
 - Coordination with pastors, production, and other ministries
 - Seasonal calendar (series, special services, retreats)
 
@@ -21,15 +22,22 @@ Carry spiritual and operational ownership of the worship ministry so the team is
 
 - Every mix decision (Tech Lead / FOH)
 - Every musical arrangement choice mid-rehearsal (MD)
+- Every title pick when a Song Selector is appointed (they propose; Worship Lead still covers)
 - Church-wide HR or facilities master policy
 
 ## Weekly rhythm (typical)
 
 - Confirm upcoming rosters and gaps
-- Review setlists/order of service with MD / service planner
+- Review setlists/order of service with **Song Selector**, MD, and service planner
 - Touch base with Tech Lead on anything unusual (guests, tracks, specials)
 - Post-service notes: people first, then process
 
 ## Success looks like
 
-Team knows the plan early; conflicts are handled cleanly; Sunday feels shepherded, not scrambled.
+Team knows the plan early; conflicts are handled cleanly; Sunday feels shepherded, not scrambled; the congregation sings.
+
+## Related
+
+- [song-selector.md](song-selector.md)
+- [music-director.md](music-director.md)
+

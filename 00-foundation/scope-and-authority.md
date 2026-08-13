@@ -46,10 +46,11 @@ Petra is not a creative straitjacket. If a page starts micromanaging artistry in
 
 | Decision | Propose | Decide | Informed |
 |---|---|---|---|
-| Setlist & keys for a service | MD / Service planner | Worship Lead | Band, tech |
+| Song menu / setlist titles for a service | **Song Selector** | Worship Lead | MD, Service Planner, Media, band |
+| Keys, tempos, forms for a service | MD | MD (Worship Lead if sensitive) | Band, Media, Song Selector |
 | Arrange / cut a song section | MD | MD (Worship Lead if sensitive) | Band |
 | Change call times permanently | Worship Lead | Worship Lead + Pastor liaison | Full team |
-| Hire/appoint MD or Tech Lead | Worship Lead | Pastoral oversight | Team |
+| Hire/appoint MD, Song Selector, or Tech Lead | Worship Lead | Pastoral oversight | Team |
 | Major gear purchase | Tech Lead | Church finance / pastor process | Worship Lead |
 | Exception to an `active` policy for one week | Role owner | Worship Lead | Affected teammates |
 | Edit Petra `active` policy | Anyone | Worship Lead (or designee) | Team via changelog / announce |

@@ -26,8 +26,9 @@ Language shapes culture. We use plain operational words without turning Sunday i
 | Term | Meaning here |
 |---|---|
 | **Worship Lead** | Ministry leader with pastoral/operational ownership of the team |
+| **Song Selector** | Chooses songs / draft setlists for congregational singing and pastoral fit; hands off to MD for musical execution |
 | **MD (Music Director)** | Plans musical direction for a service or season; runs band musically |
-| **Service Planner** | Builds order of service / liturgy flow (may be same person as MD) |
+| **Service Planner** | Builds order of service / liturgy flow (may be same person as MD or Worship Lead) |
 | **Tech Lead** | Owns FOH/monitor/lights/media standards and tech roster health |
 | **FOH** | Front of house audio mix for the congregation |
 | **Monitors / IEM** | What musicians hear on stage (wedges or in-ear monitors) |

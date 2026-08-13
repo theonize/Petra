@@ -1,0 +1,80 @@
+# Song Selector
+
+**Status:** draft  
+**Owner:** Worship Lead  
+**Last reviewed:** 2026-08-13
+
+## Purpose
+
+Choose songs that help **this congregation sing** in this season — theologically sound, pastorally timed, and musically reachable — then hand a clear set to the MD and service planner.
+
+The Song Selector curates **what** we sing and **why**. The MD owns **how** it is arranged and rehearsed. Worship Lead holds final pastoral accountability.
+
+## Owns
+
+- Draft setlists / song menus for upcoming services (or a planning horizon)
+- Alignment with sermon series, liturgical calendar, and pastoral direction
+- Congregational diet: new vs known, tempo arc, key range for the room
+- Flagging songs that need teach strategy, rest, or retirement
+- Coordinating intake of suggestions (team, pastors, congregation) into a real process
+- Early heads-up to MD / Media / Tech when a song is new, track-heavy, or production-special
+
+## Does not own alone
+
+- Final keys, forms, charts, and rehearsal leadership (**MD**)
+- Full order of service / liturgy beyond the musical set (**Service Planner** / Worship Lead)
+- Lyric deck build and confidence routing (**Media**)
+- Saying yes to every request — selection serves the room, not popularity contests
+
+One person may be Song Selector **and** MD or Worship Lead; when combined, still complete both charters’ must-dos.
+
+## Selection criteria (default lens)
+
+| Lens | Question |
+|---|---|
+| Truth | Do the lyrics say what we mean, clearly? |
+| Singability | Can *this* room sing it without a concert vocal? |
+| Pastoral fit | Does it serve the Word and the moment of the gathering? |
+| Diet | Are we over-indexing on new, slow, high, or band-flex songs? |
+| Team reality | Can this week’s roster and tech actually deliver it well? |
+| Continuity | What is familiar enough that the congregation leads themselves? |
+
+Primary success signal remains **congregational singing** — see [`../00-foundation/mission-vision.md`](../00-foundation/mission-vision.md).
+
+## Rhythm (typical)
+
+1. Pull series notes / calendar / pastoral themes  
+2. Draft set (or short menu of options) with intentional arc  
+3. Review with Worship Lead (and pastor liaison when needed)  
+4. Hand off to MD for keys, forms, charts, tracks  
+5. Confirm Media has titles for lyric prep early enough to build the deck  
+6. After Sunday: quick note — keep, rework teach, or rest  
+
+## Must before the MD locks rehearsal materials
+
+- [ ] Song list published for the service (titles clear)
+- [ ] New-to-us songs flagged with teach intent
+- [ ] Rough flow notes (opener energy, response moment, closer) if not using a full planner doc
+- [ ] Known landmines called out (range, complex form, sensitive lyric)
+
+## Works with
+
+| Role | Handoff |
+|---|---|
+| Worship Lead | Pastoral cover, final accountability, series alignment |
+| MD | Keys, tempo, form, arrangement, rehearsal |
+| Service Planner | Where songs sit in the full gathering |
+| Media | Titles, forms, lyric accuracy needs |
+| Tech Lead | Unusual production (choir, orchestra, tracks, guests) |
+
+## Related
+
+- [`../06-music-library/song-lifecycle.md`](../06-music-library/song-lifecycle.md)
+- [`../06-music-library/charts-keys-tempos.md`](../06-music-library/charts-keys-tempos.md)
+- [music-director.md](music-director.md)
+- [worship-lead.md](worship-lead.md)
+- [`../10-templates/setlist-worksheet.md`](../10-templates/setlist-worksheet.md)
+
+## Success looks like
+
+The room recognizes enough of the diet to sing boldly; new songs are taught on purpose; MD and Media are not guessing titles the night before rehearsal.
