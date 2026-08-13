@@ -4,8 +4,9 @@ See also [`00-foundation/definitions.md`](../00-foundation/definitions.md) for w
 
 | Term | Meaning |
 |---|---|
-| **Confidence monitor** | Screen musicians/speakers face on stage (lyrics, cues, sometimes charts) |
-| **Stage video** | Team-facing video system (confidence monitors); default instead of music stands |
+| **Confidence monitors** | Preferred name for team-facing lyric/cue screens on stage. **Synonyms:** video monitors, stage video, confidence screens |
+| **Video monitors** | Same as **confidence monitors** |
+| **Stage video** | The confidence-monitor system as a whole (feeds, screens, routing) |
 | **House / overhead lyrics** | Congregational lyric projection |
 | **Music stand** | Physical stand for charts — exception path, not default staging |
 | **Prior rehearsal** | Group rehearsal required before the service you serve |

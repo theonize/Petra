@@ -21,7 +21,7 @@ Electric/acoustic guitar, bass, keys/pads, drums/percussion, other instruments a
 - Play the arrangement: leave holes, don’t fill every bar
 - Volume discipline — stage volume is a team problem, not a personal right
 - Click loyalty when click is on; recover quietly if you slip
-- **Stage video first:** use confidence monitors for lyrics/cues/charts; music stands only with MD/Tech Lead exception ([`../05-tech/lyrics-and-stage-displays.md`](../05-tech/lyrics-and-stage-displays.md))
+- **Stage reading default:** use **confidence monitors** (aka video monitors) for lyrics/cues/charts; music stands only with MD/Tech Lead exception ([`../05-tech/lyrics-and-stage-displays.md`](../05-tech/lyrics-and-stage-displays.md))
 
 ## Preparation checklist
 

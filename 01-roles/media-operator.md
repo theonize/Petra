@@ -6,13 +6,13 @@
 
 ## Purpose
 
-Put the right words and visuals in front of the room (and stream) at the right time — and keep the team’s stage video trustworthy so players are not chained to stands.
+Put the right words and visuals in front of the room (and stream) at the right time — and keep **confidence monitors** (video monitors) trustworthy so players are not chained to stands.
 
 ## Owns
 
 - Lyric accuracy against the **sung** arrangement
 - House / overhead lyric craft (readability, timing, form)
-- Slide timing and **confidence / stage video** feed
+- Slide timing and **confidence monitor** feed
 - Basic graphic package for the service (per template)
 - Flagging when confidence is unreadable from a position
 

@@ -14,9 +14,9 @@ Full standards: [`lyrics-and-stage-displays.md`](lyrics-and-stage-displays.md).
 - [ ] House slides: ~2–4 lines, phrase-aware breaks, high contrast
 - [ ] Scripture / creed slides ready if used
 - [ ] Spontaneous folder accessible
-- [ ] Confidence feed: lyrics + section cues readable from stage
+- [ ] Confidence monitors (video monitors): lyrics + section cues readable from stage
 - [ ] Output to house + confidence + stream verified (no mis-routes)
-- [ ] Stand exceptions (if any) confirmed with MD — default is stage video
+- [ ] Stand exceptions (if any) confirmed with MD — default is confidence monitors
 - [ ] Backup export or machine ready
 
 ## Service

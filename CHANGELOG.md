@@ -7,7 +7,8 @@ All notable changes to Petra docs.
 - Foundation intent: **congregation sings**; Petra = **mundane framework that frees the artist**
 - Definitions: framed **worship / serve / perform / player / rehearsal** language
 - Policy: **prior group rehearsal required** to serve the linked service (rehearsal standards + scheduling)
-- New: `05-tech/lyrics-and-stage-displays.md` — confidence/video monitors default over stands; house lyric standards
+- New: `05-tech/lyrics-and-stage-displays.md` — **confidence monitors** (aka video monitors) default over stands; house lyric standards
+- Terminology: video monitors = confidence monitors (preferred term)
 - Updated media checklist, media/band/vocalist roles, pre-service note, glossary, open questions, culture, contributing
 
 ## 2026-08-12

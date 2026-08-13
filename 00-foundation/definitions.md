@@ -31,7 +31,7 @@ Language shapes culture. We use plain operational words without turning Sunday i
 | **Tech Lead** | Owns FOH/monitor/lights/media standards and tech roster health |
 | **FOH** | Front of house audio mix for the congregation |
 | **Monitors / IEM** | What musicians hear on stage (wedges or in-ear monitors) |
-| **Media** | Lyrics, graphics, countdown, lower-thirds, confidence / stage video |
+| **Media** | Lyrics, graphics, countdown, lower-thirds, **confidence monitors** (aka video monitors / stage video) |
 | **Stream / Broadcast** | Online mix and video (if applicable) |
 | **Section** | Vocals, rhythm, keys, guitars, drums, tech, etc. |
 
@@ -53,7 +53,7 @@ Language shapes culture. We use plain operational words without turning Sunday i
 | **Chart** | Authoritative roadmap (chord chart, lead sheet, or full chart) |
 | **Pad / tracks** | Backing textures or click/guide used with or without live players |
 | **House / overhead lyrics** | Words projected for the **congregation** (and usually stream) |
-| **Confidence monitor / stage video** | Screen(s) musicians and platform leaders face — lyrics, cues, and/or charts so eyes stay up |
+| **Confidence monitors** | Preferred term for the screens musicians and platform leaders face — lyrics, cues, and/or charts so eyes stay up. **Also called:** video monitors, stage video, confidence screens. |
 | **Music stand** | Physical stand for paper/tablet charts — **exception path**, not the default (see stage display standards) |
 | **Swap** | Trading a scheduled slot with another qualified teammate |
 | **Green room rule** | Offstage conduct still represents the team |

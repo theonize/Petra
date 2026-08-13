@@ -17,7 +17,7 @@ Lead and support congregational singing with clear melody, blend, and pastoral p
 - Blend over belting; serve the lyric and the lead
 - Mind mic technique and stage presence (engaged, not performative distraction)
 - Follow MD cues for entries, holds, and endings
-- **Eyes up:** default to confidence / stage video for lyrics — not a music stand — unless cleared ([`../05-tech/lyrics-and-stage-displays.md`](../05-tech/lyrics-and-stage-displays.md))
+- **Eyes up:** default to **confidence monitors** (video monitors) for lyrics — not a music stand — unless cleared ([`../05-tech/lyrics-and-stage-displays.md`](../05-tech/lyrics-and-stage-displays.md))
 
 ## Preparation checklist
 

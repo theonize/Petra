@@ -11,20 +11,32 @@
 2. Help the **team** stay eyes-up and together without a wall of music stands.  
 3. Keep house, confidence, and stream outputs intentional — not three accidents.
 
+## Naming
+
+**Confidence monitors** is the preferred term in this runbook.
+
+| Also called | Same thing? |
+|---|---|
+| Video monitors | Yes |
+| Stage video / confidence screens | Yes (system or screens) |
+| House / overhead screens | **No** — those face the congregation |
+
+If someone says “video monitors,” read **confidence monitors**.
+
 ## Philosophy
 
 - Overhead lyrics exist so the **congregation can sing** — clarity beats cleverness.
-- Stage video is part of the instrument package, like IEMs — learn to use it.
+- Confidence monitors are part of the instrument package, like IEMs — learn to use them.
 - A clean stage serves cameras, sightlines, and the room’s focus on worship (not gear).
 - These standards are mundane on purpose: settle them once so leaders stay free in the moment.
 
 ---
 
-## A. Stage video vs music stands
+## A. Confidence monitors vs music stands
 
 ### Policy (must)
 
-1. **Default:** players and vocalists use **confidence / stage video monitors** for lyrics, section cues, and (when provided) charts.  
+1. **Default:** players and vocalists use **confidence monitors** (video monitors) for lyrics, section cues, and (when provided) charts.  
 2. **Music stands are not the norm.** Do not build a stand forest “just in case.”  
 3. Personal tablets on stands still count as stands if they block sightlines or become the primary posture (head down all set). Prefer confidence monitors or low-profile tablet mounts only with MD/Tech Lead OK.  
 4. Rehearse the way we serve: if Sunday is confidence-first, midweek is confidence-first.
@@ -101,7 +113,7 @@ Exception path — clear it with MD or Tech Lead:
 
 ---
 
-## C. Confidence / stage feed (team-facing)
+## C. Confidence monitor feed (team-facing)
 
 Confidence may carry **more** than house:
 
@@ -120,7 +132,7 @@ Confidence may carry **more** than house:
 | Output | Primary audience | Default content |
 |---|---|---|
 | House overhead | Congregation | Singable lyrics + needed liturgy text |
-| Confidence | Platform team | Lyrics + section cues (+ charts if used) |
+| Confidence monitors | Platform team | Lyrics + section cues (+ charts if used) |
 | Stream | Online attenders | Usually follows house; confirm lower-thirds and safe areas |
 
 Verify **routing** every service: confidence must not accidentally hit house; house must not leave the room on a black slide while stream shows something else unless planned.
@@ -154,7 +166,7 @@ Post:
 ## Related
 
 - [media-lyrics-checklist.md](media-lyrics-checklist.md) — quick pre/post checks
-- [monitor-iem-checklist.md](monitor-iem-checklist.md) — audio monitors (not video)
+- [monitor-iem-checklist.md](monitor-iem-checklist.md) — **audio** monitors / IEM (not video)
 - [`../03-rehearsal/rehearsal-standards.md`](../03-rehearsal/rehearsal-standards.md)
 - [`../01-roles/media-operator.md`](../01-roles/media-operator.md)
 - [`../00-foundation/definitions.md`](../00-foundation/definitions.md)

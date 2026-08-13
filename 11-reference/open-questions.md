@@ -30,7 +30,8 @@ Capture decisions we still need so drafts can harden into `active` policy.
 - [ ] IEMs, wedges, or hybrid?
 - [ ] Stream yes/no and who owns chat?
 - [ ] Console/media software standards?
-- [x] Stage reading default? → **Confidence / stage video first; stands exception-only** (`05-tech/lyrics-and-stage-displays.md`)
+- [x] Stage reading default? → **Confidence monitors** (aka video monitors) first; stands exception-only (`05-tech/lyrics-and-stage-displays.md`)
+- [x] Video monitors = confidence monitors? → **Yes** (preferred term: confidence monitors)
 - [ ] Exact confidence layout (lyrics only vs lyrics+chords; which positions get a screen)?
 - [ ] House lyric template (font, colors, max lines) locked to a brand file?
 

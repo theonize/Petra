@@ -13,7 +13,7 @@ Our first musical success metric is **their** voice, not ours. Arrange, mix, key
 
 ## 2. Framework frees the artist
 
-Petra exists to settle the mundane — schedules, stands vs confidence, gains, call times, who owns what — so creative and spiritual attention is available in the room. Process is a gift when it removes friction; it is a failure when it becomes the point.
+Petra exists to settle the mundane — schedules, stands vs confidence monitors, gains, call times, who owns what — so creative and spiritual attention is available in the room. Process is a gift when it removes friction; it is a failure when it becomes the point.
 
 ## 3. Presence over polish
 

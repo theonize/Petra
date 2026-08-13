@@ -9,7 +9,7 @@
 - **Invite the room to sing** — volume, eyes, and energy make space for their voice (see [`../00-foundation/mission-vision.md`](../00-foundation/mission-vision.md))
 - Engage the room; don’t perform *at* it (see [`../00-foundation/definitions.md`](../00-foundation/definitions.md) on worship vs performance language)
 - When not playing, still worship — not disengaged gear fussing
-- Eyes up: use confidence / stage video; avoid stand clutter ([`../05-tech/lyrics-and-stage-displays.md`](../05-tech/lyrics-and-stage-displays.md))
+- Eyes up: use **confidence monitors** (video monitors); avoid stand clutter ([`../05-tech/lyrics-and-stage-displays.md`](../05-tech/lyrics-and-stage-displays.md))
 - Water bottles staged neatly; no clutter skyline
 
 ## Clothing & appearance

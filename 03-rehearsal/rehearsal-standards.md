@@ -58,13 +58,13 @@ Feeling underprepared after missing rehearsal is a reason to **step down**, not 
 | Role | Before walking in |
 |---|---|
 | Vocals | Parts learned; marked chart or confidence workflow ready |
-| Band | Changes known; patches set; ready to use **stage video / confidence**, not a forest of stands |
+| Band | Changes known; patches set; ready to use **confidence monitors**, not a forest of stands |
 | FOH/Monitors | Show file staged; input list current |
 | Media | Deck ordered to plan; house + confidence outputs verified |
 
 ## Stage reading default
 
-Default staging is **video confidence monitors** for lyrics/cues (and charts where provided) rather than music stands. Stands are exception-only — see [`../05-tech/lyrics-and-stage-displays.md`](../05-tech/lyrics-and-stage-displays.md).
+Default staging is **confidence monitors** (also called video monitors) for lyrics/cues and charts where provided, rather than music stands. Stands are exception-only — see [`../05-tech/lyrics-and-stage-displays.md`](../05-tech/lyrics-and-stage-displays.md).
 
 ## Etiquette
 
