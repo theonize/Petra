@@ -2,13 +2,14 @@
 
 **Status:** draft  
 **Owner:** Worship Lead  
-**Last reviewed:** 2026-08-12
+**Last reviewed:** 2026-08-13
 
 ## Blocking out
 
 - Keep availability current in the scheduling tool.
 - “Maybe” is not a plan — convert to yes/no as soon as you can.
 - Extended travel or busy seasons: block early so leaders can recruit.
+- If you can do Sunday but **not** the prior rehearsal, say so up front — default policy is you need that rehearsal to serve.
 
 ## Swap rules
 

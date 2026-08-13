@@ -2,7 +2,7 @@
 
 **Status:** draft  
 **Owner:** MD  
-**Last reviewed:** 2026-08-12
+**Last reviewed:** 2026-08-13
 
 *Times below are placeholders — set to your real clock.*
 
@@ -32,8 +32,13 @@
 - Freeze cosmetic mix tweaks until musical form settles
 - Capture input list changes before leaving
 
+## Attendance note
+
+This midweek block is the default **prior rehearsal** for the linked Sunday. Who is present (or formally released) is who leaders plan to put on the platform — see [`rehearsal-standards.md`](rehearsal-standards.md).
+
 ## End state
 
 - [ ] Open issues listed (who owns overnight fixes)
 - [ ] Sunday call times confirmed
+- [ ] Absences resolved: serve / release / simplify
 - [ ] Room not trashed

@@ -2,12 +2,13 @@
 
 **Status:** draft  
 **Owner:** Worship Lead  
-**Last reviewed:** 2026-08-12
+**Last reviewed:** 2026-08-13
 
 ## Presence
 
-- Engage the room; don’t perform at it
+- Engage the room; don’t perform *at* it (see [`../00-foundation/definitions.md`](../00-foundation/definitions.md) on worship vs performance language)
 - When not playing, still worship — not disengaged gear fussing
+- Eyes up: use confidence / stage video; avoid stand clutter ([`../05-tech/lyrics-and-stage-displays.md`](../05-tech/lyrics-and-stage-displays.md))
 - Water bottles staged neatly; no clutter skyline
 
 ## Clothing & appearance

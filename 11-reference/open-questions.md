@@ -16,6 +16,7 @@ Capture decisions we still need so drafts can harden into `active` policy.
 - [ ] How many weeks ahead do we publish?
 - [ ] Default serve frequency targets?
 - [ ] Which tool is canonical for schedules?
+- [x] Prior rehearsal required to serve the linked service? → **Yes** (draft in `03-rehearsal/rehearsal-standards.md` + scheduling policy)
 
 ## Sunday clock
 
@@ -29,6 +30,9 @@ Capture decisions we still need so drafts can harden into `active` policy.
 - [ ] IEMs, wedges, or hybrid?
 - [ ] Stream yes/no and who owns chat?
 - [ ] Console/media software standards?
+- [x] Stage reading default? → **Confidence / stage video first; stands exception-only** (`05-tech/lyrics-and-stage-displays.md`)
+- [ ] Exact confidence layout (lyrics only vs lyrics+chords; which positions get a screen)?
+- [ ] House lyric template (font, colors, max lines) locked to a brand file?
 
 ## Music
 
@@ -41,6 +45,7 @@ Capture decisions we still need so drafts can harden into `active` policy.
 - [ ] Wardrobe specifics / colors?
 - [ ] Membership requirement before serving?
 - [ ] Minors on team — yes/no and rules link?
+- [x] Preferred language: worship vs perform? → Framed in `00-foundation/definitions.md` (serve/platform preferred operationally)
 
 ## Repo
 

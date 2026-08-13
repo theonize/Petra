@@ -2,7 +2,7 @@
 
 **Status:** draft  
 **Owner:** MD  
-**Last reviewed:** 2026-08-12
+**Last reviewed:** 2026-08-13
 
 ## Purpose
 
@@ -15,18 +15,21 @@ Electric/acoustic guitar, bass, keys/pads, drums/percussion, other instruments a
 ## Expectations
 
 - Personal practice before rehearsal (chart + reference + metronome/click if used)
+- **Attend the prior group rehearsal** for any service you are scheduled to serve (see [`../03-rehearsal/rehearsal-standards.md`](../03-rehearsal/rehearsal-standards.md))
 - Reliable gear in working order; backups for critical items when reasonable
 - Tune / patch / iPad charged **before** downbeat
 - Play the arrangement: leave holes, don’t fill every bar
 - Volume discipline — stage volume is a team problem, not a personal right
 - Click loyalty when click is on; recover quietly if you slip
+- **Stage video first:** use confidence monitors for lyrics/cues/charts; music stands only with MD/Tech Lead exception ([`../05-tech/lyrics-and-stage-displays.md`](../05-tech/lyrics-and-stage-displays.md))
 
 ## Preparation checklist
 
-- [ ] Chart downloaded / printed
+- [ ] Chart downloaded / printed **or** confirmed on confidence workflow
 - [ ] Patches or pedal scenes labeled per song
 - [ ] Capo / instrument changes planned
 - [ ] Know who carries motif vs pad vs groove in each section
+- [ ] Prior rehearsal on the calendar; conflicts flagged early
 
 ## Drums / MD special note
 
