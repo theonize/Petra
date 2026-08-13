@@ -10,14 +10,17 @@ Rehearsal is for **ensemble** problems — blend, transitions, tech, and feel �
 
 Group rehearsal is also how we confirm who is actually ready to **serve** the linked Sunday (or midweek service). Personal practice is assumed; attendance is not optional theater.
 
+**Band and tech rehearse together.** Production is not a Sunday-only add-on.
+
 ## Policy (must)
 
 1. Personal practice happens before group rehearsal.
-2. **Prior-rehearsal attendance:** If you are scheduled to serve a service, you must attend the **prior group rehearsal** tied to that service (normally the midweek rehearsal before that Sunday).
-3. Call time means ready: tuned, patched, mic’d, app open, water filled.
-4. Phones don’t run the room; emergency use only during runs.
-5. Notes are normal; defensiveness slows everyone down.
-6. If you will be late or absent, notify MD / Tech Lead / Worship Lead ASAP — before rehearsal starts whenever humanly possible.
+2. **Prior-rehearsal attendance:** If you are scheduled to serve a service — **band, vocals, or tech** — you must attend the **prior group rehearsal** tied to that service (normally the midweek rehearsal before that Sunday).
+3. **Rehearse production the way we serve:** **house / overhead lyrics** and **confidence monitors** run during group rehearsal, not only on Sunday.
+4. Call time means ready: tuned, patched, mic’d, app open, water filled (tech: show file/deck live, outputs verified).
+5. Phones don’t run the room; emergency use only during runs.
+6. Notes are normal; defensiveness slows everyone down.
+7. If you will be late or absent, notify MD / Tech Lead / Worship Lead ASAP — before rehearsal starts whenever humanly possible.
 
 ## Prior-rehearsal attendance (detail)
 
@@ -31,10 +34,12 @@ Accepting a schedule is accepting the rehearsal that belongs to it. Pre-service 
 
 | Role | Prior rehearsal required? |
 |---|---|
-| Band players | Yes |
-| Vocalists | Yes |
-| MD / Worship Lead (when leading that service) | Yes (or pre-cleared exception) |
-| FOH / Monitors / Media / Lights / Stream | Yes when scheduled for that service’s production |
+| Band players | **Yes** |
+| Vocalists | **Yes** |
+| MD / Worship Lead (when leading that service) | **Yes** (or pre-cleared exception) |
+| **All scheduled tech** (FOH, Monitors, Media, Lights, Stream, Stage) | **Yes** — same bar as band |
+
+Tech is not “optional if the board looks familiar.” Media especially must be present to drive slides; FOH/monitors need the rehearsal to settle gains and cues with the actual players.
 
 ### Exceptions (must be granted, not assumed)
 
@@ -45,22 +50,49 @@ Worship Lead, MD, or Tech Lead (for tech roles) may release someone when:
 - Intentional “sit in / shadow” invite that was never a full serve slot
 - Rare pastoral or operational judgment (documented in the schedule notes)
 
-Feeling underprepared after missing rehearsal is a reason to **step down**, not to wing it on platform.
+Feeling underprepared after missing rehearsal is a reason to **step down**, not to wing it on Sunday.
 
 ### What leaders do when someone is out
 
 1. Confirm whether the teammate is released or replaced.
-2. Simplify the arrangement if the cover is thin (drop parts, use tracks, reduce vocals).
+2. Simplify arrangement and/or production if the cover is thin.
 3. Do not shame in the group thread; follow up 1:1 if a pattern appears.
+
+## Slides at rehearsal (overhead + confidence)
+
+Group rehearsal uses the **same lyric system as Sunday**:
+
+| Output | At midweek rehearsal? |
+|---|---|
+| **House / overhead** | **Yes** — operator advances the real deck |
+| **Confidence monitors** | **Yes** — band/vocals rehearse eyes-up |
+| Stream / broadcast | Optional unless stream tech is training or the set is stream-critical |
+
+### Why
+
+- Media learns the real forms and cues with the MD
+- Players build muscle memory on confidence, not stands
+- Broken slides, bad breaks, and unreadable confidence get fixed **before** Sunday
+- “We’ll figure out lyrics on Sunday morning” is not a plan
+
+### Media / tech bar for rehearsal
+
+- Deck loaded to the plan before downbeat
+- House **and** confidence routed and visible
+- Operator present for musical working time (not only strike)
+- Note deck fixes before leaving
+
+Details: [`../05-tech/lyrics-and-stage-displays.md`](../05-tech/lyrics-and-stage-displays.md).
 
 ## Preparation bar
 
 | Role | Before walking in |
 |---|---|
-| Vocals | Parts learned; marked chart or confidence workflow ready |
-| Band | Changes known; patches set; ready to use **confidence monitors**, not a forest of stands |
-| FOH/Monitors | Show file staged; input list current |
-| Media | Deck ordered to plan; house + confidence outputs verified |
+| Vocals | Parts learned; ready to use confidence monitors |
+| Band | Changes known; patches set; confidence-first (not a forest of stands) |
+| FOH / Monitors | Show file staged; input list current; ready at tech call |
+| Media | Deck ordered to plan; **house + confidence** ready for rehearsal use |
+| Lights / Stream | Cue plan staged when scheduled for that service |
 
 ## Stage reading default
 
@@ -79,11 +111,13 @@ Default staging is **confidence monitors** (also called video monitors) for lyri
 - Entrances are clean
 - Loud/soft map is shared
 - Tech can execute without heroics
+- House + confidence slides tracked the set without panic
 - Team can pray without panic
-- Anyone serving Sunday was present (or formally released) at the prior rehearsal
+- Anyone serving Sunday (band **or** tech) was present (or formally released) at the prior rehearsal
 
 ## Related
 
 - [midweek-rehearsal-runbook.md](midweek-rehearsal-runbook.md)
 - [pre-service-rehearsal.md](pre-service-rehearsal.md)
 - [`../02-scheduling/scheduling-policy.md`](../02-scheduling/scheduling-policy.md)
+- [`../05-tech/lyrics-and-stage-displays.md`](../05-tech/lyrics-and-stage-displays.md)

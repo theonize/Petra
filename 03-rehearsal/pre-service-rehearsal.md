@@ -15,7 +15,7 @@ Confirm readiness and settle nerves — not rebuild the set.
 - Shorter than midweek
 - Prefer full runs and transitions over microscopic notes
 - Protect prayer and pastoral prep time
-- Run **confidence monitors** (video monitors) the way Sunday will run (stands only if already excepted)
+- Run **confidence monitors** and **house/overhead** the way Sunday will run (stands only if already excepted)
 
 ## Suggested flow
 

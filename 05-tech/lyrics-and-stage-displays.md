@@ -39,7 +39,7 @@ If someone says “video monitors,” read **confidence monitors**.
 1. **Default:** players and vocalists use **confidence monitors** (video monitors) for lyrics, section cues, and (when provided) charts.  
 2. **Music stands are not the norm.** Do not build a stand forest “just in case.”  
 3. Personal tablets on stands still count as stands if they block sightlines or become the primary posture (head down all set). Prefer confidence monitors or low-profile tablet mounts only with MD/Tech Lead OK.  
-4. Rehearse the way we serve: if Sunday is confidence-first, midweek is confidence-first.
+4. Rehearse the way we serve: **midweek uses house/overhead and confidence monitors** — not a slides-optional practice with a Sunday surprise.
 
 ### When a stand (or paper/tablet) is OK
 
@@ -66,6 +66,22 @@ Exception path — clear it with MD or Tech Lead:
 - Brightness usable under stage light without washing the room
 - Latency low enough to follow live leads
 - Backup path documented (spare output, local tablet pack, or paper master in the rack)
+- **At group rehearsal:** both **house/overhead** and **confidence** feeds live while the band works the set (see [`../03-rehearsal/rehearsal-standards.md`](../03-rehearsal/rehearsal-standards.md))
+
+---
+
+## Rehearsal use (midweek)
+
+Group rehearsal is a full lyric run, not a music-only hang.
+
+| Requirement | Detail |
+|---|---|
+| Media (or trained cover) present | Same prior-rehearsal rule as band |
+| House / overhead on | Operator advances the service deck |
+| Confidence on | Players rehearse eyes-up |
+| Fixes before Sunday | Wrong words, bad breaks, dark screens — logged and owned before leave |
+
+Stream may stay off unless the stream operator is scheduled to rehearse or the weekend is broadcast-critical.
 
 ---
 

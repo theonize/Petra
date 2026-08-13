@@ -9,6 +9,7 @@ All notable changes to Petra docs.
 - Policy: **prior group rehearsal required** to serve the linked service (rehearsal standards + scheduling)
 - New: `05-tech/lyrics-and-stage-displays.md` — **confidence monitors** (aka video monitors) default over stands; house lyric standards
 - Terminology: video monitors = confidence monitors (preferred term)
+- Tech attends prior rehearsal (same bar as band); **house + confidence slides used at practice**
 - Updated media checklist, media/band/vocalist roles, pre-service note, glossary, open questions, culture, contributing
 
 ## 2026-08-12

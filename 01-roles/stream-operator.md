@@ -2,7 +2,7 @@
 
 **Status:** draft  
 **Owner:** Tech Lead  
-**Last reviewed:** 2026-08-12
+**Last reviewed:** 2026-08-13
 
 ## Purpose
 
@@ -15,6 +15,11 @@ Deliver a stable, clear online experience that matches the in-room service as fa
 - Camera shading / switching per SOP
 - Lower-thirds and online-only graphics if used
 - Start/stop and contingency when platform fails
+
+## Attendance
+
+- **Prior group rehearsal required** when scheduled for that service — see [`../03-rehearsal/rehearsal-standards.md`](../03-rehearsal/rehearsal-standards.md)
+- Full encode may be optional at midweek; still attend to lock routing, lower-thirds, and handoffs with media/FOH unless Tech Lead releases you
 
 ## Pre-service
 

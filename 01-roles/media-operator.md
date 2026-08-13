@@ -15,10 +15,24 @@ Put the right words and visuals in front of the room (and stream) at the right t
 - Slide timing and **confidence monitor** feed
 - Basic graphic package for the service (per template)
 - Flagging when confidence is unreadable from a position
+- Running **both** house and confidence at **group rehearsal**, not only Sunday
+
+## Attendance
+
+- **Prior group rehearsal is required** when you are scheduled for that service (same rule as band) — see [`../03-rehearsal/rehearsal-standards.md`](../03-rehearsal/rehearsal-standards.md)
+- Pre-service is confirmation, not your first time on the deck for the set
 
 ## Standards
 
 Follow [`../05-tech/lyrics-and-stage-displays.md`](../05-tech/lyrics-and-stage-displays.md) (policy) and [`../05-tech/media-lyrics-checklist.md`](../05-tech/media-lyrics-checklist.md) (run checklist).
+
+## Must at midweek rehearsal
+
+- [ ] Deck matches set order and song forms (incl. tags/endings)
+- [ ] **House / overhead** output on and advancing with the MD
+- [ ] **Confidence monitors** on; readability glanced from stage
+- [ ] Wrong slides / breaks noted for fix before Sunday
+- [ ] Outputs isolated correctly (house ≠ accidental confidence-only content on the wrong screen)
 
 ## Must before service
 

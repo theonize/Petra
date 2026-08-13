@@ -6,7 +6,18 @@
 
 Full standards: [`lyrics-and-stage-displays.md`](lyrics-and-stage-displays.md).
 
-## Pre
+## Midweek rehearsal (required when scheduled)
+
+- [ ] Present for prior group rehearsal (same attendance rule as band)
+- [ ] Plan imported / order matches MD plan
+- [ ] **House / overhead** on and advancing with the set
+- [ ] **Confidence monitors** on; readable from stage
+- [ ] Song forms include tags, endings, instrumentals
+- [ ] Lyric accuracy = **sung** arrangement
+- [ ] Deck/slide fixes noted before leaving
+- [ ] Stand exceptions (if any) already cleared — default is confidence
+
+## Pre-service
 
 - [ ] Plan imported / order matches MD plan
 - [ ] Song forms include tags, endings, instrumentals
