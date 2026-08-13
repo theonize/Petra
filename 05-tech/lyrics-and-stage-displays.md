@@ -13,9 +13,10 @@
 
 ## Philosophy
 
-- Overhead lyrics are a pastoral tool: clarity beats cleverness.
+- Overhead lyrics exist so the **congregation can sing** — clarity beats cleverness.
 - Stage video is part of the instrument package, like IEMs — learn to use it.
 - A clean stage serves cameras, sightlines, and the room’s focus on worship (not gear).
+- These standards are mundane on purpose: settle them once so leaders stay free in the moment.
 
 ---
 

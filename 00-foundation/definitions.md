@@ -6,11 +6,14 @@
 
 Language shapes culture. We use plain operational words without turning Sunday into a show.
 
+**North star:** musical leadership exists to **encourage the congregation to sing**. Petra exists to hold mundane structure so artists are free to do that well — see [`mission-vision.md`](mission-vision.md) and [`scope-and-authority.md`](scope-and-authority.md).
+
 ## Framing: worship, serve, perform
 
 | Term | Meaning here |
 |---|---|
 | **Worship** | The aim of the gathering: the church responding to God (song, prayer, word, sacrament, silence). Everything the team does is in service of **corporate worship**, not a concert. |
+| **Congregational singing** | Primary success signal for the worship set — the room’s voice, not only the platform’s. |
 | **Worship set / musical worship** | The planned songs and related moments the team leads so the **congregation** can sing and respond. |
 | **Serve / serving** | Preferred operational language for being on the roster that weekend (“Who is serving Sunday?”). Emphasizes ministry and team responsibility. |
 | **On platform / scheduled** | You are assigned a role for a specific service (or rehearsal). “Platform” means visible or audible leadership space — stage, mics, consoles in the room’s workflow — not celebrity. |

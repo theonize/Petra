@@ -1,10 +1,10 @@
 # 00 — Foundation
 
-Who we are and what will not be compromised for convenience.
+Who we are, why we lead, and what will not be compromised for convenience.
 
 | Doc | Summary |
 |---|---|
-| [mission-vision.md](mission-vision.md) | Why this team exists |
-| [values.md](values.md) | Operating values |
-| [scope-and-authority.md](scope-and-authority.md) | What Petra governs; who decides |
+| [mission-vision.md](mission-vision.md) | Congregation sings; why this team exists |
+| [values.md](values.md) | Operating values (incl. framework frees the artist) |
+| [scope-and-authority.md](scope-and-authority.md) | Petra = mundane framework; who decides |
 | [definitions.md](definitions.md) | Shared language |

@@ -6,10 +6,17 @@ Worship team runbook — policies, procedures, and operating norms for musicians
 
 ## Purpose
 
-Petra is the single source of truth for how this worship ministry runs day to day. It is meant to be:
+Petra holds the **mundane framework** — the repeatable decisions about how we schedule, rehearse, patch, project lyrics, and care for people and gear — so artists and tech are **free** to lead worship.
+
+The intent of that leadership is simple and non-negotiable:
+
+**Encourage the congregation to sing.**
+
+Petra is meant to be:
 
 - **Clear** — new teammates can find what “good” looks like
 - **Practical** — checklists and templates, not only ideals
+- **Freeing** — process removes friction; it does not replace artistry or the Spirit
 - **Living** — revised when practice teaches us something better
 - **Pastoral** — excellence in service of people and the presence of God, not performance for its own sake
 
@@ -46,7 +53,8 @@ Each policy page should carry a status near the top:
 1. Prefer small, focused PRs or commits (one procedure or one role at a time).
 2. Write for the person who will actually do the job at 7:45am on Sunday.
 3. Separate **policy** (non-negotiables) from **procedure** (how we usually do it) from **preference** (style notes).
-4. When practice diverges from the doc, update the doc — or intentionally change the practice.
+4. Prefer rules that **free the room to sing** and **free the artist to lead** — cut pages that only add control.
+5. When practice diverges from the doc, update the doc — or intentionally change the practice.
 
 See [`CONTRIBUTING.md`](CONTRIBUTING.md).
 

@@ -2,11 +2,13 @@
 
 **Status:** draft  
 **Owner:** Tech Lead  
-**Last reviewed:** 2026-08-12
+**Last reviewed:** 2026-08-13
 
 ## Philosophy
 
-Technology is successful when nobody talks about it afterward — except to say they could hear and see clearly.
+Technology is successful when nobody talks about it afterward — except to say they could hear and see clearly enough to **sing**.
+
+Tech exists to clear friction for worship leaders and the room (same reason Petra exists): settle the mundane so presence is possible.
 
 ## Priorities
 

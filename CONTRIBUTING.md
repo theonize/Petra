@@ -5,7 +5,9 @@
 1. **Serve the teammate on the clock.** Prefer checklists, times, owners, and “done looks like.”
 2. **Name the owner.** Every recurring process should have a primary role responsible.
 3. **Defaults over doctrine.** Capture what we do unless leadership decides otherwise.
-4. **Change in the open.** Material changes to `active` policies should be discussed before merge when possible.
+4. **Mundane framework, artistic freedom.** Document repeatable logistics so artists are free in the room; do not script the Spirit or micromanage craft.
+5. **Congregation sings.** Prefer guidance that helps the room’s voice over guidance that only polishes the platform.
+6. **Change in the open.** Material changes to `active` policies should be discussed before merge when possible.
 
 ## What belongs where
 
