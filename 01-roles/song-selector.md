@@ -2,7 +2,7 @@
 
 **Status:** draft  
 **Owner:** Worship Lead  
-**Last reviewed:** 2026-08-13
+**Last reviewed:** 2026-08-17
 
 ## Purpose
 
@@ -32,9 +32,12 @@ One person may be Song Selector **and** MD or Worship Lead; when combined, still
 
 | Lens | Question |
 |---|---|
-| Truth | Do the lyrics say what we mean, clearly? |
-| Singability | Can *this* room sing it without a concert vocal? |
-| Pastoral fit | Does it serve the Word and the moment of the gathering? |
+| Theology | Is every claim biblically defensible? |
+| Corporate intent | Is this meant for the gathered church to sing together? |
+| Ownership | Can the gathered body truthfully own the words? |
+| Singability | Can *this* room sing the melody, rhythm, range, repetition, and phrasing without a concert vocal? |
+| Christian confession | Is its Christian meaning clear without a private reinterpretation? |
+| Pastoral use | What work of worship and formation does it help the church do? |
 | Diet | Are we over-indexing on new, slow, high, or band-flex songs? |
 | Team reality | Can this week’s roster and tech actually deliver it well? |
 | Continuity | What is familiar enough that the congregation leads themselves? |
@@ -53,6 +56,8 @@ Primary success signal remains **congregational singing** — see [`../00-founda
 ## Must before the MD locks rehearsal materials
 
 - [ ] Song list published for the service (titles clear)
+- [ ] Every title is approved under the song-selection policy and recorded in the rolling repertoire register
+- [ ] At least one song carries over from the preceding week, or the Worship Lead exception is noted
 - [ ] New-to-us songs flagged with teach intent
 - [ ] Rough flow notes (opener energy, response moment, closer) if not using a full planner doc
 - [ ] Known landmines called out (range, complex form, sensitive lyric)
@@ -69,7 +74,9 @@ Primary success signal remains **congregational singing** — see [`../00-founda
 
 ## Related
 
+- [`../06-music-library/song-selection-policy.md`](../06-music-library/song-selection-policy.md)
 - [`../06-music-library/song-lifecycle.md`](../06-music-library/song-lifecycle.md)
+- [`../10-templates/annual-song-repertoire.md`](../10-templates/annual-song-repertoire.md)
 - [`../06-music-library/charts-keys-tempos.md`](../06-music-library/charts-keys-tempos.md)
 - [music-director.md](music-director.md)
 - [worship-lead.md](worship-lead.md)

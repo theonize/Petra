@@ -2,6 +2,17 @@
 
 All notable changes to Petra docs.
 
+## 2026-08-17
+
+- Defined six core song criteria: biblically defensible theology, corporate-worship intent, congregational ownership, congregational singability, clear Christian confession, and pastoral usefulness
+- Added the core criteria to the Song Selector lens, song lifecycle, annual new-song gate, and per-service setlist check
+
+## 2026-08-14
+
+- New baseline sermon/team study: `00-foundation/freedom-in-form-study.md` — Jacob, Levitical service, Ephesians 5, and freedom through ordered service and corporate orthodoxy
+- New draft song-selection policy: 50-title rolling annual ceiling; no secular/generic love songs or first-person-God songs; week-to-week carryover; doctrinal, congregational, and new-song gates
+- New annual repertoire register; updated Song Selector, song lifecycle, music-library index, and setlist worksheet
+
 ## 2026-08-13
 
 - Foundation intent: **congregation sings**; Petra = **mundane framework that frees the artist**

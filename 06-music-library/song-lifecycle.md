@@ -2,7 +2,7 @@
 
 **Status:** draft  
 **Owner:** Song Selector + Worship Lead + MD  
-**Last reviewed:** 2026-08-13
+**Last reviewed:** 2026-08-17
 
 ## Stages
 
@@ -23,18 +23,22 @@
 
 ## Intake criteria (discussion starters)
 
-- Lyric truthfulness and clarity
-- Singability for *this* congregation
+- Compliance with all six core criteria in [`song-selection-policy.md`](song-selection-policy.md): biblically defensible theology, corporate-worship intent, congregational ownership and singability, clear Christian confession, and pastoral usefulness
+- Compliance with the policy's content boundaries and 50-title rolling ceiling
 - Band/tech complexity vs available volunteers
 - Overlap with songs already in rotation
 - Pastoral season fit
 
 ## Introducing a new song
 
+- Name what repertoire function the song adds and record it in the annual register
 - Teach strategy agreed (call-and-response, melody first, etc.) — Song Selector + MD
 - Charts + lyrics deck ready before first full-band week — MD + Media
+- Plan approximately three outings within six to eight weeks; repeat the following week when suitable
 - Evaluate after 2–3 outings: keep, rework, or rest
 
 ## Related
 
+- [`song-selection-policy.md`](song-selection-policy.md)
 - [`../01-roles/song-selector.md`](../01-roles/song-selector.md)
+- [`../10-templates/annual-song-repertoire.md`](../10-templates/annual-song-repertoire.md)
