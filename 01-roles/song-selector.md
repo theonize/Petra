@@ -13,6 +13,7 @@ The Song Selector curates **what** we sing and **why**. The MD owns **how** it i
 ## Owns
 
 - Draft setlists / song menus for upcoming services (or a planning horizon)
+- Publish the fixed set by the team’s chosen weekly day/time so every other role can prepare from one plan
 - Alignment with sermon series, liturgical calendar, and pastoral direction
 - Congregational diet: new vs known, tempo arc, key range for the room
 - Flagging songs that need teach strategy, rest, or retirement
@@ -49,13 +50,14 @@ Primary success signal remains **congregational singing** — see [`../00-founda
 1. Pull series notes / calendar / pastoral themes  
 2. Draft set (or short menu of options) with intentional arc  
 3. Review with Worship Lead (and pastor liaison when needed)  
-4. Hand off to MD for keys, forms, charts, tracks  
+4. Publish/fix the set by **[team-chosen day/time: ____________________]** and hand off to MD for keys, forms, charts, tracks
 5. Confirm Media has titles for lyric prep early enough to build the deck  
 6. After Sunday: quick note — keep, rework teach, or rest  
 
 ## Must before the MD locks rehearsal materials
 
 - [ ] Song list published for the service (titles clear)
+- [ ] Song list published by the agreed weekly set-fix deadline
 - [ ] Every title is approved under the song-selection policy and recorded in the rolling repertoire register
 - [ ] At least one song carries over from the preceding week, or the Worship Lead exception is noted
 - [ ] New-to-us songs flagged with teach intent

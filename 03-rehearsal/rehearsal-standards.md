@@ -2,7 +2,7 @@
 
 **Status:** draft  
 **Owner:** MD + Tech Lead + Worship Lead  
-**Last reviewed:** 2026-08-13
+**Last reviewed:** 2026-08-17
 
 ## Purpose
 
@@ -21,6 +21,7 @@ Group rehearsal is also how we confirm who is actually ready to **serve** the li
 5. Phones don’t run the room; emergency use only during runs.
 6. Notes are normal; defensiveness slows everyone down.
 7. If you will be late or absent, notify MD / Tech Lead / Worship Lead ASAP — before rehearsal starts whenever humanly possible.
+8. The Song Selector publishes the fixed set by the team’s chosen weekly deadline. Everyone prepares from that plan. Rehearsal may amend keys, forms, arrangements, cues, and production elements; wholesale song replacement is an exception led by the Song Selector / Worship Lead.
 
 ## Prior-rehearsal attendance (detail)
 
@@ -94,6 +95,8 @@ Details: [`../05-tech/lyrics-and-stage-displays.md`](../05-tech/lyrics-and-stage
 | Media | Deck ordered to plan; **house + confidence** ready for rehearsal use |
 | Lights / Stream | Cue plan staged when scheduled for that service |
 
+Use the simple role-by-role guide in [`midweek-rehearsal-runbook.md`](midweek-rehearsal-runbook.md). Local teams fill in both a **present-by** time and a later **ready-to-practice** time; readiness, not merely entering the building, is the standard.
+
 ## Stage reading default
 
 Default staging is **confidence monitors** (also called video monitors) for lyrics/cues and charts where provided, rather than music stands. Stands are exception-only — see [`../05-tech/lyrics-and-stage-displays.md`](../05-tech/lyrics-and-stage-displays.md).
@@ -108,6 +111,7 @@ Default staging is **confidence monitors** (also called video monitors) for lyri
 ## What “rehearsed enough” means
 
 - Forms are stable
+- Key, range, tempo, and arrangement are reachable for the congregation, not only the platform lead
 - Entrances are clean
 - Loud/soft map is shared
 - Tech can execute without heroics
