@@ -3,8 +3,10 @@
 **Date:**  
 **MD:**  
 **Tech lead:**  
-**Call time:**  
-**Downbeat:**  
+**Linked service:**
+**Set fixed by:**
+**Present by:**
+**Ready to practice by:**
 **End:**  
 
 ## Goals tonight
@@ -25,6 +27,23 @@
 ## Tech needs
 
 - 
+
+## Attendance at ready-to-practice time
+
+| Person / role | Present + ready / late or not ready / released / covered |
+|---|---|
+| | |
+
+## Agreed amendments to the set
+
+| Element | Amendment | Materials to update | Owner |
+|---|---|---|---|
+| | | | |
+
+## Congregational reachability
+
+- [ ] Keys and ranges work for the congregation
+- [ ] Tempos, phrasing, and arrangements leave room for the congregation to sing
 
 ## Action items before Sunday
 
