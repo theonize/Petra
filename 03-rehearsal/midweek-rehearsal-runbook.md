@@ -11,12 +11,12 @@ Keep this runbook generic; each team fills in its actual rhythm:
 - **Set fixed by:** ____________________ (day/time)
 - **Rehearsal day:** ____________________
 - **Present by:** ____________________
-- **Ready to practice by:** ____________________
-- **Practice ends:** ____________________
+- **Ready to rehearse by:** ____________________
+- **Rehearsal ends:** ____________________
 - **Location / access notes:** ____________________
 - **Official plan / communication tool:** ____________________
 
-**Practice is mandatory for everyone scheduled to serve the linked service.** “Present” means in the building. “Ready to practice” means at your position with your personal preparation and required equipment complete.
+**Rehearsal is mandatory for everyone scheduled to serve the linked service.** “Present” means in the building. “Ready to rehearse” means at your position with your personal preparation and required equipment complete.
 
 ## Before rehearsal: simple readiness guide
 
@@ -33,14 +33,14 @@ The set is fixed by the team’s chosen deadline. The **Song Selector** is respo
 | Media | Service plan imported; house and confidence content matches the fixed set and known forms |
 | Lights / Stream | Service plan and required cues/scenes prepared for the systems being used |
 
-If an item is not ready, tell the MD or Tech Lead **before** the ready-to-practice time so the plan can be simplified.
+If an item is not ready, tell the MD or Tech Lead **before** the ready-to-rehearse time so the plan can be simplified.
 
 ## Default timeline
 
 | Time | Block | Owner |
 |---|---|---|
 | T-0:15 | Tech open / line check; **house + confidence** up | Tech (all scheduled) |
-| T-0:00 | Ready-to-practice time — band on stage, tech at positions | All (band **and** tech) |
+| T-0:00 | Ready-to-rehearse time — band on stage, tech at positions | All (band **and** tech) |
 | T+0:10 | Devotions / frame the night (short) | Worship Lead or MD |
 | T+0:15 | Priority song 1 (hardest or opener) — slides live | MD + Media |
 | … | Work list by difficulty / transition risk | MD |
@@ -71,7 +71,7 @@ During each song, test whether the congregation can reasonably sing it. Confirm 
 - Capture input list **and** slide/deck fixes before leaving
 - Confirm confidence readability from key stage positions during at least one full song
 
-## Slides at practice (must)
+## Slides at rehearsal (must)
 
 | Feed | Rehearsal expectation |
 |---|---|
@@ -85,9 +85,9 @@ Do not “save the real slides for Sunday.” Rehearsal is where timing and form
 
 This midweek block is the default **prior rehearsal** for the linked Sunday — **musicians and tech**. Who is present (or formally released) is who leaders plan to put on the roster — see [`rehearsal-standards.md`](rehearsal-standards.md).
 
-At the ready-to-practice time, record each scheduled person as **present and ready**, **late/not ready**, **formally released**, or **covered by a confirmed substitute**. Being in the building but not ready does not satisfy the ready-to-practice time.
+At the ready-to-rehearse time, record each scheduled person as **present and ready**, **late/not ready**, **formally released**, or **covered by a confirmed substitute**. Being in the building but not ready does not satisfy the ready-to-rehearse time.
 
-## Amend the set as you practice
+## Amend the set as you rehearse
 
 One purpose of rehearsal is to correct and complete the service plan. Record agreed amendments to:
 

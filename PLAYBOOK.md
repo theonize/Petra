@@ -1,0 +1,51 @@
+# The Playbook on One Page
+
+Everything in Petra serves one sentence:
+
+> **Encourage the congregation to sing.**
+
+Petra settles the mundane — schedules, charts, patches, slides — so artists and tech are free to lead worship. When a page and that sentence conflict, the sentence wins.
+
+## Five habits that make it work
+
+1. **Sunday starts midweek.** Personal practice before rehearsal; group rehearsal before the service.
+2. **No prior rehearsal → no serve** (default). Accepting a slot includes the rehearsal tied to it — band, vocals, and tech alike.
+3. **Rehearse the way we serve.** House lyrics and confidence monitors run at midweek rehearsal, not only Sunday.
+4. **One plan, published early.** The Song Selector fixes the set by the team’s weekly deadline; everyone prepares from that plan.
+5. **Eyes up.** Confidence monitors are the default; music stands are the exception.
+
+## Every role in one line
+
+| Role | In one line |
+|---|---|
+| [Worship Lead](01-roles/worship-lead.md) | Spiritual and operational owner of the ministry |
+| [Song Selector](01-roles/song-selector.md) | Chooses **what** we sing and why; hands the set to the MD |
+| [Music Director (MD)](01-roles/music-director.md) | Owns **how** it is played — keys, forms, charts, rehearsal |
+| [Vocalist](01-roles/vocalist.md) | Leads congregational melody with blend and presence |
+| [Band musician](01-roles/band-musician.md) | Rhythmic and harmonic foundation that serves the song |
+| [Tech Lead](01-roles/tech-lead.md) | Owns production standards and tech roster health |
+| [FOH Engineer](01-roles/foh-engineer.md) | The congregation’s mix — lead vocal and lyric first |
+| [Monitor Engineer](01-roles/monitor-engineer.md) | What the stage hears, without wrecking stage volume |
+| [Media / Lyrics](01-roles/media-operator.md) | Right words on the right screens at the right time |
+| [Lighting](01-roles/lighting-operator.md) | Focus and mood without distraction |
+| [Stream / Broadcast](01-roles/stream-operator.md) | A stable, clear online service |
+| [Stage / Logistics](01-roles/stage-logistics.md) | A safe, ready platform — plots, cables, spares |
+
+One person may wear several hats in a week; each hat’s must-dos still apply.
+
+## The week at a glance
+
+1. **Set fixed** by the team deadline (Song Selector) → keys, forms, and charts published (MD)
+2. **Midweek rehearsal** — everyone serving Sunday, full production path (house + confidence live)
+3. **Fixes land before Sunday** — charts, decks, cues, gear
+4. **Pre-service run-through** confirms readiness; freeze time ends experiments
+5. **Service** — the room sings; tech stays invisible
+6. **Strike + notes** — people first, then process
+
+## When something breaks
+
+People safety first; preserve the moment second; communicate once on a known channel. See [incidents & contingencies](04-service/incidents-and-contingencies.md).
+
+## Finding anything else
+
+The [README](README.md) routes by need; every folder’s `README.md` lists its pages.

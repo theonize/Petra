@@ -56,8 +56,7 @@ Primary success signal remains **congregational singing** — see [`../00-founda
 
 ## Must before the MD locks rehearsal materials
 
-- [ ] Song list published for the service (titles clear)
-- [ ] Song list published by the agreed weekly set-fix deadline
+- [ ] Song list (titles clear) published by the agreed weekly set-fix deadline
 - [ ] Every title is approved under the song-selection policy and recorded in the rolling repertoire register
 - [ ] At least one song carries over from the preceding week, or the Worship Lead exception is noted
 - [ ] New-to-us songs flagged with teach intent

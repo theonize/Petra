@@ -6,7 +6,7 @@
 
 ## Pre
 
-- [ ] Destination / title / thumb correct
+- [ ] Destination / title / thumbnail correct
 - [ ] Audio source confirmed (broadcast mix vs house matrix)
 - [ ] Cameras powered; framing presets
 - [ ] Recording path has disk space

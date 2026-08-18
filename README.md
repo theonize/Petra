@@ -20,6 +20,8 @@ Petra is meant to be:
 - **Living** — revised when practice teaches us something better
 - **Pastoral** — excellence in service of people and the presence of God, not performance for its own sake
 
+**Short on time?** Read [the playbook on one page](PLAYBOOK.md).
+
 ## How to use this repo
 
 | If you need… | Start here |

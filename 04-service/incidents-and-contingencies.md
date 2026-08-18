@@ -16,7 +16,7 @@
 |---|---|---|
 | Lead vocal mic dies | Swap spare / channel; MD keeps singing if handheld available | Stage + FOH |
 | Click/tracks die | MD counts band in; drop to live arrangement | MD + playback owner |
-| Lyrics freeze | Holding slide / confident lead vocal; reboot backup | Media |
+| Lyrics freeze | Holding slide; lead vocal carries; switch to or reboot backup | Media |
 | Stream drop | In-room continues; restart encoder when safe | Stream |
 | Power blip | Stay calm; follow power-on SOP; pastoral cover | Tech Lead |
 | Medical in room | Stop if needed; ushers/security/medical lead; band silence | Platform lead |

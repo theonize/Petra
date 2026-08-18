@@ -20,7 +20,7 @@
 
 ## Owners during service
 
-| Domain | Primary | Backup cue |
+| Domain | Primary | Backup |
 |---|---|---|
 | Musical calls | MD / platform lead | Worship Lead |
 | House mix | FOH | Tech Lead |

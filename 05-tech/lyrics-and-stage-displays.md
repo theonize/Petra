@@ -99,7 +99,7 @@ Stream may stay off unless the stream operator is scheduled to rehearse or the w
 | Standard | Guidance |
 |---|---|
 | Lines per slide | Typically **2–4** short lines; avoid walls of text |
-| Line breaks | Break on musical / lyrical phrases, not mid-prepositional pileups |
+| Line breaks | Break on musical / lyrical phrases, never mid-phrase |
 | Orphans | No single dangling word on its own slide when avoidable |
 | Section awareness | Build separate slides for V/PC/C/B/Tag/Ending as actually sung; repeats explicit in operator notes |
 | Spontaneous / empty | Safe holding slide and a known spontaneous folder; never scramble random verses |

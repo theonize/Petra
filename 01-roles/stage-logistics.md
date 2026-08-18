@@ -8,6 +8,10 @@
 
 Make the platform safe, clear, and ready — instruments, mics, stands, stools, and traffic paths.
 
+## Attendance
+
+- **Prior group rehearsal required** when scheduled for that service — see [`../03-rehearsal/rehearsal-standards.md`](../03-rehearsal/rehearsal-standards.md)
+
 ## Owns
 
 - Stage plot execution

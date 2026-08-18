@@ -17,11 +17,11 @@ Confirm readiness and settle nerves — not rebuild the set.
 - Protect prayer and pastoral prep time
 - Run **confidence monitors** and **house/overhead** the way Sunday will run (stands only if already excepted)
 
-## Fill in the local performance clock
+## Fill in the local Sunday clock
 
 - **Present by:** ____________________
-- **Ready for pre-service practice by:** ____________________
-- **Ready to perform by:** ____________________
+- **Ready for run-through by:** ____________________
+- **Service-ready by:** ____________________
 - **Service starts:** ____________________
 - **Freeze time:** ____________________
 - **Location / access notes:** ____________________
@@ -29,12 +29,12 @@ Confirm readiness and settle nerves — not rebuild the set.
 These are distinct commitments:
 
 - **Present** — in the building.
-- **Ready for pre-service practice** — at your position, personally prepared, patched, tuned, and able to begin.
-- **Ready to perform** — pre-service checks complete; final clothing, equipment, water, and position settled.
+- **Ready for run-through** — at your position, personally prepared, patched, tuned, and able to begin.
+- **Service-ready** — pre-service checks complete; final clothing, equipment, water, and position settled.
 
-## Before performance: simple readiness guide
+## Before the service: simple readiness guide
 
-| Role | Ready-to-perform check |
+| Role | Service-ready check |
 |---|---|
 | Worship Lead / MD | Final plan and cues known; congregation-friendly keys/forms confirmed; fallback calls clear |
 | Band | Tuned; patches and charts/backups ready; IEM/monitor settled; instrument safe and quiet |
@@ -52,7 +52,7 @@ These are distinct commitments:
 3. Problem spots only (max 1–2)
 4. Opener + one transition-heavy moment
 5. Vocal blend pass if needed
-6. Platforms quiet for doors / countdown per church norm
+6. Platform quiet for doors / countdown per church norm
 7. Team prayer
 
 ## Freeze time

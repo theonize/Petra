@@ -95,7 +95,7 @@ Details: [`../05-tech/lyrics-and-stage-displays.md`](../05-tech/lyrics-and-stage
 | Media | Deck ordered to plan; **house + confidence** ready for rehearsal use |
 | Lights / Stream | Cue plan staged when scheduled for that service |
 
-Use the simple role-by-role guide in [`midweek-rehearsal-runbook.md`](midweek-rehearsal-runbook.md). Local teams fill in both a **present-by** time and a later **ready-to-practice** time; readiness, not merely entering the building, is the standard.
+Use the simple role-by-role guide in [`midweek-rehearsal-runbook.md`](midweek-rehearsal-runbook.md). Local teams fill in both a **present-by** time and a later **ready-to-rehearse** time; readiness, not merely entering the building, is the standard.
 
 ## Stage reading default
 
@@ -116,7 +116,7 @@ Default staging is **confidence monitors** (also called video monitors) for lyri
 - Loud/soft map is shared
 - Tech can execute without heroics
 - House + confidence slides tracked the set without panic
-- Team can pray without panic
+- Team ends with margin to pray
 - Anyone serving Sunday (band **or** tech) was present (or formally released) at the prior rehearsal
 
 ## Related

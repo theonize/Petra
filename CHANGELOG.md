@@ -2,6 +2,15 @@
 
 All notable changes to Petra docs.
 
+## 2026-08-18
+
+- New `PLAYBOOK.md` — the playbook on one page: north star, five habits, every role in one line, the week at a glance
+- Terminology aligned with definitions: group time is **rehearsal** (practice is personal); pre-service clock renamed to **ready for run-through** / **service-ready**
+- Role index now carries one-line summaries; Service Planner noted as a hat, not a separate charter
+- Stage/Logistics charter gains the same prior-rehearsal attendance line as other tech roles
+- Wardrobe guidelines linked from platform etiquette and vocalist charter; annual repertoire register listed in templates index
+- Small wording cleanups across checklists and charters (no policy changes)
+
 ## 2026-08-17
 
 - Defined six core song criteria: biblically defensible theology, corporate-worship intent, congregational ownership, congregational singability, clear Christian confession, and pastoral usefulness

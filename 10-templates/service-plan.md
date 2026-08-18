@@ -35,7 +35,7 @@
 
 ## Call times
 
-| Role group | Present by | Ready for pre-service practice | Ready to perform |
+| Role group | Present by | Ready for run-through | Service-ready |
 |---|---|---|---|
 | Tech | | | |
 | Band | | | |
