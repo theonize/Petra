@@ -2,7 +2,7 @@
 
 **Status:** draft  
 **Owner:** MD + Tech Lead  
-**Last reviewed:** 2026-08-17
+**Last reviewed:** 2026-08-18
 
 ## Fill in the local rhythm
 
@@ -42,8 +42,9 @@ If an item is not ready, tell the MD or Tech Lead **before** the ready-to-rehear
 | T-0:15 | Tech open / line check; **house + confidence** up | Tech (all scheduled) |
 | T-0:00 | Ready-to-rehearse time — band on stage, tech at positions | All (band **and** tech) |
 | T+0:10 | Devotions / frame the night (short) | Worship Lead or MD |
-| T+0:15 | Priority song 1 (hardest or opener) — slides live | MD + Media |
-| … | Work list by difficulty / transition risk | MD |
+| T+0:15 | Review the last performance: celebrate wins, identify a few concrete fixes | MD + Tech Lead |
+| T+0:25 | Warm-up: one easy song or a focused musical/technical exercise | MD + Tech |
+| … | Work every part of the set **and each transition between parts** — slides and production live | MD + Tech |
 | T+1:20 | Full set run (or partial if time) — full production path | MD + Tech |
 | T+1:40 | Notes + prayer | MD / Worship Lead / Tech Lead |
 | T+1:50 | Strike / reset as needed | All |
@@ -54,12 +55,13 @@ If an item is not ready, tell the MD or Tech Lead **before** the ready-to-rehear
 - **Every tech** scheduled for the linked service (FOH, monitors, media, lights, stream as rostered)
 - Same attendance rule: no prior rehearsal → default do not serve ([`rehearsal-standards.md`](rehearsal-standards.md))
 
-## MD working order (suggested)
+## Core rehearsal flow
 
-1. Songs with new forms or tracks  
-2. Multi-song transitions  
-3. Vocal stack polish  
-4. Comfort songs last  
+1. **Review the last performance.** Briefly name what served the congregation well, what did not, and which lessons apply to this set. Keep the review concrete and forward-looking rather than replaying every note.
+2. **Warm up.** Use an easy song or a focused exercise that prepares the team to listen, blend, follow cues, and operate the production path together.
+3. **Work each part of the set.** Rehearse every song and other planned element, prioritizing difficult forms, tracks, vocal stacks, cues, and production needs without leaving familiar material assumed.
+4. **Work every transition.** Rehearse the handoff into and out of each part: count-ins, endings, key or patch changes, spoken cues, prayers/readings, track starts, slide changes, lighting cues, and silence. A set is not complete merely because its songs work in isolation.
+5. **Run the set in sequence.** Use the full production path when possible, then revisit any failure points.
 
 During each song, test whether the congregation can reasonably sing it. Confirm that the **key, range, tempo, phrasing, and arrangement** help the room participate rather than merely fitting the platform lead. Change the key or simplify the arrangement when needed.
 
@@ -102,6 +104,8 @@ Before leaving, the MD and Tech Lead make sure the current plan and affected mat
 ## End state
 
 - [ ] Open issues listed (who owns overnight fixes)
+- [ ] Lessons from the last performance reviewed and applied
+- [ ] Every set part and every transition rehearsed
 - [ ] Agreed set amendments captured in the plan, charts/tracks, and production materials
 - [ ] Keys and arrangements confirmed as congregationally reachable
 - [ ] Deck/slide fixes captured for Media

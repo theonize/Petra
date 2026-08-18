@@ -2,7 +2,7 @@
 
 **Status:** draft  
 **Owner:** MD + Tech Lead + Worship Lead  
-**Last reviewed:** 2026-08-17
+**Last reviewed:** 2026-08-18
 
 ## Purpose
 
@@ -22,6 +22,7 @@ Group rehearsal is also how we confirm who is actually ready to **serve** the li
 6. Notes are normal; defensiveness slows everyone down.
 7. If you will be late or absent, notify MD / Tech Lead / Worship Lead ASAP — before rehearsal starts whenever humanly possible.
 8. The Song Selector publishes the fixed set by the team’s chosen weekly deadline. Everyone prepares from that plan. Rehearsal may amend keys, forms, arrangements, cues, and production elements; wholesale song replacement is an exception led by the Song Selector / Worship Lead.
+9. The normal group-rehearsal flow is: review the last performance, warm up with an easy song or focused exercise, work every part of the set, rehearse every transition between those parts, and run the set in sequence.
 
 ## Prior-rehearsal attendance (detail)
 
@@ -111,6 +112,7 @@ Default staging is **confidence monitors** (also called video monitors) for lyri
 ## What “rehearsed enough” means
 
 - Forms are stable
+- Every planned part and the transition into the next part have been rehearsed
 - Key, range, tempo, and arrangement are reachable for the congregation, not only the platform lead
 - Entrances are clean
 - Loud/soft map is shared
