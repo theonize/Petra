@@ -31,6 +31,6 @@ Electric/acoustic guitar, bass, keys/pads, drums/percussion, other instruments a
 - [ ] Know who carries motif vs pad vs groove in each section
 - [ ] Prior rehearsal on the calendar; conflicts flagged early
 
-## Drums / MD special note
+## Drummer’s note
 
-If drums are musical captain for tempo feel, lock with MD and any tracks before debating fills.
+When drums captain the tempo and feel, lock in with the MD and any tracks before debating fills.

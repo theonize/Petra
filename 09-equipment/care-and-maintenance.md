@@ -17,4 +17,4 @@
 ## Hearing
 
 - Stage volume conversations are maintenance of people, not just taste
-- Offer attenuation options (drums shields, IEMs, etc.) as budget allows
+- Offer attenuation options (drum shields, IEMs, etc.) as budget allows

@@ -6,7 +6,7 @@
 **Linked service:**
 **Set fixed by:**
 **Present by:**
-**Ready to practice by:**
+**Ready to rehearse by:**
 **End:**  
 
 ## Goals tonight
@@ -28,7 +28,7 @@
 
 - 
 
-## Attendance at ready-to-practice time
+## Attendance at ready-to-rehearse time
 
 | Person / role | Present + ready / late or not ready / released / covered |
 |---|---|

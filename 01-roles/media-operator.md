@@ -32,7 +32,7 @@ Follow [`../05-tech/lyrics-and-stage-displays.md`](../05-tech/lyrics-and-stage-d
 - [ ] **House / overhead** output on and advancing with the MD
 - [ ] **Confidence monitors** on; readability glanced from stage
 - [ ] Wrong slides / breaks noted for fix before Sunday
-- [ ] Outputs isolated correctly (house ≠ accidental confidence-only content on the wrong screen)
+- [ ] Outputs isolated correctly (confidence-only content never lands on house)
 
 ## Must before service
 
@@ -42,7 +42,7 @@ Follow [`../05-tech/lyrics-and-stage-displays.md`](../05-tech/lyrics-and-stage-d
 - [ ] Confidence shows lyrics + section cues; checked from stage when possible
 - [ ] Spontaneous song library accessible if used
 - [ ] Backup: second machine or export per SOP
-- [ ] Outputs isolated correctly (house ≠ accidental confidence content)
+- [ ] Outputs isolated correctly (confidence-only content never lands on house)
 
 ## During
 

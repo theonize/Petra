@@ -14,7 +14,7 @@
 
 ## Clothing & appearance
 
-Follow the team’s published wardrobe guide (**TBD link**). Default: neat, non-distracting, camera-aware.
+Follow the [wardrobe guidelines](../08-culture-care/wardrobe-guidelines.md). Default: neat, non-distracting, camera-aware.
 
 ## Microphones
 

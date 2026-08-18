@@ -6,6 +6,7 @@ Copy these into the planning tool or print as needed. Keep master copies here.
 |---|---|
 | [service-plan.md](service-plan.md) | Order of service skeleton |
 | [setlist-worksheet.md](setlist-worksheet.md) | Musical plan |
+| [annual-song-repertoire.md](annual-song-repertoire.md) | Rolling 50-title register + new-song gate |
 | [input-list.csv](input-list.csv) | Starter input list |
 | [rehearsal-agenda.md](rehearsal-agenda.md) | Midweek agenda |
 | [incident-log.md](incident-log.md) | After-action note |
