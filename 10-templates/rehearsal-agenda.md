@@ -15,14 +15,29 @@
 2.  
 3.  
 
+## Review the last performance
+
+- What served the congregation well:
+- What needs correction:
+- Lesson(s) to apply tonight:
+
+## Warm-up
+
+- Easy song or focused exercise:
+- Listening / blend / cue / production focus:
+
 ## Work order
 
-| Priority | Song / item | Focus | Time box |
-|---|---|---|---|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | Full run | | |
+Include **every part of the set and every transition between parts**, even when the focus or time box is brief.
+
+| Order | Song / item / transition | Focus | Time box | Worked? |
+|---|---|---|---|---|
+| 1 | | | | [ ] |
+| 2 | Transition: ____ → ____ | | | [ ] |
+| 3 | | | | [ ] |
+| 4 | Transition: ____ → ____ | | | [ ] |
+| … | | | | [ ] |
+| Last | Full run in sequence | Full production path | | [ ] |
 
 ## Tech needs
 

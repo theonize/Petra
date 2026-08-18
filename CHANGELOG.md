@@ -10,6 +10,8 @@ All notable changes to Petra docs.
 - Stage/Logistics charter gains the same prior-rehearsal attendance line as other tech roles
 - Wardrobe guidelines linked from platform etiquette and vocalist charter; annual repertoire register listed in templates index
 - Small wording cleanups across checklists and charters (no policy changes)
+- Established the general rehearsal flow: review the last performance, warm up, work every part of the set, explicitly rehearse every transition, and run the set in sequence
+- Updated the midweek runbook, rehearsal standards, and rehearsal-agenda template to make the flow actionable
 
 ## 2026-08-17
 
