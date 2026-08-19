@@ -11,7 +11,8 @@ Petra is a **framework for the mundane**.
 
 Call times, swaps, input lists, lyric routing, rehearsal attendance, gear care — the repeatable stuff — lives here on purpose. When those decisions are already made, **artists and tech are free** to focus on leading worship and helping the congregation sing.
 
-Petra is not a creative straitjacket. If a page starts micromanaging artistry instead of clearing the runway, rewrite the page.
+Petra is not a box, it is a skeleton.
+If a page starts micromanaging artistry instead of clearing the runway, rewrite the page.
 
 ## What Petra governs
 
@@ -24,7 +25,7 @@ Petra is not a creative straitjacket. If a page starts micromanaging artistry in
 - Onboarding paths for band and tech volunteers
 - Shared language (so we stop re-arguing definitions every week)
 
-## What Petra does not govern (unless linked)
+## What Petra does not govern
 
 - Full church employee handbook / HR
 - Facility master calendar owned by other ministries
