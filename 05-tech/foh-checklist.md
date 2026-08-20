@@ -1,8 +1,6 @@
 # FOH Checklist
 
-**Status:** draft  
 **Owner:** FOH / Tech Lead  
-**Last reviewed:** 2026-08-12
 
 ## Pre
 

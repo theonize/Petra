@@ -1,9 +1,6 @@
 # Tech Quick Reference (FOH · Monitors · Media · Lights · Stream · Stage)
 
-**Status:** draft  
 **Owner:** Tech Lead  
-**Last reviewed:** 2026-08-20  
-**Review cadence:** semiannual
 
 Two pages for everyone behind a console, a deck, or a cable. Every line points into the skeleton; if this sheet and the linked page disagree, the linked page wins.
 

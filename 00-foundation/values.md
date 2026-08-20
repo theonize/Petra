@@ -1,9 +1,6 @@
 # Values
 
-**Status:** draft  
 **Owner:** Director  
-**Last reviewed:** 2026-08-19  
-**Review cadence:** annual
 
 These values referee gray areas when a checklist does not.
 

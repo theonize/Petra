@@ -1,8 +1,6 @@
 # Midweek Rehearsal Runbook
 
-**Status:** draft  
 **Owner:** Worship Lead + Tech Lead  
-**Last reviewed:** 2026-08-18
 
 ## Fill in the local rhythm
 

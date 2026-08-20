@@ -1,8 +1,6 @@
 # Platform Etiquette
 
-**Status:** draft  
 **Owner:** Director  
-**Last reviewed:** 2026-08-19
 
 ## Presence
 

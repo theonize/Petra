@@ -1,8 +1,6 @@
 # Charts, Keys & Tempos
 
-**Status:** draft  
 **Owner:** Worship Lead  
-**Last reviewed:** 2026-08-12
 
 ## Source of truth
 

@@ -1,9 +1,8 @@
 # Open Questions
 
-**Status:** living scratchpad  
 **Owner:** Director  
 
-Capture decisions we still need so drafts can harden into `active` policy.
+Capture decisions each church still needs to make so the blanks in Petra can be filled in.
 
 ## Identity & authority
 

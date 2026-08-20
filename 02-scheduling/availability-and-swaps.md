@@ -1,8 +1,6 @@
 # Availability & Swaps
 
-**Status:** draft  
 **Owner:** Director  
-**Last reviewed:** 2026-08-13
 
 ## Blocking out
 

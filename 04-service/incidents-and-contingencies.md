@@ -1,8 +1,6 @@
 # Incidents & Contingencies
 
-**Status:** draft  
 **Owner:** Director + Tech Lead  
-**Last reviewed:** 2026-08-12
 
 ## Principles
 

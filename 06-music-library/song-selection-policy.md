@@ -1,9 +1,6 @@
 # Song Selection Policy
 
-**Status:** draft  
 **Owner:** Song Selector + Director  
-**Last reviewed:** 2026-08-17  
-**Review cadence:** annual
 
 ## Purpose
 

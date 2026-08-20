@@ -1,8 +1,6 @@
 # Monitor / IEM Checklist
 
-**Status:** draft  
 **Owner:** Monitor Engineer / Tech Lead  
-**Last reviewed:** 2026-08-12
 
 ## Pre
 

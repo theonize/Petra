@@ -1,9 +1,6 @@
 # Lyrics & Stage Displays
 
-**Status:** draft  
 **Owner:** Tech Lead + Media Operator + Worship Lead  
-**Last reviewed:** 2026-08-13  
-**Review cadence:** semiannual
 
 ## Purpose
 

@@ -1,8 +1,6 @@
 # Pastoral Care
 
-**Status:** draft  
 **Owner:** Director  
-**Last reviewed:** 2026-08-12
 
 ## Serving while human
 

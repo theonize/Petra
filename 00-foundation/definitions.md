@@ -1,8 +1,6 @@
 # Definitions
 
-**Status:** draft  
 **Owner:** Director  
-**Last reviewed:** 2026-08-20
 
 Language shapes culture. We use plain operational words without turning Sunday into a show.
 

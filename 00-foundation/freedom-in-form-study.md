@@ -1,13 +1,10 @@
 # Freedom in Form: Ordered Service and the Singing Church
 
-**Status:** baseline study / sermon sketch  
 **Owner:** Director + Pastoral oversight  
-**Last reviewed:** 2026-08-14  
-**Review cadence:** as-needed
 
 ## Purpose
 
-This study supplies a biblical and pastoral baseline for Petra's conviction that a **mundane framework can free artists and the congregation to worship**. It is a teaching draft, not a doctrinal statement or an `active` operating policy. Pastoral leadership owns final doctrinal language.
+This study supplies a biblical and pastoral baseline for Petra's conviction that a **mundane framework can free artists and the congregation to worship**. It is a teaching draft, not a doctrinal statement or an operating policy. Pastoral leadership owns final doctrinal language.
 
 ## Governing thesis
 

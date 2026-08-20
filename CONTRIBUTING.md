@@ -7,7 +7,7 @@
 3. **Defaults over doctrine.** Capture what we do unless leadership decides otherwise.
 4. **Mundane framework, artistic freedom.** Document repeatable logistics so artists are free in the room; do not script the Spirit or micromanage craft.
 5. **Congregation sings.** Prefer guidance that helps the room’s voice over guidance that only polishes the platform.
-6. **Change in the open.** Material changes to `active` policies should be discussed before merge when possible.
+6. **Change in the open.** Material policy changes should be discussed before merge when possible and noted in the CHANGELOG. There are no per-page status or review stamps — git history is the record.
 
 ## What belongs where
 
@@ -26,10 +26,7 @@
 ```markdown
 # Title
 
-**Status:** draft | active | pilot | deprecated  
 **Owner:** role or person  
-**Last reviewed:** YYYY-MM-DD  
-**Review cadence:** quarterly | annual | as-needed
 
 ## Purpose
 One paragraph.

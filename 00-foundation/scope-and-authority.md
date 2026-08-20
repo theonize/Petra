@@ -1,9 +1,6 @@
 # Scope & Authority
 
-**Status:** draft  
 **Owner:** Director + Pastoral oversight  
-**Last reviewed:** 2026-08-13  
-**Review cadence:** annual
 
 ## Why Petra exists
 
@@ -56,8 +53,8 @@ Line of authority: **Pastor → Director → team leads** (Worship Lead, Song Se
 | Change call times permanently | Director | Director + Pastor liaison | Full team |
 | Appoint Worship Lead, Song Selector, or Tech Lead | Director | Director (pastor consulted) | Team |
 | Major gear purchase | Tech Lead | Church finance / pastor process | Director |
-| Exception to an `active` policy for one week | Role owner | Director | Affected teammates |
-| Edit Petra `active` policy | Anyone | Director (or designee) | Team via changelog / announce |
+| Exception to a policy for one week | Role owner | Director | Affected teammates |
+| Edit Petra policy | Anyone | Director (or designee) | Team via changelog / announce |
 
 ## Escalation path
 

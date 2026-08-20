@@ -1,8 +1,6 @@
 # Media / Lyrics Checklist
 
-**Status:** draft  
 **Owner:** Media Operator / Tech Lead  
-**Last reviewed:** 2026-08-13
 
 Full standards: [`lyrics-and-stage-displays.md`](lyrics-and-stage-displays.md).
 

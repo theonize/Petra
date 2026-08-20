@@ -1,9 +1,6 @@
 # Mission & Vision
 
-**Status:** draft  
 **Owner:** Director / Pastoral oversight  
-**Last reviewed:** 2026-08-19  
-**Review cadence:** annual
 
 ## Mission
 

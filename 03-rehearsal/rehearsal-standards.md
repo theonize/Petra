@@ -1,8 +1,6 @@
 # Rehearsal Standards
 
-**Status:** draft  
 **Owner:** Worship Lead + Tech Lead + Director  
-**Last reviewed:** 2026-08-18
 
 ## Purpose
 

@@ -1,9 +1,6 @@
 # Song Selector Quick Reference
 
-**Status:** draft  
 **Owner:** Director  
-**Last reviewed:** 2026-08-20  
-**Review cadence:** semiannual
 
 Two pages for the person who decides **what** we sing and **why**. Every line points into the skeleton; if this sheet and the linked page disagree, the linked page wins.
 

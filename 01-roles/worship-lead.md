@@ -1,8 +1,6 @@
 # Worship Lead
 
-**Status:** draft  
 **Owner:** Director  
-**Last reviewed:** 2026-08-20
 
 ## Purpose
 

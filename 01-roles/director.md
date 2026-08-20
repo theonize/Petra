@@ -1,8 +1,6 @@
 # Director
 
-**Status:** draft  
 **Owner:** Pastoral oversight  
-**Last reviewed:** 2026-08-20
 
 ## Purpose
 

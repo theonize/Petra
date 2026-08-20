@@ -1,8 +1,6 @@
 # Joining the Team
 
-**Status:** draft  
 **Owner:** Director  
-**Last reviewed:** 2026-08-12
 
 ## Who we’re looking for
 

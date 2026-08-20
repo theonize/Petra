@@ -1,8 +1,6 @@
 # Stream Checklist
 
-**Status:** draft  
 **Owner:** Stream Operator / Tech Lead  
-**Last reviewed:** 2026-08-12
 
 ## Pre
 

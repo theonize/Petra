@@ -1,8 +1,6 @@
 # FOH Engineer
 
-**Status:** draft  
 **Owner:** Tech Lead  
-**Last reviewed:** 2026-08-13
 
 ## Purpose
 

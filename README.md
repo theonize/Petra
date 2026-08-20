@@ -1,4 +1,5 @@
-# Petra
+# (Petra)[https://theonize.github.io/petra]
+**<https://theonize.github.io/petra/>**
 
 Worship team runbook — policies, procedures, and operating norms for musicians, vocalists, and technical crew.
 
@@ -22,36 +23,27 @@ Petra is meant to be:
 
 **Short on time?** Read [the playbook on one page](PLAYBOOK.md).
 
-**Prefer a website?** The same pages are published at **<https://theonize.github.io/petra/>** (search, sidebar, printable handout PDFs) — rebuilt automatically on every merge to `main`.
-
-## How to use this repo
+## How to use
 
 | If you need… | Start here |
 |---|---|
-| Why we exist and what we value | [`00-foundation/`](00-foundation/README.md) |
-| What your role owns | [`01-roles/`](01-roles/README.md) |
-| How scheduling & swaps work | [`02-scheduling/`](02-scheduling/README.md) |
-| Rehearsal expectations | [`03-rehearsal/`](03-rehearsal/README.md) |
-| Sunday / service flow | [`04-service/`](04-service/README.md) |
-| Audio, lights, media, stream | [`05-tech/`](05-tech/README.md) |
-| Songs, keys, charts, CCLI | [`06-music-library/`](06-music-library/README.md) |
-| Joining the team | [`07-onboarding/`](07-onboarding/README.md) |
-| Culture, conflict, care | [`08-culture-care/`](08-culture-care/README.md) |
-| Gear care & inventory | [`09-equipment/`](09-equipment/README.md) |
-| Copy-paste forms & checklists | [`10-templates/`](10-templates/README.md) |
-| Glossary, tools, links | [`11-reference/`](11-reference/README.md) |
-| Two-page handouts per role + pastor overview | [`12-quick-reference/`](12-quick-reference/README.md) |
+| Why we exist and what we value | [`Foundation`](00-foundation/README.md) |
+| What your role owns | [`Roles`](01-roles/README.md) |
+| How scheduling & swaps work | [`Scheduling`](02-scheduling/README.md) |
+| Rehearsal expectations | [`Rehearsal`](03-rehearsal/README.md) |
+| Sunday / service flow | [`Service`](04-service/README.md) |
+| Audio, lights, media, stream | [`Tech`](05-tech/README.md) |
+| Songs, keys, charts, CCLI | [`Music Library`](06-music-library/README.md) |
+| Joining the team | [`Onboarding`](07-onboarding/README.md) |
+| Culture, conflict, care | [`Culture Care`](08-culture-care/README.md) |
+| Gear care & inventory | [`Equipment`](09-equipment/README.md) |
+| Copy-paste forms & checklists | [`Templates`](10-templates/README.md) |
+| Glossary, tools, links | [`Reference`](11-reference/README.md) |
+| Two-page handouts per role + pastor overview | [`Quick Reference`](12-quick-reference/README.md) |
 
-## Document status legend
+## A living system
 
-Each policy page should carry a status near the top:
-
-| Status | Meaning |
-|---|---|
-| `draft` | Proposed; open for discussion |
-| `active` | Current operating standard |
-| `pilot` | Trying for a season; review date set |
-| `deprecated` | Superseded; kept for history |
+Petra has no per-page status or review stamps. Every page is the current working standard; history, authorship, and review live in git and the [CHANGELOG](CHANGELOG.md). Each page names an **Owner** (a role) who answers for it.
 
 ## Contributing
 

@@ -1,9 +1,6 @@
 # Musician Quick Reference (Band & Vocals)
 
-**Status:** draft  
 **Owner:** Worship Lead / Director  
-**Last reviewed:** 2026-08-20  
-**Review cadence:** semiannual
 
 Two pages for players and vocalists. Every line points into the skeleton; if this sheet and the linked page disagree, the linked page wins.
 

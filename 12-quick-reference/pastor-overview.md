@@ -1,9 +1,6 @@
 # Petra for Pastors — Framework Highlights
 
-**Status:** draft  
 **Owner:** Director + Pastoral oversight  
-**Last reviewed:** 2026-08-20  
-**Review cadence:** annual
 
 Two pages for pastors and elders: what Petra is, what it decides, where you are in the loop, and where it defers to you. Links point into the full runbook.
 
@@ -74,8 +71,8 @@ One person may wear several hats; each hat's must-dos still apply.
 | Appoint Worship Lead, Song Selector, or Tech Lead | Director | Director (**pastor consulted**) |
 | **Change call times permanently** | Director | Director + **pastor liaison** |
 | Major gear purchase | Tech Lead | **Church finance / pastor process** |
-| One-week exception to an active policy | Role owner | Director |
-| Edit an active policy | Anyone | Director (or designee) — announced via changelog |
+| One-week exception to a policy | Role owner | Director |
+| Edit a policy | Anyone | Director (or designee) — announced via changelog |
 
 **Line of authority:** Pastor → Director → team leads. The pastor has final say; responsibility and accountability for the worship experience rest with the Director. **Escalation:** peer → Worship Lead / Tech Lead → Director → **pastoral oversight**; care and safety issues skip the chain ([scope-and-authority](../00-foundation/scope-and-authority.md)).
 
@@ -101,6 +98,6 @@ Safeguards the study places on Petra itself: Christ, not competence, gives acces
 
 ## How to ask for a change
 
-Anyone may propose; the Director decides `active` policy; material changes are discussed before merge and logged in the [CHANGELOG](../CHANGELOG.md). Every page carries a status (`draft` / `active` / `pilot` / `deprecated`) and a named owner ([CONTRIBUTING](../CONTRIBUTING.md)); pending decisions sit in [open-questions](../11-reference/open-questions.md).
+Anyone may propose; the Director decides policy; material changes are discussed before merge and logged in the [CHANGELOG](../CHANGELOG.md). Petra is a living system — no per-page status stamps; every page names an owner and git holds the history ([CONTRIBUTING](../CONTRIBUTING.md)); pending decisions sit in [open-questions](../11-reference/open-questions.md).
 
 **Where to look:** [PLAYBOOK](../PLAYBOOK.md) (one page) · [00-foundation/](../00-foundation/README.md) (why, values, scope) · [06-music-library/](../06-music-library/README.md) (song policy) · [08-culture-care/](../08-culture-care/README.md) · [07-onboarding/](../07-onboarding/README.md) · role handouts for [musicians](musician-quick-reference.md), [tech](tech-quick-reference.md), and the [song selector](song-selector-quick-reference.md).

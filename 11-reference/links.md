@@ -1,7 +1,5 @@
 # Links
 
-**Status:** draft  
-
 ## Internal
 
 - Petra repo: https://github.com/theonize/petra

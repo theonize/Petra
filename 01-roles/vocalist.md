@@ -1,8 +1,6 @@
 # Vocalist
 
-**Status:** draft  
 **Owner:** Worship Lead / Director  
-**Last reviewed:** 2026-08-13
 
 ## Purpose
 

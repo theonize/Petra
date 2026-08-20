@@ -1,8 +1,6 @@
 # First 30 Days
 
-**Status:** draft  
 **Owner:** Section lead / mentor  
-**Last reviewed:** 2026-08-12
 
 ## Goals
 

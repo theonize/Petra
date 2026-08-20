@@ -1,8 +1,6 @@
 # Song Lifecycle
 
-**Status:** draft  
 **Owner:** Song Selector + Director + Worship Lead  
-**Last reviewed:** 2026-08-17
 
 ## Stages
 
