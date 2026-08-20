@@ -2,6 +2,8 @@
 
 **Owner:** Worship Lead / Director  
 
+<p class="no-print">📄 <a href="https://theonize.github.io/petra/pdf/musician-quick-reference.pdf"><strong>Download the two-page PDF</strong></a> — rebuilt automatically on every change.</p>
+
 Two pages for players and vocalists. Every line points into the skeleton; if this sheet and the linked page disagree, the linked page wins.
 
 ## Why we are here

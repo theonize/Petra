@@ -2,6 +2,8 @@
 
 **Owner:** Tech Lead  
 
+<p class="no-print">📄 <a href="https://theonize.github.io/petra/pdf/tech-quick-reference.pdf"><strong>Download the two-page PDF</strong></a> — rebuilt automatically on every change.</p>
+
 Two pages for everyone behind a console, a deck, or a cable. Every line points into the skeleton; if this sheet and the linked page disagree, the linked page wins.
 
 ## Why tech exists

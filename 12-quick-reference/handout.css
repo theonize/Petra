@@ -25,3 +25,4 @@ input[type=checkbox] { margin: 0 0.3em 0 0; }
 .handout-qr svg { width: 2.1cm; height: 2.1cm; display: block; }
 /* Logo beside the title (left); QR floats right. */
 .handout-logo { float: left; width: 1.7cm; height: 1.7cm; margin: 0 0.5em 0.2em 0; }
+.no-print { display: none; }

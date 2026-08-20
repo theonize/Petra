@@ -2,6 +2,8 @@
 
 **Owner:** Director + Pastoral oversight  
 
+<p class="no-print">📄 <a href="https://theonize.github.io/petra/pdf/pastor-overview.pdf"><strong>Download the two-page PDF</strong></a> — rebuilt automatically on every change.</p>
+
 Two pages for pastors and elders: what Petra is, what it decides, where you are in the loop, and where it defers to you. Links point into the full runbook.
 
 ## What Petra is
