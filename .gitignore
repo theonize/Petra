@@ -18,3 +18,5 @@ secrets/
 # Local notes
 local/
 *.local.md
+# local working notes, not part of the published runbook
+review/
