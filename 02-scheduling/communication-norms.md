@@ -12,7 +12,7 @@
 | **SMS / call** | True urgencies | Routine chart drops |
 | **In person** | Feedback, conflict, care | — |
 
-*Replace tool names in [`11-reference/tools-and-systems.md`](../11-reference/tools-and-systems.md).*
+*Replace tool names in [Tools & Systems](../11-reference/tools-and-systems.md).*
 
 ## Response expectations
 

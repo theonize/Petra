@@ -16,7 +16,7 @@ Deliver a stable, clear online experience that matches the in-room service as fa
 
 ## Attendance
 
-- **Prior group rehearsal required** when scheduled for that service — see [`../03-rehearsal/rehearsal-standards.md`](../03-rehearsal/rehearsal-standards.md)
+- **Prior group rehearsal required** when scheduled for that service — see [Rehearsal Standards](../03-rehearsal/rehearsal-standards.md)
 - Full encode may be optional at midweek; still attend to lock routing, lower-thirds, and handoffs with media/FOH unless Tech Lead releases you
 
 ## Pre-service

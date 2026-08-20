@@ -16,7 +16,7 @@ Stay legally and ethically clean when reproducing lyrics, printing charts, strea
 ## Practical
 
 - Prefer Planning Center / SongSelect / licensed sources for charts
-- Track our license numbers in [`11-reference/tools-and-systems.md`](../11-reference/tools-and-systems.md) (private details can live in a non-public vault if needed)
+- Track our license numbers in [Tools & Systems](../11-reference/tools-and-systems.md) (private details can live in a non-public vault if needed)
 - Original songs: document writer splits before wide use
 
 *This page is operational awareness, not legal advice.*

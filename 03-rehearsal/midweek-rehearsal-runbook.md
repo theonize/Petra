@@ -83,7 +83,7 @@ Do not “save the real slides for Sunday.” Rehearsal is where timing and form
 
 ## Attendance note
 
-This midweek block is the default **prior rehearsal** for the linked Sunday — **musicians and tech**. Who is present (or formally released) is who leaders plan to put on the roster — see [`rehearsal-standards.md`](rehearsal-standards.md).
+This midweek block is the default **prior rehearsal** for the linked Sunday — **musicians and tech**. Who is present (or formally released) is who leaders plan to put on the roster — see [Rehearsal Standards](rehearsal-standards.md).
 
 At the ready-to-rehearse time, record each scheduled person as **present and ready**, **late/not ready**, **formally released**, or **covered by a confirmed substitute**. Being in the building but not ready does not satisfy the ready-to-rehearse time.
 

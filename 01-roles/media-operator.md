@@ -17,12 +17,12 @@ Put the right words and visuals in front of the room (and stream) at the right t
 
 ## Attendance
 
-- **Prior group rehearsal is required** when you are scheduled for that service (same rule as band) — see [`../03-rehearsal/rehearsal-standards.md`](../03-rehearsal/rehearsal-standards.md)
+- **Prior group rehearsal is required** when you are scheduled for that service (same rule as band) — see [Rehearsal Standards](../03-rehearsal/rehearsal-standards.md)
 - Pre-service is confirmation, not your first time on the deck for the set
 
 ## Standards
 
-Follow [`../05-tech/lyrics-and-stage-displays.md`](../05-tech/lyrics-and-stage-displays.md) (policy) and [`../05-tech/media-lyrics-checklist.md`](../05-tech/media-lyrics-checklist.md) (run checklist).
+Follow [Lyrics & Stage Displays](../05-tech/lyrics-and-stage-displays.md) (policy) and [Media / Lyrics Checklist](../05-tech/media-lyrics-checklist.md) (run checklist).
 
 ## Must at midweek rehearsal
 

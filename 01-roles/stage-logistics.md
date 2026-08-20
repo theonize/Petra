@@ -8,7 +8,7 @@ Make the platform safe, clear, and ready — instruments, mics, stands, stools, 
 
 ## Attendance
 
-- **Prior group rehearsal required** when scheduled for that service — see [`../03-rehearsal/rehearsal-standards.md`](../03-rehearsal/rehearsal-standards.md)
+- **Prior group rehearsal required** when scheduled for that service — see [Rehearsal Standards](../03-rehearsal/rehearsal-standards.md)
 
 ## Owns
 

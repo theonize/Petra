@@ -2,7 +2,7 @@
 
 **Owner:** Media Operator / Tech Lead  
 
-Full standards: [`lyrics-and-stage-displays.md`](lyrics-and-stage-displays.md).
+Full standards: [Lyrics & Stage Displays](lyrics-and-stage-displays.md).
 
 ## Midweek rehearsal (required when scheduled)
 

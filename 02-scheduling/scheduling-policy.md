@@ -13,7 +13,7 @@ Put the right people on the right services early enough to prepare well — incl
 3. A scheduled teammate is responsible for the slot until a **confirmed** swap or release.
 4. Only qualified people may cover a role (Tech Lead / Worship Lead / Director defines “qualified”).
 5. Minors serving on platform follow church protection + guardian rules (see culture/care).
-6. **Rehearsal is part of the schedule for band and tech.** Accepting a serve slot includes the **prior group rehearsal** for that service. Default: no prior rehearsal → do not serve (see [`../03-rehearsal/rehearsal-standards.md`](../03-rehearsal/rehearsal-standards.md)).
+6. **Rehearsal is part of the schedule for band and tech.** Accepting a serve slot includes the **prior group rehearsal** for that service. Default: no prior rehearsal → do not serve (see [Rehearsal Standards](../03-rehearsal/rehearsal-standards.md)).
 7. **Media at rehearsal runs house/overhead and confidence** — production path is practiced midweek, not invented Sunday.
 
 ## Procedure — building a roster
@@ -32,6 +32,6 @@ Put the right people on the right services early enough to prepare well — incl
 
 ## Related
 
-- [availability-and-swaps.md](availability-and-swaps.md)
-- [communication-norms.md](communication-norms.md)
-- [`../03-rehearsal/rehearsal-standards.md`](../03-rehearsal/rehearsal-standards.md)
+- [Availability & Swaps](availability-and-swaps.md)
+- [Communication Norms](communication-norms.md)
+- [Rehearsal Standards](../03-rehearsal/rehearsal-standards.md)

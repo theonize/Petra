@@ -52,4 +52,4 @@ A team that is:
 
 ## How Petra serves this mission
 
-See [Scope and Authority.md](scope-and-authority.md): the runbook holds the **mundane framework** (call times, patches, swaps, checklists) so artists and tech can show up free to lead worship and help the church sing.
+See [Scope & Authority](scope-and-authority.md): the runbook holds the **mundane framework** (call times, patches, swaps, checklists) so artists and tech can show up free to lead worship and help the church sing.

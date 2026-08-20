@@ -1,6 +1,6 @@
 # Glossary (extended)
 
-See also [`00-foundation/definitions.md`](../00-foundation/definitions.md) for worship / serve / perform framing and core terms.
+See also [Definitions](../00-foundation/definitions.md) for worship / serve / perform framing and core terms.
 
 | Term | Meaning |
 |---|---|

@@ -6,22 +6,22 @@ Two pages for players and vocalists. Every line points into the skeleton; if thi
 
 ## Why we are here
 
-> **Encourage the congregation to sing.** ([mission-vision](../00-foundation/mission-vision.md))
+> **Encourage the congregation to sing.** ([Mission & Vision](../00-foundation/mission-vision.md))
 
-The room's voice is the success signal, not the platform's. Attention goes **past** you to God — if people are watching the band, simplify, turn down, re-center the lyric ([values](../00-foundation/values.md) #1–2). Petra settles the mundane so you are free to lead ([scope-and-authority](../00-foundation/scope-and-authority.md)).
+The room's voice is the success signal, not the platform's. Attention goes **past** you to God — if people are watching the band, simplify, turn down, re-center the lyric ([Values](../00-foundation/values.md) #1–2). Petra settles the mundane so you are free to lead ([Scope & Authority](../00-foundation/scope-and-authority.md)).
 
 ## Your commitments
 
 | Commitment | Means | Source |
 |---|---|---|
-| Sunday starts midweek | Personal practice **before** rehearsal; rehearsal is for ensemble problems, not first exposure | [rehearsal-standards](../03-rehearsal/rehearsal-standards.md) |
-| No prior rehearsal → no serve | Accepting a slot includes the rehearsal tied to it; exceptions are **granted**, not assumed | [rehearsal-standards](../03-rehearsal/rehearsal-standards.md) · [scheduling-policy](../02-scheduling/scheduling-policy.md) |
-| Prepare from one plan | Set is fixed by the team deadline; the Worship Lead's published key/form/chart beats YouTube memory | [charts-keys-tempos](../06-music-library/charts-keys-tempos.md) |
-| Eyes up | Confidence monitors are the default; stands only with Worship Lead/Tech Lead exception | [lyrics-and-stage-displays](../05-tech/lyrics-and-stage-displays.md) |
-| Play the arrangement | Leave holes; know who carries motif vs pad vs groove | [band-musician](../01-roles/band-musician.md) |
-| Blend over belting | Serve the lyric and the lead; flag range early, not at downbeat | [vocalist](../01-roles/vocalist.md) |
-| Stage volume is a team problem | Prefer "more me" in IEM over a louder wedge; click loyalty when click is on | [monitor-engineer](../01-roles/monitor-engineer.md) |
-| Call time means ready | Tuned, patched, mic'd, app open, water filled — not walking in | [definitions](../00-foundation/definitions.md) |
+| Sunday starts midweek | Personal practice **before** rehearsal; rehearsal is for ensemble problems, not first exposure | [Rehearsal Standards](../03-rehearsal/rehearsal-standards.md) |
+| No prior rehearsal → no serve | Accepting a slot includes the rehearsal tied to it; exceptions are **granted**, not assumed | [Rehearsal Standards](../03-rehearsal/rehearsal-standards.md) · [Scheduling Policy](../02-scheduling/scheduling-policy.md) |
+| Prepare from one plan | Set is fixed by the team deadline; the Worship Lead's published key/form/chart beats YouTube memory | [Charts, Keys & Tempos](../06-music-library/charts-keys-tempos.md) |
+| Eyes up | Confidence monitors are the default; stands only with Worship Lead/Tech Lead exception | [Lyrics & Stage Displays](../05-tech/lyrics-and-stage-displays.md) |
+| Play the arrangement | Leave holes; know who carries motif vs pad vs groove | [Band Musician](../01-roles/band-musician.md) |
+| Blend over belting | Serve the lyric and the lead; flag range early, not at downbeat | [Vocalist](../01-roles/vocalist.md) |
+| Stage volume is a team problem | Prefer "more me" in IEM over a louder wedge; click loyalty when click is on | [Monitor Engineer](../01-roles/monitor-engineer.md) |
+| Call time means ready | Tuned, patched, mic'd, app open, water filled — not walking in | [Definitions](../00-foundation/definitions.md) |
 
 ## The week, from your seat
 
@@ -35,7 +35,7 @@ The room's voice is the success signal, not the platform's. Attention goes **pas
 | Service | Worship Lead makes musical calls; platform lead listens to the pastor | Watch the leader; worship when not playing; reset with peace if something breaks |
 | Strike + notes | People first, then process | Gear stowed; room not trashed; notes received without defensiveness |
 
-Fill the blanks from your team's [midweek runbook](../03-rehearsal/midweek-rehearsal-runbook.md) and [pre-service rehearsal](../03-rehearsal/pre-service-rehearsal.md).
+Fill the blanks from your team's [Midweek Rehearsal Runbook](../03-rehearsal/midweek-rehearsal-runbook.md) and [pre-service rehearsal](../03-rehearsal/pre-service-rehearsal.md).
 
 ## Before you walk into rehearsal
 
@@ -52,7 +52,7 @@ Fill the blanks from your team's [midweek runbook](../03-rehearsal/midweek-rehea
 - Mix requests are specific ("more acoustic in the verse") through the cue workflow — no shouting mid-song unless safety
 - Freeze major monitor changes after the final run unless pain/safety
 - Tell Media/Worship Lead about wrong or unreadable confidence content **at rehearsal**, not during the opener
-- Test whether the **room** can sing it — key, range, tempo, phrasing. Say so if not ([midweek runbook](../03-rehearsal/midweek-rehearsal-runbook.md))
+- Test whether the **room** can sing it — key, range, tempo, phrasing. Say so if not ([Midweek Rehearsal Runbook](../03-rehearsal/midweek-rehearsal-runbook.md))
 
 ## On the platform
 
@@ -61,35 +61,35 @@ Fill the blanks from your team's [midweek runbook](../03-rehearsal/midweek-rehea
 - Hold still through prayer/scripture unless directed; tune under pads/prayer
 - Lose a line? Mute or pull back — don't invent loudly
 - Pastor extends? Watch the leader; don't invent a concert
-- Impaired serving is an immediate stop ([platform-etiquette](../04-service/platform-etiquette.md))
+- Impaired serving is an immediate stop ([Platform Etiquette](../04-service/platform-etiquette.md))
 
 ## When something breaks
 
-People safety first; preserve the moment second; communicate once on a known channel. Click dies → Worship Lead counts in, drop to the live arrangement. Lyrics freeze → lead vocal carries, Media goes to a safe slide ([incidents](../04-service/incidents-and-contingencies.md)).
+People safety first; preserve the moment second; communicate once on a known channel. Click dies → Worship Lead counts in, drop to the live arrangement. Lyrics freeze → lead vocal carries, Media goes to a safe slide ([Incidents & Contingencies](../04-service/incidents-and-contingencies.md)).
 
 ## Scheduling & communication
 
 | Situation | Expectation | Source |
 |---|---|---|
-| Schedule request | Accept/decline within **48 h**; availability covers rehearsal **and** service | [communication-norms](../02-scheduling/communication-norms.md) |
-| Can do Sunday but not rehearsal | Say so up front — default is you need the rehearsal to serve | [availability-and-swaps](../02-scheduling/availability-and-swaps.md) |
-| Swap | You find a **qualified** cover; propose in the official tool; final only when both people **and** the lead confirm; <24 h → phone Worship Lead/Director | [availability-and-swaps](../02-scheduling/availability-and-swaps.md) |
-| Late / absent | Notify Worship Lead or Director ASAP — before rehearsal starts when humanly possible | [rehearsal-standards](../03-rehearsal/rehearsal-standards.md) |
-| Sick / contagious | Stay home; a thin band beats a sick room | [availability-and-swaps](../02-scheduling/availability-and-swaps.md) |
-| Midweek key/chart change | Acknowledge once seen | [communication-norms](../02-scheduling/communication-norms.md) |
+| Schedule request | Accept/decline within **48 h**; availability covers rehearsal **and** service | [Communication Norms](../02-scheduling/communication-norms.md) |
+| Can do Sunday but not rehearsal | Say so up front — default is you need the rehearsal to serve | [Availability & Swaps](../02-scheduling/availability-and-swaps.md) |
+| Swap | You find a **qualified** cover; propose in the official tool; final only when both people **and** the lead confirm; <24 h → phone Worship Lead/Director | [Availability & Swaps](../02-scheduling/availability-and-swaps.md) |
+| Late / absent | Notify Worship Lead or Director ASAP — before rehearsal starts when humanly possible | [Rehearsal Standards](../03-rehearsal/rehearsal-standards.md) |
+| Sick / contagious | Stay home; a thin band beats a sick room | [Availability & Swaps](../02-scheduling/availability-and-swaps.md) |
+| Midweek key/chart change | Acknowledge once seen | [Communication Norms](../02-scheduling/communication-norms.md) |
 
 ## Who to ask
 
-Peer / section lead → **Worship Lead** (musical) or Tech Lead (production) → Director → Pastoral oversight. Care and safety issues skip the chain ([scope-and-authority](../00-foundation/scope-and-authority.md)).
+Peer / section lead → **Worship Lead** (musical) or Tech Lead (production) → Director → Pastoral oversight. Care and safety issues skip the chain ([Scope & Authority](../00-foundation/scope-and-authority.md)).
 
 ## Where to look
 
 | Need | Page |
 |---|---|
-| One-page overview | [PLAYBOOK](../PLAYBOOK.md) |
-| Your charter | [band-musician](../01-roles/band-musician.md) · [vocalist](../01-roles/vocalist.md) |
-| Rehearsal rules & flow | [rehearsal-standards](../03-rehearsal/rehearsal-standards.md) · [midweek runbook](../03-rehearsal/midweek-rehearsal-runbook.md) · [pre-service](../03-rehearsal/pre-service-rehearsal.md) |
-| Stands vs confidence | [lyrics-and-stage-displays](../05-tech/lyrics-and-stage-displays.md) |
-| Charts, keys, tracks | [charts-keys-tempos](../06-music-library/charts-keys-tempos.md) · [tracks-and-playback](../06-music-library/tracks-and-playback.md) |
-| Culture, feedback, care | [team-culture](../08-culture-care/team-culture.md) · [feedback-and-conflict](../08-culture-care/feedback-and-conflict.md) · [pastoral-care](../08-culture-care/pastoral-care.md) |
-| Words we use | [definitions](../00-foundation/definitions.md) · [glossary](../11-reference/glossary.md) |
+| One-page overview | [Playbook](../PLAYBOOK.md) |
+| Your charter | [Band Musician](../01-roles/band-musician.md) · [Vocalist](../01-roles/vocalist.md) |
+| Rehearsal rules & flow | [Rehearsal Standards](../03-rehearsal/rehearsal-standards.md) · [Midweek Rehearsal Runbook](../03-rehearsal/midweek-rehearsal-runbook.md) · [Pre-Service Rehearsal](../03-rehearsal/pre-service-rehearsal.md) |
+| Stands vs confidence | [Lyrics & Stage Displays](../05-tech/lyrics-and-stage-displays.md) |
+| Charts, keys, tracks | [Charts, Keys & Tempos](../06-music-library/charts-keys-tempos.md) · [Tracks & Playback](../06-music-library/tracks-and-playback.md) |
+| Culture, feedback, care | [Team Culture](../08-culture-care/team-culture.md) · [Feedback & Conflict](../08-culture-care/feedback-and-conflict.md) · [Pastoral Care](../08-culture-care/pastoral-care.md) |
+| Words we use | [Definitions](../00-foundation/definitions.md) · [Glossary](../11-reference/glossary.md) |

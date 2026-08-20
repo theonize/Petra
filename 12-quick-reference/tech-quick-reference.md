@@ -6,7 +6,7 @@ Two pages for everyone behind a console, a deck, or a cable. Every line points i
 
 ## Why tech exists
 
-Technology succeeds when nobody talks about it afterward — except to say they could hear and see clearly enough to **sing** ([tech-overview](../05-tech/tech-overview.md)). Same reason Petra exists: settle the mundane so presence is possible ([mission-vision](../00-foundation/mission-vision.md)).
+Technology succeeds when nobody talks about it afterward — except to say they could hear and see clearly enough to **sing** ([Tech Overview](../05-tech/tech-overview.md)). Same reason Petra exists: settle the mundane so presence is possible ([Mission & Vision](../00-foundation/mission-vision.md)).
 
 **Priorities, in order:** 1 Safety · 2 Intelligibility (spoken word + lead vocal) · 3 Stability (show files, backups, spares) · 4 Beauty · 5 Experimentation — never at the cost of 1–3 on Sunday.
 
@@ -14,12 +14,12 @@ Technology succeeds when nobody talks about it afterward — except to say they 
 
 | Rule | Means | Source |
 |---|---|---|
-| Prior rehearsal — same bar as band | Scheduled tech attends the midweek rehearsal tied to the service; no rehearsal → default do not serve; exceptions granted by Tech Lead with a qualified cover | [rehearsal-standards](../03-rehearsal/rehearsal-standards.md) · [scheduling-policy](../02-scheduling/scheduling-policy.md) |
-| Rehearse the way we serve | House/overhead **and** confidence monitors run at midweek; stream optional unless training or broadcast-critical | [lyrics-and-stage-displays](../05-tech/lyrics-and-stage-displays.md) |
-| Call time means ready | Show file/deck live, outputs verified — not walking in | [definitions](../00-foundation/definitions.md) |
-| Freeze time | After the local freeze time: no new patches, no console rearchitecture, no routing experiments unless safety/failure | [pre-service-rehearsal](../03-rehearsal/pre-service-rehearsal.md) |
-| Routing is verified every service | Confidence-only content never lands on house; house/stream/confidence are three intentional outputs, not three accidents | [lyrics-and-stage-displays](../05-tech/lyrics-and-stage-displays.md) |
-| Show files are predictable | Golden template per room; `YYYY-MM-DD_Service_Descriptor`; never overwrite golden without a note; experiments in marked snapshots | [show-file-standards](../05-tech/show-file-standards.md) |
+| Prior rehearsal — same bar as band | Scheduled tech attends the midweek rehearsal tied to the service; no rehearsal → default do not serve; exceptions granted by Tech Lead with a qualified cover | [Rehearsal Standards](../03-rehearsal/rehearsal-standards.md) · [Scheduling Policy](../02-scheduling/scheduling-policy.md) |
+| Rehearse the way we serve | House/overhead **and** confidence monitors run at midweek; stream optional unless training or broadcast-critical | [Lyrics & Stage Displays](../05-tech/lyrics-and-stage-displays.md) |
+| Call time means ready | Show file/deck live, outputs verified — not walking in | [Definitions](../00-foundation/definitions.md) |
+| Freeze time | After the local freeze time: no new patches, no console rearchitecture, no routing experiments unless safety/failure | [Pre-Service Rehearsal](../03-rehearsal/pre-service-rehearsal.md) |
+| Routing is verified every service | Confidence-only content never lands on house; house/stream/confidence are three intentional outputs, not three accidents | [Lyrics & Stage Displays](../05-tech/lyrics-and-stage-displays.md) |
+| Show files are predictable | Golden template per room; `YYYY-MM-DD_Service_Descriptor`; never overwrite golden without a note; experiments in marked snapshots | [Show File Standards](../05-tech/show-file-standards.md) |
 
 ## The week, from the booth
 
@@ -44,15 +44,15 @@ Technology succeeds when nobody talks about it afterward — except to say they 
 | **Stream** | Attend to lock routing, lower-thirds, handoffs (full encode optional) | Destination authenticated; audio meters healthy; recording if required; backup path known | Chat moderation is a separate role; no routing experiments after doors |
 | **Stage** | Plot matches who is actually playing; labels match input list | Pathways clear; spare SM58/cable/DI in a known place; trip hazards gone | Quick-change plans; strike and reset |
 
-Checklists: [foh](../05-tech/foh-checklist.md) · [monitor-iem](../05-tech/monitor-iem-checklist.md) · [media-lyrics](../05-tech/media-lyrics-checklist.md) · [lighting](../05-tech/lighting-checklist.md) · [stream](../05-tech/stream-checklist.md) · [input list & stage plot](../05-tech/input-list-and-stage-plot.md).
+Checklists: [foh](../05-tech/foh-checklist.md) · [Monitor / IEM Checklist](../05-tech/monitor-iem-checklist.md) · [Media / Lyrics Checklist](../05-tech/media-lyrics-checklist.md) · [lighting](../05-tech/lighting-checklist.md) · [stream](../05-tech/stream-checklist.md) · [input list & stage plot](../05-tech/input-list-and-stage-plot.md).
 
 ## Lyrics & displays in one breath
 
-House/overhead = congregation; confidence monitors (aka video monitors) = platform team; stream follows house. House carries singable lyrics only — no chord charts, no insider formatting; matches the **sung** arrangement. Confidence may add section labels, next-section peek, charts, host cues — never private or pastoral-sensitive notes. Stands are exception-only (accessibility, no-prep guest, complex chart, confidence failure, Worship Lead–called moment). Backup path documented ([lyrics-and-stage-displays](../05-tech/lyrics-and-stage-displays.md)).
+House/overhead = congregation; confidence monitors (aka video monitors) = platform team; stream follows house. House carries singable lyrics only — no chord charts, no insider formatting; matches the **sung** arrangement. Confidence may add section labels, next-section peek, charts, host cues — never private or pastoral-sensitive notes. Stands are exception-only (accessibility, no-prep guest, complex chart, confidence failure, Worship Lead–called moment). Backup path documented ([Lyrics & Stage Displays](../05-tech/lyrics-and-stage-displays.md)).
 
 ## When something breaks
 
-People safety first; preserve the moment second; communicate once on a known channel ([incidents](../04-service/incidents-and-contingencies.md)).
+People safety first; preserve the moment second; communicate once on a known channel ([Incidents & Contingencies](../04-service/incidents-and-contingencies.md)).
 
 | Failure | Do | Owner |
 |---|---|---|
@@ -63,21 +63,21 @@ People safety first; preserve the moment second; communicate once on a known cha
 | Power blip | Stay calm; power-on SOP; pastoral cover | Tech Lead |
 | Medical / security | Stop if needed; church emergency plan — no heroics | Platform lead / all |
 
-Afterward: care for people, then a short factual note (what, when, impact, fix, prevention) — [incident-log](../10-templates/incident-log.md). Broken gear → [gear-issue-ticket](../10-templates/gear-issue-ticket.md).
+Afterward: care for people, then a short factual note (what, when, impact, fix, prevention) — [Incident Log](../10-templates/incident-log.md). Broken gear → [Gear Issue Ticket](../10-templates/gear-issue-ticket.md).
 
 ## Scheduling & communication
 
-Accept/decline schedule requests within **48 h**, swaps within **24 h**; availability covers rehearsal **and** service. You find a qualified cover; final only when both people and the Tech Lead confirm; <24 h → phone. Day-of emergency → call, don't only post ([communication-norms](../02-scheduling/communication-norms.md) · [availability-and-swaps](../02-scheduling/availability-and-swaps.md)).
+Accept/decline schedule requests within **48 h**, swaps within **24 h**; availability covers rehearsal **and** service. You find a qualified cover; final only when both people and the Tech Lead confirm; <24 h → phone. Day-of emergency → call, don't only post ([Communication Norms](../02-scheduling/communication-norms.md) · [Availability & Swaps](../02-scheduling/availability-and-swaps.md)).
 
 ## Who to ask
 
-Peer → **Tech Lead** → Director → Pastoral oversight. Safety hazards and care issues skip the chain ([scope-and-authority](../00-foundation/scope-and-authority.md)). Major gear purchase: Tech Lead proposes, church finance decides ([purchase-and-repair](../09-equipment/purchase-and-repair.md)).
+Peer → **Tech Lead** → Director → Pastoral oversight. Safety hazards and care issues skip the chain ([Scope & Authority](../00-foundation/scope-and-authority.md)). Major gear purchase: Tech Lead proposes, church finance decides ([Purchase & Repair](../09-equipment/purchase-and-repair.md)).
 
 ## Where to look
 
 | Need | Page |
 |---|---|
-| One-page overview | [PLAYBOOK](../PLAYBOOK.md) |
-| Your charter | [tech-lead](../01-roles/tech-lead.md) · [foh](../01-roles/foh-engineer.md) · [monitors](../01-roles/monitor-engineer.md) · [media](../01-roles/media-operator.md) · [lighting](../01-roles/lighting-operator.md) · [stream](../01-roles/stream-operator.md) · [stage](../01-roles/stage-logistics.md) |
-| Rehearsal rules & timeline | [rehearsal-standards](../03-rehearsal/rehearsal-standards.md) · [midweek runbook](../03-rehearsal/midweek-rehearsal-runbook.md) · [pre-service](../03-rehearsal/pre-service-rehearsal.md) |
-| SOPs, tracks, gear, tools | [05-tech/](../05-tech/README.md) · [tracks-and-playback](../06-music-library/tracks-and-playback.md) · [09-equipment/](../09-equipment/README.md) · [tools-and-systems](../11-reference/tools-and-systems.md) |
+| One-page overview | [Playbook](../PLAYBOOK.md) |
+| Your charter | [Tech Lead](../01-roles/tech-lead.md) · [foh](../01-roles/foh-engineer.md) · [monitors](../01-roles/monitor-engineer.md) · [media](../01-roles/media-operator.md) · [lighting](../01-roles/lighting-operator.md) · [stream](../01-roles/stream-operator.md) · [stage](../01-roles/stage-logistics.md) |
+| Rehearsal rules & timeline | [Rehearsal Standards](../03-rehearsal/rehearsal-standards.md) · [Midweek Rehearsal Runbook](../03-rehearsal/midweek-rehearsal-runbook.md) · [Pre-Service Rehearsal](../03-rehearsal/pre-service-rehearsal.md) |
+| SOPs, tracks, gear, tools | [Tech](../05-tech/README.md) · [Tracks & Playback](../06-music-library/tracks-and-playback.md) · [Equipment](../09-equipment/README.md) · [Tools & Systems](../11-reference/tools-and-systems.md) |

@@ -43,6 +43,6 @@ Players are not guessing the form; vocals lock; the room can breathe and **sing*
 
 ## Related
 
-- [song-selector.md](song-selector.md)
-- [director.md](director.md)
+- [Song Selector](song-selector.md)
+- [Director](director.md)
 

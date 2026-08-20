@@ -63,7 +63,7 @@ Exception path — clear it with Worship Lead or Tech Lead:
 - Brightness usable under stage light without washing the room
 - Latency low enough to follow live leads
 - Backup path documented (spare output, local tablet pack, or paper master in the rack)
-- **At group rehearsal:** both **house/overhead** and **confidence** feeds live while the band works the set (see [`../03-rehearsal/rehearsal-standards.md`](../03-rehearsal/rehearsal-standards.md))
+- **At group rehearsal:** both **house/overhead** and **confidence** feeds live while the band works the set (see [Rehearsal Standards](../03-rehearsal/rehearsal-standards.md))
 
 ---
 
@@ -89,7 +89,7 @@ Stream may stay off unless the stream operator is scheduled to rehearse or the w
 - Match the **sung** arrangement (this key, this form, this tag) — not a random multitracks dump
 - Words match what the lead will actually sing; optional ad-libs stay **off** the slide unless the room is meant to sing them
 - Scripture, creeds, and responsive texts proofread; theology-sensitive lines double-checked
-- CCLI / licensing workflow followed per [`../06-music-library/licensing-ccli.md`](../06-music-library/licensing-ccli.md)
+- CCLI / licensing workflow followed per [Licensing](../06-music-library/licensing-ccli.md)
 
 ### Slide craft (standards)
 
@@ -178,8 +178,8 @@ Post:
 
 ## Related
 
-- [media-lyrics-checklist.md](media-lyrics-checklist.md) — quick pre/post checks
-- [monitor-iem-checklist.md](monitor-iem-checklist.md) — **audio** monitors / IEM (not video)
-- [`../03-rehearsal/rehearsal-standards.md`](../03-rehearsal/rehearsal-standards.md)
-- [`../01-roles/media-operator.md`](../01-roles/media-operator.md)
-- [`../00-foundation/definitions.md`](../00-foundation/definitions.md)
+- [Media / Lyrics Checklist](media-lyrics-checklist.md) — quick pre/post checks
+- [Monitor / IEM Checklist](monitor-iem-checklist.md) — **audio** monitors / IEM (not video)
+- [Rehearsal Standards](../03-rehearsal/rehearsal-standards.md)
+- [Media / Lyrics Operator](../01-roles/media-operator.md)
+- [Definitions](../00-foundation/definitions.md)

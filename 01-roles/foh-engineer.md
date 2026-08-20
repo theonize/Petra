@@ -15,7 +15,7 @@ Create a clear, comfortable congregational mix that prioritizes vocals and the l
 
 ## Attendance
 
-- **Prior group rehearsal required** when scheduled for that service (same bar as band) — see [`../03-rehearsal/rehearsal-standards.md`](../03-rehearsal/rehearsal-standards.md)
+- **Prior group rehearsal required** when scheduled for that service (same bar as band) — see [Rehearsal Standards](../03-rehearsal/rehearsal-standards.md)
 
 ## Pre-service / rehearsal
 

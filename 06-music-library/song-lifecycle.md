@@ -21,7 +21,7 @@
 
 ## Intake criteria (discussion starters)
 
-- Compliance with all six core criteria in [`song-selection-policy.md`](song-selection-policy.md): biblically defensible theology, corporate-worship intent, congregational ownership and singability, clear Christian confession, and pastoral usefulness
+- Compliance with all six core criteria in [Song Selection Policy](song-selection-policy.md): biblically defensible theology, corporate-worship intent, congregational ownership and singability, clear Christian confession, and pastoral usefulness
 - Compliance with the policy's content boundaries and 50-title rolling ceiling
 - Band/tech complexity vs available volunteers
 - Overlap with songs already in rotation
@@ -37,6 +37,6 @@
 
 ## Related
 
-- [`song-selection-policy.md`](song-selection-policy.md)
-- [`../01-roles/song-selector.md`](../01-roles/song-selector.md)
-- [`../10-templates/annual-song-repertoire.md`](../10-templates/annual-song-repertoire.md)
+- [Song Selection Policy](song-selection-policy.md)
+- [Song Selector](../01-roles/song-selector.md)
+- [Annual Song Repertoire Register](../10-templates/annual-song-repertoire.md)

@@ -38,8 +38,8 @@ Team knows the plan early; conflicts are handled cleanly; Sunday feels shepherde
 
 ## Related
 
-- [worship-lead.md](worship-lead.md)
-- [song-selector.md](song-selector.md)
-- [tech-lead.md](tech-lead.md)
-- [`../00-foundation/scope-and-authority.md`](../00-foundation/scope-and-authority.md) — decision rights and escalation
+- [Worship Lead](worship-lead.md)
+- [Song Selector](song-selector.md)
+- [Tech Lead](tech-lead.md)
+- [Scope & Authority](../00-foundation/scope-and-authority.md) — decision rights and escalation
 

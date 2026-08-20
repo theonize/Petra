@@ -20,4 +20,4 @@ Role charters define **ownership**, not every micro-task. Detailed SOPs live in 
 **Notes:**
 
 - One person may hold multiple roles on a given week (e.g. Song Selector + Worship Lead). When that happens, they still own each charter’s must-dos — or explicitly hand off pieces in the plan.
-- **Service Planner** (order of service beyond the musical set) is a hat, not a separate charter — usually worn by the Director or Worship Lead. See [`../00-foundation/definitions.md`](../00-foundation/definitions.md).
+- **Service Planner** (order of service beyond the musical set) is a hat, not a separate charter — usually worn by the Director or Worship Lead. See [Definitions](../00-foundation/definitions.md).

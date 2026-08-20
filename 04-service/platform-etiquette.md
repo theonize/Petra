@@ -5,7 +5,7 @@
 ## Presence
 
 - **Invite the room to sing** — volume, eyes, and energy make space for their voice (see [`Mission / Vision`](../00-foundation/mission-vision.md))
-- Engage the room; don’t perform *at* it (see [`Definitions`](../00-foundation/definitions.md) on worship vs performance language)
+- Engage the room; don’t perform *at* it (see [Definitions](../00-foundation/definitions.md) on worship vs performance language)
 - **Point attention past yourself** — the set may pull people out of the world’s noise, but never away from God; if the room is watching you, make space and re-center the lyric (see [`Mission / Vision`](../00-foundation/mission-vision.md))
 - When not playing, still worship — not disengaged gear fussing
 - Eyes up: use **confidence monitors** (video monitors); avoid stand clutter ([`Lyrics and Stage Displays`](../05-tech/lyrics-and-stage-displays.md))

@@ -4,10 +4,10 @@ Two-page handouts that point back into the skeleton. Print or share one per role
 
 | Handout | For |
 |---|---|
-| [musician-quick-reference.md](musician-quick-reference.md) | Band players and vocalists |
-| [tech-quick-reference.md](tech-quick-reference.md) | FOH, monitors, media, lights, stream, stage |
-| [song-selector-quick-reference.md](song-selector-quick-reference.md) | Song Selector (and anyone wearing that hat) |
-| [pastor-overview.md](pastor-overview.md) | Pastors and elders — framework highlights and where they are in the loop |
+| [Musician Quick Reference](musician-quick-reference.md) | Band players and vocalists |
+| [Tech Quick Reference](tech-quick-reference.md) | FOH, monitors, media, lights, stream, stage |
+| [Song Selector Quick Reference](song-selector-quick-reference.md) | Song Selector (and anyone wearing that hat) |
+| [Petra for Pastors — Framework Highlights](pastor-overview.md) | Pastors and elders — framework highlights and where they are in the loop |
 
 **Printable PDFs** (rebuilt by the site workflow on every merge): [musician](https://theonize.github.io/petra/pdf/musician-quick-reference.pdf) · [tech](https://theonize.github.io/petra/pdf/tech-quick-reference.pdf) · [song selector](https://theonize.github.io/petra/pdf/song-selector-quick-reference.pdf) · [pastor overview](https://theonize.github.io/petra/pdf/pastor-overview.pdf)
 

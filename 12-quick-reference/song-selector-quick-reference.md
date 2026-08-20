@@ -6,9 +6,9 @@ Two pages for the person who decides **what** we sing and **why**. Every line po
 
 ## The job in three lines
 
-- You curate **what** we sing and **why** — theologically sound, pastorally timed, musically reachable for *this* room ([song-selector](../01-roles/song-selector.md)).
-- The Worship Lead owns **how** — keys, forms, charts, rehearsal ([worship-lead](../01-roles/worship-lead.md)).
-- The Director holds final pastoral accountability; you propose, they decide ([scope-and-authority](../00-foundation/scope-and-authority.md)).
+- You curate **what** we sing and **why** — theologically sound, pastorally timed, musically reachable for *this* room ([Song Selector](../01-roles/song-selector.md)).
+- The Worship Lead owns **how** — keys, forms, charts, rehearsal ([Worship Lead](../01-roles/worship-lead.md)).
+- The Director holds final pastoral accountability; you propose, they decide ([Scope & Authority](../00-foundation/scope-and-authority.md)).
 
 Success: the room recognizes enough of the diet to sing boldly; new songs are taught on purpose; Worship Lead and Media are not guessing titles the night before rehearsal. If you also wear the Worship Lead or Director hat, complete both charters.
 
@@ -21,7 +21,7 @@ Success: the room recognizes enough of the diet to sing boldly; new songs are ta
 5. Confirm Media has titles early enough to build the deck; flag anything new, track-heavy, or production-special to Worship Lead/Media/Tech Lead
 6. After Sunday: keep, rework the teach, or rest — one line in the register
 
-Rehearsal may amend keys, forms, arrangements, and cues; wholesale song replacement is an exception you or the Director lead, not a rehearsal habit ([rehearsal-standards](../03-rehearsal/rehearsal-standards.md)).
+Rehearsal may amend keys, forms, arrangements, and cues; wholesale song replacement is an exception you or the Director lead, not a rehearsal habit ([Rehearsal Standards](../03-rehearsal/rehearsal-standards.md)).
 
 ## Must before the Worship Lead locks rehearsal materials
 
@@ -32,7 +32,7 @@ Rehearsal may amend keys, forms, arrangements, and cues; wholesale song replacem
 - [ ] Rough flow notes if no full planner doc
 - [ ] Landmines called out: range, complex form, sensitive lyric
 
-Use the [setlist-worksheet](../10-templates/setlist-worksheet.md); it carries the policy checklist and the repertoire count.
+Use the [Setlist Worksheet](../10-templates/setlist-worksheet.md); it carries the policy checklist and the repertoire count.
 
 ## Six core criteria — every song passes all six
 
@@ -45,7 +45,7 @@ Use the [setlist-worksheet](../10-templates/setlist-worksheet.md); it carries th
 | 5 | Clear Christian confession | Unmistakably the God and gospel of the Christian faith — not generic transcendence or romance? |
 | 6 | Pastoral usefulness | What work of worship and formation does it help this congregation do now? |
 
-Plus: repertoire fit (adds a function, not a duplicate) and team stewardship (this week's roster can deliver it without production becoming the point). Source: [song-selection-policy](../06-music-library/song-selection-policy.md).
+Plus: repertoire fit (adds a function, not a duplicate) and team stewardship (this week's roster can deliver it without production becoming the point). Source: [Song Selection Policy](../06-music-library/song-selection-policy.md).
 
 ## Hard boundaries
 
@@ -69,11 +69,11 @@ Plus: repertoire fit (adds a function, not a duplicate) and team stewardship (th
 7. **Let text govern treatment** — key, tempo, dynamics, posture clarify the words
 8. **Rest songs on purpose**; return them intentionally
 9. **Evaluate fruit, not applause** — participation, intelligibility, recall
-10. **Licensing and lyric accuracy** still apply ([licensing-ccli](../06-music-library/licensing-ccli.md))
+10. **Licensing and lyric accuracy** still apply ([Licensing](../06-music-library/licensing-ccli.md))
 
 ## New-song gate (before a title enters Trial)
 
-Record in the [annual-song-repertoire](../10-templates/annual-song-repertoire.md) register:
+Record in the [Annual Repertoire Register](../10-templates/annual-song-repertoire.md) register:
 
 - Six criteria confirmed in writing · line-by-line lyric review with Scripture references and concerns
 - Fits under the 50-title ceiling · named function the repertoire lacks
@@ -82,7 +82,7 @@ Record in the [annual-song-repertoire](../10-templates/annual-song-repertoire.md
 
 ## Lifecycle & review rhythm
 
-**Scout → Trial → Core → Rest → Archive** ([song-lifecycle](../06-music-library/song-lifecycle.md)). You own what enters and which titles this week; Worship Lead owns arrangement/rehearsal; Media/Tech Lead owns support; keep/rework/rest is a joint call after 2–3 outings.
+**Scout → Trial → Core → Rest → Archive** ([Song Lifecycle](../06-music-library/song-lifecycle.md)). You own what enters and which titles this week; Worship Lead owns arrangement/rehearsal; Media/Tech Lead owns support; keep/rework/rest is a joint call after 2–3 outings.
 
 | Cadence | Do |
 |---|---|
@@ -98,6 +98,6 @@ Record in the [annual-song-repertoire](../10-templates/annual-song-repertoire.md
 
 | Need | Page |
 |---|---|
-| Charter, policy, lifecycle | [song-selector](../01-roles/song-selector.md) · [song-selection-policy](../06-music-library/song-selection-policy.md) · [song-lifecycle](../06-music-library/song-lifecycle.md) |
-| Templates · keys, charts, licensing | [setlist-worksheet](../10-templates/setlist-worksheet.md) · [annual-song-repertoire](../10-templates/annual-song-repertoire.md) · [service-plan](../10-templates/service-plan.md) · [charts-keys-tempos](../06-music-library/charts-keys-tempos.md) · [licensing-ccli](../06-music-library/licensing-ccli.md) |
-| Why, and who decides | [mission-vision](../00-foundation/mission-vision.md) · [freedom-in-form-study](../00-foundation/freedom-in-form-study.md) · [scope-and-authority](../00-foundation/scope-and-authority.md) |
+| Charter, policy, lifecycle | [Song Selector](../01-roles/song-selector.md) · [Song Selection Policy](../06-music-library/song-selection-policy.md) · [Song Lifecycle](../06-music-library/song-lifecycle.md) |
+| Templates · keys, charts, licensing | [Setlist Worksheet](../10-templates/setlist-worksheet.md) · [Annual Repertoire Register](../10-templates/annual-song-repertoire.md) · [Service Plan Template](../10-templates/service-plan.md) · [Charts, Keys & Tempos](../06-music-library/charts-keys-tempos.md) · [Licensing](../06-music-library/licensing-ccli.md) |
+| Why, and who decides | [Mission & Vision](../00-foundation/mission-vision.md) · [Freedom in Form study](../00-foundation/freedom-in-form-study.md) · [Scope & Authority](../00-foundation/scope-and-authority.md) |

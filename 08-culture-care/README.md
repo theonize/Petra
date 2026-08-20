@@ -2,8 +2,8 @@
 
 | Doc | Summary |
 |---|---|
-| [team-culture.md](team-culture.md) | How we treat each other |
-| [feedback-and-conflict.md](feedback-and-conflict.md) | Notes and hard talks |
-| [pastoral-care.md](pastoral-care.md) | When life is heavy |
-| [safety-and-protection.md](safety-and-protection.md) | Protection boundaries |
-| [wardrobe-guidelines.md](wardrobe-guidelines.md) | Appearance defaults |
+| [Team Culture](team-culture.md) | How we treat each other |
+| [Feedback & Conflict](feedback-and-conflict.md) | Notes and hard talks |
+| [Pastoral Care](pastoral-care.md) | When life is heavy |
+| [Safety & Protection](safety-and-protection.md) | Protection boundaries |
+| [Wardrobe Guidelines](wardrobe-guidelines.md) | Appearance defaults |

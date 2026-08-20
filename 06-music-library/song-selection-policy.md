@@ -111,8 +111,8 @@ The Director may approve a one-service exception for a clear pastoral or liturgi
 
 ## Related
 
-- [`song-lifecycle.md`](song-lifecycle.md)
-- [`../01-roles/song-selector.md`](../01-roles/song-selector.md)
-- [`../10-templates/annual-song-repertoire.md`](../10-templates/annual-song-repertoire.md)
-- [`../10-templates/setlist-worksheet.md`](../10-templates/setlist-worksheet.md)
-- [`../00-foundation/freedom-in-form-study.md`](../00-foundation/freedom-in-form-study.md)
+- [Song Lifecycle](song-lifecycle.md)
+- [Song Selector](../01-roles/song-selector.md)
+- [Annual Song Repertoire Register](../10-templates/annual-song-repertoire.md)
+- [Setlist Worksheet](../10-templates/setlist-worksheet.md)
+- [Freedom in Form: Ordered Service and the Singing Church](../00-foundation/freedom-in-form-study.md)

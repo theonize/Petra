@@ -14,7 +14,7 @@ Support focus, mood, and congregation comfort without turning the platform into 
 
 ## Attendance
 
-- **Prior group rehearsal required** when scheduled for that service — see [`../03-rehearsal/rehearsal-standards.md`](../03-rehearsal/rehearsal-standards.md)
+- **Prior group rehearsal required** when scheduled for that service — see [Rehearsal Standards](../03-rehearsal/rehearsal-standards.md)
 - Prefer running key cues against the set at midweek when the weekend is cue-heavy
 
 ## Defaults

@@ -43,11 +43,11 @@ Petra is meant to be:
 
 ## A living system
 
-Petra has no per-page status or review stamps. Every page is the current working standard; history, authorship, and review live in git and the [CHANGELOG](CHANGELOG.md). Each page names an **Owner** (a role) who answers for it.
+Petra has no per-page status or review stamps. Every page is the current working standard; history, authorship, and review live in git and the [Changelog](CHANGELOG.md). Each page names an **Owner** (a role) who answers for it.
 
 ## Contributing
 
-See [`CONTRIBUTING`](CONTRIBUTING.md).
+See [Contributing to Petra](CONTRIBUTING.md).
 
 ## License
 

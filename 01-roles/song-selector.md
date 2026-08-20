@@ -41,7 +41,7 @@ One person may be Song Selector **and** Worship Lead or Director; when combined,
 | Team reality | Can this week’s roster and tech actually deliver it well? |
 | Continuity | What is familiar enough that the congregation leads themselves? |
 
-Primary success signal remains **congregational singing** — see [`../00-foundation/mission-vision.md`](../00-foundation/mission-vision.md).
+Primary success signal remains **congregational singing** — see [Mission & Vision](../00-foundation/mission-vision.md).
 
 ## Rhythm (typical)
 
@@ -73,13 +73,13 @@ Primary success signal remains **congregational singing** — see [`../00-founda
 
 ## Related
 
-- [`../06-music-library/song-selection-policy.md`](../06-music-library/song-selection-policy.md)
-- [`../06-music-library/song-lifecycle.md`](../06-music-library/song-lifecycle.md)
-- [`../10-templates/annual-song-repertoire.md`](../10-templates/annual-song-repertoire.md)
-- [`../06-music-library/charts-keys-tempos.md`](../06-music-library/charts-keys-tempos.md)
-- [worship-lead.md](worship-lead.md)
-- [director.md](director.md)
-- [`../10-templates/setlist-worksheet.md`](../10-templates/setlist-worksheet.md)
+- [Song Selection Policy](../06-music-library/song-selection-policy.md)
+- [Song Lifecycle](../06-music-library/song-lifecycle.md)
+- [Annual Song Repertoire Register](../10-templates/annual-song-repertoire.md)
+- [Charts, Keys & Tempos](../06-music-library/charts-keys-tempos.md)
+- [Worship Lead](worship-lead.md)
+- [Director](director.md)
+- [Setlist Worksheet](../10-templates/setlist-worksheet.md)
 
 ## Success looks like
 

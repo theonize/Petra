@@ -14,7 +14,7 @@
 1. **Interest** — conversation with Director / team lead  
 2. **Church alignment** — membership/attendance expectations per church policy  
 3. **Safety** — background check / child protection steps if required  
-4. **Assessment** — musical or tech skills ([auditions-and-assessments.md](auditions-and-assessments.md))  
+4. **Assessment** — musical or tech skills ([Auditions & Assessments](auditions-and-assessments.md))  
 5. **Shadow** — watch a real Sunday  
 6. **Provisional serve** — low-risk slots with a mentor  
 7. **Active roster** — normal scheduling  

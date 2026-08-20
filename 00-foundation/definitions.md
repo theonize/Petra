@@ -4,7 +4,7 @@
 
 Language shapes culture. We use plain operational words without turning Sunday into a show.
 
-**North star:** musical leadership exists to **encourage the congregation to sing**. Petra exists to hold mundane structure so artists are free to do that well — see [`mission-vision.md`](mission-vision.md) and [`scope-and-authority.md`](scope-and-authority.md).
+**North star:** musical leadership exists to **encourage the congregation to sing**. Petra exists to hold mundane structure so artists are free to do that well — see [Mission & Vision](mission-vision.md) and [Scope & Authority](scope-and-authority.md).
 
 ## Framing: worship, serve, perform
 
@@ -57,6 +57,6 @@ Language shapes culture. We use plain operational words without turning Sunday i
 | **Swap** | Trading a scheduled slot with another qualified teammate |
 | **Green room rule** | Offstage conduct still represents the team |
 
-Add church-specific room names, service brands, and tool names in [`11-reference/tools-and-systems.md`](../11-reference/tools-and-systems.md).
+Add church-specific room names, service brands, and tool names in [Tools & Systems](../11-reference/tools-and-systems.md).
 
-See also extended glossary: [`11-reference/glossary.md`](../11-reference/glossary.md).
+See also extended glossary: [Glossary](../11-reference/glossary.md).
