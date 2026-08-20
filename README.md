@@ -22,7 +22,7 @@ Petra is meant to be:
 
 **Short on time?** Read [the playbook on one page](PLAYBOOK.md).
 
-**Prefer a website?** The same pages are published at **<https://theonize.github.io/petra/>** (search, sidebar, printable handout PDFs) — rebuilt automatically on every merge to `main`.
+**Prefer a website?** The same pages are published at **<https://theonize.github.io/Petra/>** (search, sidebar, printable handout PDFs) — rebuilt automatically on every merge to `main`.
 
 ## How to use this repo
 
