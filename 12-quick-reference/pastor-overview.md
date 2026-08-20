@@ -57,8 +57,8 @@ The [song-selection-policy](../06-music-library/song-selection-policy.md) is the
 | Role | In one line |
 |---|---|
 | **Worship Lead** | Spiritual and operational owner; approves policy; final accountability for Sunday readiness and song diet |
-| **Song Selector** | Chooses **what** we sing and why; publishes the fixed set; hands off to MD |
-| **Music Director** | Owns **how** it is played — keys, forms, charts, rehearsal |
+| **Song Selector** | Chooses **what** we sing and why; publishes the fixed set; hands off to Director |
+| **Director** | Owns **how** it is played — keys, forms, charts, rehearsal |
 | **Tech Lead** | Owns production standards and tech roster health |
 | Band, vocals, FOH, monitors, media, lights, stream, stage | Each has a one-page charter in [01-roles/](../01-roles/) |
 
@@ -69,14 +69,14 @@ One person may wear several hats; each hat's must-dos still apply.
 | Decision | Propose | Decide |
 |---|---|---|
 | Songs / setlist titles for a service | Song Selector | Worship Lead |
-| Keys, tempos, forms, arrangements | MD | MD (Worship Lead if sensitive) |
-| **Appoint MD, Song Selector, or Tech Lead** | Worship Lead | **Pastoral oversight** |
+| Keys, tempos, forms, arrangements | Director | Director (Worship Lead if sensitive) |
+| **Appoint Director, Song Selector, or Tech Lead** | Worship Lead | **Pastoral oversight** |
 | **Change call times permanently** | Worship Lead | Worship Lead + **pastor liaison** |
 | Major gear purchase | Tech Lead | **Church finance / pastor process** |
 | One-week exception to an active policy | Role owner | Worship Lead |
 | Edit an active policy | Anyone | Worship Lead (or designee) — announced via changelog |
 
-**Escalation:** peer → MD / Tech Lead → Worship Lead → **pastoral oversight**. Pastoral-care and safety issues skip the chain. Mission, vision, and scope pages name pastoral oversight as co-owner ([scope-and-authority](../00-foundation/scope-and-authority.md)).
+**Escalation:** peer → Director / Tech Lead → Worship Lead → **pastoral oversight**. Pastoral-care and safety issues skip the chain. Mission, vision, and scope pages name pastoral oversight as co-owner ([scope-and-authority](../00-foundation/scope-and-authority.md)).
 
 **On a Sunday:** the platform lead listens to the pastor for deviations; if the sermon or prayer extends, the band watches the leader rather than inventing a concert. Incidents: people safety first, preserve the moment second, communicate once on a known channel ([service-run-of-show](../04-service/service-run-of-show.md) · [incidents](../04-service/incidents-and-contingencies.md)). Series notes and pastoral themes are the first input to each week's set.
 

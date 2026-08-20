@@ -1,7 +1,7 @@
 # Charts, Keys & Tempos
 
 **Status:** draft  
-**Owner:** MD  
+**Owner:** Director  
 **Last reviewed:** 2026-08-12
 
 ## Source of truth
@@ -10,7 +10,7 @@ The plan’s attached chart + stated key/tempo beat any random YouTube memory.
 
 ## Chart standards
 
-- Section labels match what MD calls (`V1`, `PC`, `C`, `V2`, `B`, `T`, `E`)
+- Section labels match what Director calls (`V1`, `PC`, `C`, `V2`, `B`, `T`, `E`)
 - Repeats and tags explicit
 - Capo notation clear for guitars
 - Lyric sheet synced for media

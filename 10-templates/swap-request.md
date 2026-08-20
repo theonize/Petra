@@ -12,7 +12,7 @@
 - [ ] Replacement accepted  
 - [ ] Original person released  
 - [ ] Scheduler / lead confirmed in official tool  
-- [ ] MD/Tech Lead notified if <24h  
+- [ ] Director/Tech Lead notified if <24h  
 
 **Confirmed by:**  
 **Date/time:**  

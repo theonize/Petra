@@ -1,4 +1,4 @@
-# Music Director (MD)
+# Director
 
 **Status:** draft  
 **Owner:** Worship Lead  
@@ -22,7 +22,7 @@ Lead the musical preparation and execution of the set so the band is unified and
 - Pastoral song diet and series-level song strategy (**Song Selector** + Worship Lead)
 - Final policy and team health (**Worship Lead**)
 
-When one person is both Song Selector and MD, complete both charters.
+When one person is both Song Selector and Director, complete both charters.
 
 ## Must before rehearsal
 

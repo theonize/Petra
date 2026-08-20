@@ -1,7 +1,7 @@
 # Rehearsal Agenda
 
 **Date:**  
-**MD:**  
+**Director:**  
 **Tech lead:**  
 **Linked service:**
 **Set fixed by:**

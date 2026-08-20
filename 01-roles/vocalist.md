@@ -1,7 +1,7 @@
 # Vocalist
 
 **Status:** draft  
-**Owner:** MD / Worship Lead  
+**Owner:** Director / Worship Lead  
 **Last reviewed:** 2026-08-13
 
 ## Purpose
@@ -16,14 +16,14 @@ Lead and support congregational singing with clear melody, blend, and pastoral p
 - Use the published key and form; flag range issues early (not at downbeat)
 - Blend over belting; serve the lyric and the lead
 - Mind mic technique and stage presence (engaged, not performative distraction)
-- Follow MD cues for entries, holds, and endings
+- Follow Director cues for entries, holds, and endings
 - **Eyes up:** default to **confidence monitors** (video monitors) for lyrics — not a music stand — unless cleared ([`../05-tech/lyrics-and-stage-displays.md`](../05-tech/lyrics-and-stage-displays.md))
 
 ## Preparation checklist
 
 - [ ] Listen to reference at set key
 - [ ] Mark breaths, unison vs harmony, and any descant moments
-- [ ] Note ad-libs: only where planned or clearly opened by MD/lead
+- [ ] Note ad-libs: only where planned or clearly opened by Director/lead
 - [ ] Wardrobe per [team guidelines](../08-culture-care/wardrobe-guidelines.md)
 - [ ] Prior rehearsal on the calendar; conflicts flagged early
 

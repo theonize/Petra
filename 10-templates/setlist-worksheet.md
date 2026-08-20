@@ -2,7 +2,7 @@
 
 **Date / service:**  
 **Song Selector:**  
-**MD:**  
+**Director:**  
 **Worship Lead cover:**  
 **Overall vibe / pastoral aim:**  
 
@@ -36,7 +36,7 @@
 - [ ] No more than one unfamiliar song in this service
 - [ ] New title has planned repeat outings and appears in the annual register
 
-## Transitions (MD)
+## Transitions (Director)
 
 - 1 → 2:
 - 2 → 3:

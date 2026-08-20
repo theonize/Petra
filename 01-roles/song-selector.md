@@ -6,9 +6,9 @@
 
 ## Purpose
 
-Choose songs that help **this congregation sing** in this season — theologically sound, pastorally timed, and musically reachable — then hand a clear set to the MD and service planner.
+Choose songs that help **this congregation sing** in this season — theologically sound, pastorally timed, and musically reachable — then hand a clear set to the Director and service planner.
 
-The Song Selector curates **what** we sing and **why**. The MD owns **how** it is arranged and rehearsed. Worship Lead holds final pastoral accountability.
+The Song Selector curates **what** we sing and **why**. The Director owns **how** it is arranged and rehearsed. Worship Lead holds final pastoral accountability.
 
 ## Owns
 
@@ -18,16 +18,16 @@ The Song Selector curates **what** we sing and **why**. The MD owns **how** it i
 - Congregational diet: new vs known, tempo arc, key range for the room
 - Flagging songs that need teach strategy, rest, or retirement
 - Coordinating intake of suggestions (team, pastors, congregation) into a real process
-- Early heads-up to MD / Media / Tech when a song is new, track-heavy, or production-special
+- Early heads-up to Director / Media / Tech when a song is new, track-heavy, or production-special
 
 ## Does not own alone
 
-- Final keys, forms, charts, and rehearsal leadership (**MD**)
+- Final keys, forms, charts, and rehearsal leadership (**Director**)
 - Full order of service / liturgy beyond the musical set (**Service Planner** / Worship Lead)
 - Lyric deck build and confidence routing (**Media**)
 - Saying yes to every request — selection serves the room, not popularity contests
 
-One person may be Song Selector **and** MD or Worship Lead; when combined, still complete both charters’ must-dos.
+One person may be Song Selector **and** Director or Worship Lead; when combined, still complete both charters’ must-dos.
 
 ## Selection criteria (default lens)
 
@@ -50,11 +50,11 @@ Primary success signal remains **congregational singing** — see [`../00-founda
 1. Pull series notes / calendar / pastoral themes  
 2. Draft set (or short menu of options) with intentional arc  
 3. Review with Worship Lead (and pastor liaison when needed)  
-4. Publish/fix the set by **[team-chosen day/time: ____________________]** and hand off to MD for keys, forms, charts, tracks
+4. Publish/fix the set by **[team-chosen day/time: ____________________]** and hand off to Director for keys, forms, charts, tracks
 5. Confirm Media has titles for lyric prep early enough to build the deck  
 6. After Sunday: quick note — keep, rework teach, or rest  
 
-## Must before the MD locks rehearsal materials
+## Must before the Director locks rehearsal materials
 
 - [ ] Song list (titles clear) published by the agreed weekly set-fix deadline
 - [ ] Every title is approved under the song-selection policy and recorded in the rolling repertoire register
@@ -68,7 +68,7 @@ Primary success signal remains **congregational singing** — see [`../00-founda
 | Role | Handoff |
 |---|---|
 | Worship Lead | Pastoral cover, final accountability, series alignment |
-| MD | Keys, tempo, form, arrangement, rehearsal |
+| Director | Keys, tempo, form, arrangement, rehearsal |
 | Service Planner | Where songs sit in the full gathering |
 | Media | Titles, forms, lyric accuracy needs |
 | Tech Lead | Unusual production (choir, orchestra, tracks, guests) |
@@ -79,10 +79,10 @@ Primary success signal remains **congregational singing** — see [`../00-founda
 - [`../06-music-library/song-lifecycle.md`](../06-music-library/song-lifecycle.md)
 - [`../10-templates/annual-song-repertoire.md`](../10-templates/annual-song-repertoire.md)
 - [`../06-music-library/charts-keys-tempos.md`](../06-music-library/charts-keys-tempos.md)
-- [music-director.md](music-director.md)
+- [director.md](director.md)
 - [worship-lead.md](worship-lead.md)
 - [`../10-templates/setlist-worksheet.md`](../10-templates/setlist-worksheet.md)
 
 ## Success looks like
 
-The room recognizes enough of the diet to sing boldly; new songs are taught on purpose; MD and Media are not guessing titles the night before rehearsal.
+The room recognizes enough of the diet to sing boldly; new songs are taught on purpose; Director and Media are not guessing titles the night before rehearsal.

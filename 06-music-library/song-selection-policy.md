@@ -83,7 +83,7 @@ Before a new title enters `Trial`:
 - [ ] Complete a line-by-line lyric review, recording Scripture references and any concern or ambiguity
 - [ ] Confirm it fits beneath the 50-title rolling ceiling
 - [ ] Name what function it adds that the current repertoire lacks
-- [ ] Choose a congregation-friendly key and teach strategy with the MD
+- [ ] Choose a congregation-friendly key and teach strategy with the Director
 - [ ] Schedule likely second and third outings
 - [ ] Prepare accurate lyrics, chart, and licensing information
 - [ ] Obtain Worship Lead approval; obtain pastoral review if theology-sensitive

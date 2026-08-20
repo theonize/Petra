@@ -12,7 +12,7 @@ Give musicians what they need to sing and play confidently without wrecking the 
 
 - Wedge / IEM mixes
 - Cue workflow and change etiquette
-- Stage volume advocacy (with MD/Tech Lead)
+- Stage volume advocacy (with Director/Tech Lead)
 
 ## Attendance
 

@@ -1,7 +1,7 @@
 # Band Musician
 
 **Status:** draft  
-**Owner:** MD  
+**Owner:** Director  
 **Last reviewed:** 2026-08-13
 
 ## Purpose
@@ -21,7 +21,7 @@ Electric/acoustic guitar, bass, keys/pads, drums/percussion, other instruments a
 - Play the arrangement: leave holes, don’t fill every bar
 - Volume discipline — stage volume is a team problem, not a personal right
 - Click loyalty when click is on; recover quietly if you slip
-- **Stage reading default:** use **confidence monitors** (aka video monitors) for lyrics/cues/charts; music stands only with MD/Tech Lead exception ([`../05-tech/lyrics-and-stage-displays.md`](../05-tech/lyrics-and-stage-displays.md))
+- **Stage reading default:** use **confidence monitors** (aka video monitors) for lyrics/cues/charts; music stands only with Director/Tech Lead exception ([`../05-tech/lyrics-and-stage-displays.md`](../05-tech/lyrics-and-stage-displays.md))
 
 ## Preparation checklist
 
@@ -33,4 +33,4 @@ Electric/acoustic guitar, bass, keys/pads, drums/percussion, other instruments a
 
 ## Drummer’s note
 
-When drums captain the tempo and feel, lock in with the MD and any tracks before debating fills.
+When drums captain the tempo and feel, lock in with the Director and any tracks before debating fills.

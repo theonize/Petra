@@ -1,7 +1,7 @@
 # Shadow & Training
 
 **Status:** draft  
-**Owner:** Tech Lead / MD  
+**Owner:** Tech Lead / Director  
 **Last reviewed:** 2026-08-12
 
 ## Shadow rules

@@ -10,23 +10,23 @@ Two pages for the person who decides **what** we sing and **why**. Every line po
 ## The job in three lines
 
 - You curate **what** we sing and **why** — theologically sound, pastorally timed, musically reachable for *this* room ([song-selector](../01-roles/song-selector.md)).
-- The MD owns **how** — keys, forms, charts, rehearsal ([music-director](../01-roles/music-director.md)).
+- The Director owns **how** — keys, forms, charts, rehearsal ([director](../01-roles/director.md)).
 - The Worship Lead holds final pastoral accountability; you propose, they decide ([scope-and-authority](../00-foundation/scope-and-authority.md)).
 
-Success: the room recognizes enough of the diet to sing boldly; new songs are taught on purpose; MD and Media are not guessing titles the night before rehearsal. If you also wear the MD or Worship Lead hat, complete both charters.
+Success: the room recognizes enough of the diet to sing boldly; new songs are taught on purpose; Director and Media are not guessing titles the night before rehearsal. If you also wear the Director or Worship Lead hat, complete both charters.
 
 ## Weekly rhythm
 
 1. Pull series notes, calendar, pastoral themes
 2. Draft the set (or a short menu) with an intentional arc — opener energy, response moment, closer
 3. Review with Worship Lead (pastor liaison when needed)
-4. **Publish the fixed set by the team deadline: ____________** and hand off to MD for keys, forms, charts, tracks
-5. Confirm Media has titles early enough to build the deck; flag anything new, track-heavy, or production-special to MD/Media/Tech Lead
+4. **Publish the fixed set by the team deadline: ____________** and hand off to Director for keys, forms, charts, tracks
+5. Confirm Media has titles early enough to build the deck; flag anything new, track-heavy, or production-special to Director/Media/Tech Lead
 6. After Sunday: keep, rework the teach, or rest — one line in the register
 
 Rehearsal may amend keys, forms, arrangements, and cues; wholesale song replacement is an exception you or the Worship Lead lead, not a rehearsal habit ([rehearsal-standards](../03-rehearsal/rehearsal-standards.md)).
 
-## Must before the MD locks rehearsal materials
+## Must before the Director locks rehearsal materials
 
 - [ ] Titles published by the weekly set-fix deadline
 - [ ] Every title passes the policy and is in the rolling repertoire register
@@ -80,12 +80,12 @@ Record in the [annual-song-repertoire](../10-templates/annual-song-repertoire.md
 
 - Six criteria confirmed in writing · line-by-line lyric review with Scripture references and concerns
 - Fits under the 50-title ceiling · named function the repertoire lacks
-- Congregation-friendly key and teach strategy agreed with MD · second and third outings scheduled
+- Congregation-friendly key and teach strategy agreed with Director · second and third outings scheduled
 - Accurate lyrics, chart, licensing ready · Worship Lead approval; pastoral review if theology-sensitive
 
 ## Lifecycle & review rhythm
 
-**Scout → Trial → Core → Rest → Archive** ([song-lifecycle](../06-music-library/song-lifecycle.md)). You own what enters and which titles this week; MD owns arrangement/rehearsal; Media/Tech Lead owns support; keep/rework/rest is a joint call after 2–3 outings.
+**Scout → Trial → Core → Rest → Archive** ([song-lifecycle](../06-music-library/song-lifecycle.md)). You own what enters and which titles this week; Director owns arrangement/rehearsal; Media/Tech Lead owns support; keep/rework/rest is a joint call after 2–3 outings.
 
 | Cadence | Do |
 |---|---|
@@ -95,7 +95,7 @@ Record in the [annual-song-repertoire](../10-templates/annual-song-repertoire.md
 
 ## Handoffs
 
-**Worship Lead** — draft set for review, exceptions with reasons, register count · **MD** — fixed titles, teach intent, landmines, flow notes, early enough for keys/charts · **Service Planner** — where songs sit in the whole gathering · **Media** — titles and expected forms early enough to build house + confidence decks · **Tech Lead** — heads-up on choir, orchestra, tracks, guests, anything production-special.
+**Worship Lead** — draft set for review, exceptions with reasons, register count · **Director** — fixed titles, teach intent, landmines, flow notes, early enough for keys/charts · **Service Planner** — where songs sit in the whole gathering · **Media** — titles and expected forms early enough to build house + confidence decks · **Tech Lead** — heads-up on choir, orchestra, tracks, guests, anything production-special.
 
 ## Where to look
 

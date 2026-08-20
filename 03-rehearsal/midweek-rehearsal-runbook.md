@@ -1,7 +1,7 @@
 # Midweek Rehearsal Runbook
 
 **Status:** draft  
-**Owner:** MD + Tech Lead  
+**Owner:** Director + Tech Lead  
 **Last reviewed:** 2026-08-18
 
 ## Fill in the local rhythm
@@ -25,7 +25,7 @@ The set is fixed by the team’s chosen deadline. The **Song Selector** is respo
 | Role | Arrive ready with |
 |---|---|
 | Song Selector / Worship Lead | Fixed song list, pastoral purpose, and any new-song teaching intent published |
-| MD | Keys, tempos, forms, charts/references, tracks, leads, and difficult transitions prepared |
+| Director | Keys, tempos, forms, charts/references, tracks, leads, and difficult transitions prepared |
 | Band | Songs and forms learned; instrument, patches, and personal backup ready |
 | Vocals | Lyrics, melody, and assigned parts learned; water and personal backup ready |
 | Tech Lead / Stage | Roster, stage needs, input list, and unusual production needs reviewed |
@@ -33,7 +33,7 @@ The set is fixed by the team’s chosen deadline. The **Song Selector** is respo
 | Media | Service plan imported; house and confidence content matches the fixed set and known forms |
 | Lights / Stream | Service plan and required cues/scenes prepared for the systems being used |
 
-If an item is not ready, tell the MD or Tech Lead **before** the ready-to-rehearse time so the plan can be simplified.
+If an item is not ready, tell the Director or Tech Lead **before** the ready-to-rehearse time so the plan can be simplified.
 
 ## Default timeline
 
@@ -41,12 +41,12 @@ If an item is not ready, tell the MD or Tech Lead **before** the ready-to-rehear
 |---|---|---|
 | T-0:15 | Tech open / line check; **house + confidence** up | Tech (all scheduled) |
 | T-0:00 | Ready-to-rehearse time — band on stage, tech at positions | All (band **and** tech) |
-| T+0:10 | Devotions / frame the night (short) | Worship Lead or MD |
-| T+0:15 | Review the last performance: celebrate wins, identify a few concrete fixes | MD + Tech Lead |
-| T+0:25 | Warm-up: one easy song or a focused musical/technical exercise | MD + Tech |
-| … | Work every part of the set **and each transition between parts** — slides and production live | MD + Tech |
-| T+1:20 | Full set run (or partial if time) — full production path | MD + Tech |
-| T+1:40 | Notes + prayer | MD / Worship Lead / Tech Lead |
+| T+0:10 | Devotions / frame the night (short) | Worship Lead or Director |
+| T+0:15 | Review the last performance: celebrate wins, identify a few concrete fixes | Director + Tech Lead |
+| T+0:25 | Warm-up: one easy song or a focused musical/technical exercise | Director + Tech |
+| … | Work every part of the set **and each transition between parts** — slides and production live | Director + Tech |
+| T+1:20 | Full set run (or partial if time) — full production path | Director + Tech |
+| T+1:40 | Notes + prayer | Director / Worship Lead / Tech Lead |
 | T+1:50 | Strike / reset as needed | All |
 
 ## Who is expected
@@ -99,7 +99,7 @@ One purpose of rehearsal is to correct and complete the service plan. Record agr
 - tracks, charts, patches, input needs, and monitor needs
 - house lyrics, confidence content, lighting, and stream cues
 
-Before leaving, the MD and Tech Lead make sure the current plan and affected materials reflect the same agreed version.
+Before leaving, the Director and Tech Lead make sure the current plan and affected materials reflect the same agreed version.
 
 ## End state
 

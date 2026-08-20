@@ -104,7 +104,7 @@ Truthful boundaries can enlarge rather than shrink artistic freedom. When the ch
 
 Song is formative speech. Therefore, freedom for the artist cannot mean freedom to teach anything from the platform. Conversely, doctrinal care must not become an excuse for cultural sameness or administrative control.
 
-**Petra connection:** the Song Selector and Worship Lead evaluate congregational usefulness and doctrinal fit; the MD is free to shape musical execution; pastoral oversight remains the doctrinal authority. Petra records the handoffs but does not replace the church's confession or pastors.
+**Petra connection:** the Song Selector and Worship Lead evaluate congregational usefulness and doctrinal fit; the Director is free to shape musical execution; pastoral oversight remains the doctrinal authority. Petra records the handoffs but does not replace the church's confession or pastors.
 
 ## The freedom/order tension
 

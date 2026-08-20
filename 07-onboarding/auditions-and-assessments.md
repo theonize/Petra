@@ -1,7 +1,7 @@
 # Auditions & Assessments
 
 **Status:** draft  
-**Owner:** MD / Tech Lead  
+**Owner:** Director / Tech Lead  
 **Last reviewed:** 2026-08-12
 
 ## Heart posture

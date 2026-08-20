@@ -12,7 +12,7 @@ Carry spiritual and operational ownership of the worship ministry so the team is
 
 - Vision, values, and Petra policy approval
 - Team culture, discipline, and pastoral care pathway
-- Leadership development (MD, **Song Selector**, Tech Lead, section leads)
+- Leadership development (Director, **Song Selector**, Tech Lead, section leads)
 - Service planning standards and final accountability for Sunday readiness
 - Final accountability for song diet / set direction (often exercised *through* Song Selector)
 - Coordination with pastors, production, and other ministries
@@ -21,14 +21,14 @@ Carry spiritual and operational ownership of the worship ministry so the team is
 ## Does not own alone
 
 - Every mix decision (Tech Lead / FOH)
-- Every musical arrangement choice mid-rehearsal (MD)
+- Every musical arrangement choice mid-rehearsal (Director)
 - Every title pick when a Song Selector is appointed (they propose; Worship Lead still covers)
 - Church-wide HR or facilities master policy
 
 ## Weekly rhythm (typical)
 
 - Confirm upcoming rosters and gaps
-- Review setlists/order of service with **Song Selector**, MD, and service planner
+- Review setlists/order of service with **Song Selector**, Director, and service planner
 - Touch base with Tech Lead on anything unusual (guests, tracks, specials)
 - Post-service notes: people first, then process
 
@@ -39,5 +39,5 @@ Team knows the plan early; conflicts are handled cleanly; Sunday feels shepherde
 ## Related
 
 - [song-selector.md](song-selector.md)
-- [music-director.md](music-director.md)
+- [director.md](director.md)
 

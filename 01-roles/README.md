@@ -5,8 +5,8 @@ Role charters define **ownership**, not every micro-task. Detailed SOPs live in 
 | Role | In one line |
 |---|---|
 | [Worship Lead](worship-lead.md) | Spiritual and operational owner of the ministry |
-| [Song Selector](song-selector.md) | Chooses **what** we sing and why; hands the set to the MD |
-| [Music Director (MD)](music-director.md) | Owns **how** it is played — keys, forms, charts, rehearsal |
+| [Song Selector](song-selector.md) | Chooses **what** we sing and why; hands the set to the Director |
+| [Director](director.md) | Owns **how** it is played — keys, forms, charts, rehearsal |
 | [Vocalist](vocalist.md) | Leads congregational melody with blend and presence |
 | [Band musician](band-musician.md) | Rhythmic and harmonic foundation that serves the song |
 | [Tech Lead](tech-lead.md) | Owns production standards and tech roster health |
@@ -19,5 +19,5 @@ Role charters define **ownership**, not every micro-task. Detailed SOPs live in 
 
 **Notes:**
 
-- One person may hold multiple roles on a given week (e.g. Song Selector + MD). When that happens, they still own each charter’s must-dos — or explicitly hand off pieces in the plan.
-- **Service Planner** (order of service beyond the musical set) is a hat, not a separate charter — usually worn by the Worship Lead or MD. See [`../00-foundation/definitions.md`](../00-foundation/definitions.md).
+- One person may hold multiple roles on a given week (e.g. Song Selector + Director). When that happens, they still own each charter’s must-dos — or explicitly hand off pieces in the plan.
+- **Service Planner** (order of service beyond the musical set) is a hat, not a separate charter — usually worn by the Worship Lead or Director. See [`../00-foundation/definitions.md`](../00-foundation/definitions.md).

@@ -1,7 +1,7 @@
 # Pre-Service Rehearsal
 
 **Status:** draft  
-**Owner:** MD + Tech Lead  
+**Owner:** Director + Tech Lead  
 **Last reviewed:** 2026-08-17
 
 ## Purpose
@@ -36,7 +36,7 @@ These are distinct commitments:
 
 | Role | Service-ready check |
 |---|---|
-| Worship Lead / MD | Final plan and cues known; congregation-friendly keys/forms confirmed; fallback calls clear |
+| Worship Lead / Director | Final plan and cues known; congregation-friendly keys/forms confirmed; fallback calls clear |
 | Band | Tuned; patches and charts/backups ready; IEM/monitor settled; instrument safe and quiet |
 | Vocals | Mic and IEM checked; water ready; lyrics/parts known; mic muted or placed as directed |
 | Tech Lead / Stage | People in position; stage safe; spares and known fallbacks ready |

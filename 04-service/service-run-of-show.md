@@ -22,7 +22,7 @@
 
 | Domain | Primary | Backup |
 |---|---|---|
-| Musical calls | MD / platform lead | Worship Lead |
+| Musical calls | Director / platform lead | Worship Lead |
 | House mix | FOH | Tech Lead |
 | Lyrics | Media | Stream op if cross-trained |
 | Lights | Lighting | Tech Lead |

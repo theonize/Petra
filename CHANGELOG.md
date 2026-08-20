@@ -4,6 +4,7 @@ All notable changes to Petra docs.
 
 ## 2026-08-20
 
+- Terminology: **Director** replaces “MD” / “Music Director” repo-wide; `01-roles/music-director.md` renamed to `01-roles/director.md`; definitions note the former names
 - New `12-quick-reference/` — two-page handouts that point back into the skeleton: musician (band & vocals), tech (all tech roles), Song Selector, and a pastor overview of the framework
 - README routing table, PLAYBOOK, and CONTRIBUTING updated to reference the new folder
 
@@ -42,7 +43,7 @@ All notable changes to Petra docs.
 - New: `05-tech/lyrics-and-stage-displays.md` — **confidence monitors** (aka video monitors) default over stands; house lyric standards
 - Terminology: video monitors = confidence monitors (preferred term)
 - Tech attends prior rehearsal (same bar as band); **house + confidence slides used at practice**
-- New role: **Song Selector** (set/song diet; handoff to MD)
+- New role: **Song Selector** (set/song diet; handoff to Director)
 - Updated media checklist, media/band/vocalist roles, pre-service note, glossary, open questions, culture, contributing
 
 ## 2026-08-12

@@ -21,8 +21,8 @@ The service gives people a chance to attend to Someone besides themselves. It ma
 | Role | In one line |
 |---|---|
 | [Worship Lead](01-roles/worship-lead.md) | Spiritual and operational owner of the ministry |
-| [Song Selector](01-roles/song-selector.md) | Chooses **what** we sing and why; hands the set to the MD |
-| [Music Director (MD)](01-roles/music-director.md) | Owns **how** it is played — keys, forms, charts, rehearsal |
+| [Song Selector](01-roles/song-selector.md) | Chooses **what** we sing and why; hands the set to the Director |
+| [Director](01-roles/director.md) | Owns **how** it is played — keys, forms, charts, rehearsal |
 | [Vocalist](01-roles/vocalist.md) | Leads congregational melody with blend and presence |
 | [Band musician](01-roles/band-musician.md) | Rhythmic and harmonic foundation that serves the song |
 | [Tech Lead](01-roles/tech-lead.md) | Owns production standards and tech roster health |
@@ -37,7 +37,7 @@ One person may wear several hats in a week; each hat’s must-dos still apply.
 
 ## The week at a glance
 
-1. **Set fixed** by the team deadline (Song Selector) → keys, forms, and charts published (MD)
+1. **Set fixed** by the team deadline (Song Selector) → keys, forms, and charts published (Director)
 2. **Midweek rehearsal** — everyone serving Sunday, full production path (house + confidence live)
 3. **Fixes land before Sunday** — charts, decks, cues, gear
 4. **Pre-service run-through** confirms readiness; freeze time ends experiments

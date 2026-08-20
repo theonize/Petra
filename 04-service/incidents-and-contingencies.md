@@ -14,8 +14,8 @@
 
 | Failure | Immediate action | Owner |
 |---|---|---|
-| Lead vocal mic dies | Swap spare / channel; MD keeps singing if handheld available | Stage + FOH |
-| Click/tracks die | MD counts band in; drop to live arrangement | MD + playback owner |
+| Lead vocal mic dies | Swap spare / channel; Director keeps singing if handheld available | Stage + FOH |
+| Click/tracks die | Director counts band in; drop to live arrangement | Director + playback owner |
 | Lyrics freeze | Holding slide; lead vocal carries; switch to or reboot backup | Media |
 | Stream drop | In-room continues; restart encoder when safe | Stream |
 | Power blip | Stay calm; follow power-on SOP; pastoral cover | Tech Lead |

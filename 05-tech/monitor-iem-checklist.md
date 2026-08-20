@@ -23,4 +23,4 @@
 ## Post
 
 - [ ] Packs returned, charging
-- [ ] Note chronic “more me” stage volume issues for MD/Tech Lead
+- [ ] Note chronic “more me” stage volume issues for Director/Tech Lead

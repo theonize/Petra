@@ -8,7 +8,7 @@ Capture decisions we still need so drafts can harden into `active` policy.
 ## Identity & authority
 
 - [ ] Official church/ministry name to print on docs?
-- [ ] Who is Worship Lead / MD / Tech Lead today?
+- [ ] Who is Worship Lead / Director / Tech Lead today?
 - [ ] Elder/pastor liaison for escalations?
 
 ## Calendar & scheduling
