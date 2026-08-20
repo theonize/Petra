@@ -37,7 +37,7 @@ def on_page_content(html: str, page, config, files):
         return html
     url = base + page.url
     _pages.append((page.url, url))
-    svg = _qr(url).svg_inline(scale=SCALE_SVG, border=1)
+    svg = _qr(url).svg_inline(scale=SCALE_SVG, border=4)
     rel = "qr.svg" if page.url.endswith("/") or page.url == "" else page.url.rsplit("/", 1)[-1] + ".qr.svg"
     block = (
         '<div class="page-qr">'
@@ -59,8 +59,8 @@ def on_post_build(config):
             out_dir = site_dir / Path(page_url).parent
             stem = Path(page_url).stem + ".qr"
         out_dir.mkdir(parents=True, exist_ok=True)
-        qr.save(str(out_dir / f"{stem}.svg"), scale=SCALE_SVG, border=1)
-        qr.save(str(out_dir / f"{stem}.png"), scale=SCALE_PNG, border=2)
+        qr.save(str(out_dir / f"{stem}.svg"), scale=SCALE_SVG, border=4)
+        qr.save(str(out_dir / f"{stem}.png"), scale=SCALE_PNG, border=4)
     _pages.clear()
 
 
@@ -92,8 +92,8 @@ def main(argv):
         name = (page_url.strip("/").replace("/", "__") or "home")
         qr = _qr(base + page_url)
         out.mkdir(parents=True, exist_ok=True)
-        qr.save(str(out / f"{name}.svg"), scale=SCALE_SVG, border=1)
-        qr.save(str(out / f"{name}.png"), scale=SCALE_PNG, border=2)
+        qr.save(str(out / f"{name}.svg"), scale=SCALE_SVG, border=4)
+        qr.save(str(out / f"{name}.png"), scale=SCALE_PNG, border=4)
         print(f"{base}{page_url} -> {out / name}.png")
 
 

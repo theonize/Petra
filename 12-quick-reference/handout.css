@@ -21,8 +21,8 @@ h1 + p { font-size: 0.85em; color: #555; }
 input[type=checkbox] { margin: 0 0.3em 0 0; }
 #title-block-header, header.title-block-header { display: none; }
 /* QR to the handout's live page, floated beside the H1 (adds no height). */
-.handout-qr { float: right; width: 2.1cm; margin: 0 0 0.3em 0.7em; text-align: center; font-size: 0.62em; line-height: 1.15; color: #555; }
-.handout-qr svg { width: 2.1cm; height: 2.1cm; display: block; }
+.handout-qr { float: right; width: 2.9cm; margin: 0 0 0.2em 0.6em; text-align: center; font-size: 0.62em; line-height: 1.15; color: #555; }
+.handout-qr svg { width: 2.9cm; height: 2.9cm; display: block; }
 /* Logo beside the title (left); QR floats right. */
 .handout-logo { float: left; width: 1.7cm; height: 1.7cm; margin: 0 0.5em 0.2em 0; }
 .no-print { display: none; }

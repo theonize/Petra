@@ -10,6 +10,6 @@
 @media print {
   .page-qr__link { display: none; }
   .page-qr__img { display: inline-block; text-align: center; }
-  .page-qr__img svg { width: 2.4cm; height: 2.4cm; }
+  .page-qr__img svg { width: 3cm; height: 3cm; }
   .page-qr__url { font-size: 0.6rem; color: #555; word-break: break-all; max-width: 5cm; }
 }
