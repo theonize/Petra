@@ -1,4 +1,7 @@
-# (Petra)[https://theonize.github.io/petra]
+<img src="assets/petra-logo.png" alt="Petra — the rock-cut city" width="160" align="right">
+
+# [Petra](https://theonize.github.io/petra/)
+
 **<https://theonize.github.io/petra/>**
 
 Worship team runbook — policies, procedures, and operating norms for musicians, vocalists, and technical crew.

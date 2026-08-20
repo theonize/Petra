@@ -25,13 +25,15 @@ for f in musician-quick-reference tech-quick-reference song-selector-quick-refer
   # QR to the handout's live page (needs `pip install segno`); floated beside the H1 by handout.css.
   # Also leaves $f.qr.svg / $f.qr.png in the output dir for sharing.
   url="${site_url}12-quick-reference/$f/"
-  python - "$url" "$out/$f.qr.html" "$out/$f.qr.svg" "$out/$f.qr.png" <<'PY'
-import sys, segno
-url, html, svg, png = sys.argv[1:5]
+  python - "$url" "$out/$f.qr.html" "$out/$f.qr.svg" "$out/$f.qr.png" "$here/../assets/petra-logo.png" <<'PY'
+import sys, base64, segno
+url, html, svg, png, logo = sys.argv[1:6]
 q = segno.make(url, error="m")
 host = url.split("//", 1)[-1].split("/", 1)[0]
+logo_b64 = base64.b64encode(open(logo, "rb").read()).decode()
 with open(html, "w", encoding="utf-8") as fh:
     fh.write('<div class="handout-qr">' + q.svg_inline(scale=3, border=1) + f"<div>{host}</div></div>\n")
+    fh.write(f'<img class="handout-logo" src="data:image/png;base64,{logo_b64}" alt="">\n')
 q.save(svg, scale=3, border=1)
 q.save(png, scale=8, border=2)
 PY
