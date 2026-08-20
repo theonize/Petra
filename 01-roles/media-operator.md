@@ -29,7 +29,7 @@ Follow [`../05-tech/lyrics-and-stage-displays.md`](../05-tech/lyrics-and-stage-d
 ## Must at midweek rehearsal
 
 - [ ] Deck matches set order and song forms (incl. tags/endings)
-- [ ] **House / overhead** output on and advancing with the Director
+- [ ] **House / overhead** output on and advancing with the Worship Lead
 - [ ] **Confidence monitors** on; readability glanced from stage
 - [ ] Wrong slides / breaks noted for fix before Sunday
 - [ ] Outputs isolated correctly (confidence-only content never lands on house)
@@ -46,6 +46,6 @@ Follow [`../05-tech/lyrics-and-stage-displays.md`](../05-tech/lyrics-and-stage-d
 
 ## During
 
-- Watch the Director/lead, not only the script
+- Watch the Worship Lead/lead, not only the script
 - When lost, go to a safe title / holding slide — never random verses
 - Coordinate with stream operator on shared resources

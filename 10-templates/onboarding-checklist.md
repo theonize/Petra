@@ -7,7 +7,7 @@
 
 ## Admin
 
-- [ ] Conversation with Worship Lead  
+- [ ] Conversation with Director  
 - [ ] Church requirements (membership/attendance) satisfied per policy  
 - [ ] Background check / protection training if required  
 - [ ] Planning tool account  

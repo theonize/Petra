@@ -1,14 +1,14 @@
 # Open Questions
 
 **Status:** living scratchpad  
-**Owner:** Worship Lead  
+**Owner:** Director  
 
 Capture decisions we still need so drafts can harden into `active` policy.
 
 ## Identity & authority
 
 - [ ] Official church/ministry name to print on docs?
-- [ ] Who is Worship Lead / Director / Tech Lead today?
+- [ ] Who is Director / Worship Lead / Tech Lead today?
 - [ ] Elder/pastor liaison for escalations?
 
 ## Calendar & scheduling

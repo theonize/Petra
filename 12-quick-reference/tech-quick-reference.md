@@ -28,7 +28,7 @@ Technology succeeds when nobody talks about it afterward — except to say they 
 
 | When | What happens | Tech |
 |---|---|---|
-| Set fixed | Song Selector publishes titles; Director publishes keys/forms/charts; Song Selector flags new, track-heavy, or production-special songs | Tech Lead scans for unusual needs (choir mics, guests, playback); show files and decks staged |
+| Set fixed | Song Selector publishes titles; Worship Lead publishes keys/forms/charts; Song Selector flags new, track-heavy, or production-special songs | Tech Lead scans for unusual needs (choir mics, guests, playback); show files and decks staged |
 | Midweek T-0:15 | Tech open / line check; **house + confidence up** | FOH/Monitors: gains, talkback, RF, click; Media: deck to plan, both outputs routed |
 | Rehearsal | Review → warm-up → every part → every **transition** → run, full production path | Stabilize gains early; freeze cosmetic tweaks until forms settle; run slides for real; confirm confidence readable from stage during at least one full song; capture fixes |
 | Before Sunday | Amendments land | Deck/cue/input-list fixes done; merge intentional improvements to golden |
@@ -40,7 +40,7 @@ Technology succeeds when nobody talks about it afterward — except to say they 
 
 | Role | Midweek must | Pre-service must | During |
 |---|---|---|---|
-| **FOH** | Build the mix against the real band, not only a line check; talk sparse vs full with Director | Power path; correct show file; line check, phantom, labels; walk the room; spare vocal path; mute groups/VCAs sane | Lead vocal intelligibility → groove → supporting vocals → harmony → FX; speaking mics prioritized; don't chase every peak |
+| **FOH** | Build the mix against the real band, not only a line check; talk sparse vs full with Worship Lead | Power path; correct show file; line check, phantom, labels; walk the room; spare vocal path; mute groups/VCAs sane | Lead vocal intelligibility → groove → supporting vocals → harmony → FX; speaking mics prioritized; don't chase every peak |
 | **Monitors** | Build stable mixes early; discourage rebuilds | Packs labeled, RF coordinated, click/guide metered; wedge backup per policy | One talkback protocol; "more me" over louder wedges; click levels consistent; freeze after final run |
 | **Media** | Deck matches order and **sung** forms (tags, endings); house on and advancing; confidence on and readable; note fixes | Spelling/theology lines checked; 2–4 lines per slide, phrase breaks, high contrast; spontaneous folder; backup export/machine; outputs isolated | Eyes on platform lead; next slide armed; advance slightly early; lost → safe title/black/last chorus, never random verses |
 | **Lights** | Run key cues against the set when cue-heavy | Patch/universe OK; cue stack matches plan; manual bump ready | Bright enough to feel invited to sing; calmer for prayer/word; no cue spam |
@@ -51,7 +51,7 @@ Checklists: [foh](../05-tech/foh-checklist.md) · [monitor-iem](../05-tech/monit
 
 ## Lyrics & displays in one breath
 
-House/overhead = congregation; confidence monitors (aka video monitors) = platform team; stream follows house. House carries singable lyrics only — no chord charts, no insider formatting; matches the **sung** arrangement. Confidence may add section labels, next-section peek, charts, host cues — never private or pastoral-sensitive notes. Stands are exception-only (accessibility, no-prep guest, complex chart, confidence failure, Director-led moment). Backup path documented ([lyrics-and-stage-displays](../05-tech/lyrics-and-stage-displays.md)).
+House/overhead = congregation; confidence monitors (aka video monitors) = platform team; stream follows house. House carries singable lyrics only — no chord charts, no insider formatting; matches the **sung** arrangement. Confidence may add section labels, next-section peek, charts, host cues — never private or pastoral-sensitive notes. Stands are exception-only (accessibility, no-prep guest, complex chart, confidence failure, Worship Lead–called moment). Backup path documented ([lyrics-and-stage-displays](../05-tech/lyrics-and-stage-displays.md)).
 
 ## When something breaks
 
@@ -59,8 +59,8 @@ People safety first; preserve the moment second; communicate once on a known cha
 
 | Failure | Do | Owner |
 |---|---|---|
-| Lead vocal mic dies | Swap spare/channel; Director keeps singing | Stage + FOH |
-| Click/tracks die | Director counts in; live arrangement | Director + playback owner |
+| Lead vocal mic dies | Swap spare/channel; Worship Lead keeps singing | Stage + FOH |
+| Click/tracks die | Worship Lead counts in; live arrangement | Worship Lead + playback owner |
 | Lyrics freeze | Holding slide; lead carries; switch to or reboot backup | Media |
 | Stream drop | Room continues; restart encoder when safe | Stream |
 | Power blip | Stay calm; power-on SOP; pastoral cover | Tech Lead |
@@ -74,7 +74,7 @@ Accept/decline schedule requests within **48 h**, swaps within **24 h**; availab
 
 ## Who to ask
 
-Peer → **Tech Lead** → Worship Lead → Pastoral oversight. Safety hazards and care issues skip the chain ([scope-and-authority](../00-foundation/scope-and-authority.md)). Major gear purchase: Tech Lead proposes, church finance decides ([purchase-and-repair](../09-equipment/purchase-and-repair.md)).
+Peer → **Tech Lead** → Director → Pastoral oversight. Safety hazards and care issues skip the chain ([scope-and-authority](../00-foundation/scope-and-authority.md)). Major gear purchase: Tech Lead proposes, church finance decides ([purchase-and-repair](../09-equipment/purchase-and-repair.md)).
 
 ## Where to look
 

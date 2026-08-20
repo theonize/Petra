@@ -12,7 +12,7 @@
 - [ ] Replacement accepted  
 - [ ] Original person released  
 - [ ] Scheduler / lead confirmed in official tool  
-- [ ] Director/Tech Lead notified if <24h  
+- [ ] Worship Lead/Tech Lead notified if <24h  
 
 **Confirmed by:**  
 **Date/time:**  

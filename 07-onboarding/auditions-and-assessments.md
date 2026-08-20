@@ -1,7 +1,7 @@
 # Auditions & Assessments
 
 **Status:** draft  
-**Owner:** Director / Tech Lead  
+**Owner:** Worship Lead / Tech Lead  
 **Last reviewed:** 2026-08-12
 
 ## Heart posture

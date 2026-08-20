@@ -1,7 +1,7 @@
 # Tools & Systems
 
 **Status:** draft  
-**Owner:** Worship Lead + Tech Lead  
+**Owner:** Director + Tech Lead  
 **Last reviewed:** 2026-08-12
 
 Fill this in for your church — keep secrets out of git.

@@ -1,7 +1,7 @@
 # Rehearsal Agenda
 
 **Date:**  
-**Director:**  
+**Worship Lead:**  
 **Tech lead:**  
 **Linked service:**
 **Set fixed by:**

@@ -5,7 +5,7 @@ All notable changes to Petra docs.
 ## 2026-08-20
 
 - Website: MkDocs Material site published to GitHub Pages on every merge to `main` (`.github/workflows/pages.yml`, `.mkdocs/mkdocs.yml`, per-folder `.pages` titles); PRs build strictly and attach a preview artifact; handout PDFs rendered by `12-quick-reference/build-pdfs.sh` to `/pdf/`; folder links point at `README.md` so they resolve on both GitHub and the site
-- Terminology: **Director** replaces “MD” / “Music Director” repo-wide; `01-roles/music-director.md` renamed to `01-roles/director.md`; definitions note the former names
+- Roles renamed to match the line of authority **Pastor → Director → team leads**: the ministry owner (formerly “Worship Lead”) is now the **Director** — owns congregational musical worship under the pastor, appoints Worship Lead / Song Selector / Tech Lead, and carries responsibility and accountability for the worship experience (pastor has final say); the musical lead (formerly “MD” / “Music Director”) is now the **Worship Lead**. Charters swapped (`01-roles/director.md`, `01-roles/worship-lead.md`), decision rights updated (Director appoints team leads, pastor consulted; pastor appoints the Director), definitions record the former names
 - New `12-quick-reference/` — two-page handouts that point back into the skeleton: musician (band & vocals), tech (all tech roles), Song Selector, and a pastor overview of the framework
 - README routing table, PLAYBOOK, and CONTRIBUTING updated to reference the new folder
 
@@ -44,7 +44,7 @@ All notable changes to Petra docs.
 - New: `05-tech/lyrics-and-stage-displays.md` — **confidence monitors** (aka video monitors) default over stands; house lyric standards
 - Terminology: video monitors = confidence monitors (preferred term)
 - Tech attends prior rehearsal (same bar as band); **house + confidence slides used at practice**
-- New role: **Song Selector** (set/song diet; handoff to Director)
+- New role: **Song Selector** (set/song diet; handoff to Worship Lead)
 - Updated media checklist, media/band/vocalist roles, pre-service note, glossary, open questions, culture, contributing
 
 ## 2026-08-12

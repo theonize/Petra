@@ -1,50 +1,47 @@
 # Director
 
 **Status:** draft  
-**Owner:** Worship Lead  
-**Last reviewed:** 2026-08-13
+**Owner:** Pastoral oversight  
+**Last reviewed:** 2026-08-20
 
 ## Purpose
 
-Lead the musical preparation and execution of the set so the band is unified and the congregation can follow.
+Carry general ownership of the congregation's musical worship — spiritual and operational — under the direction of the pastor, so the team is healthy, prepared, and aligned with the church.
+
+**Line of authority:** Pastor → Director → team leads (Worship Lead, Song Selector, Tech Lead). The pastor has final say; the **responsibility and accountability for the worship experience rest with the Director**.
 
 ## Owns
 
-- Musical execution of the set received from **Song Selector** / Worship Lead (keys, tempos, forms, arrangement map)
-- Chart quality and distribution timing
-- Rehearsal musical leadership (runway, notes, cuts)
-- Directing dynamics, transitions, and spontaneous moments within agreed boundaries
-- Click/tracks plan when used
-- Feedback to Song Selector when a song is not singable or not deliverable this week
+- Vision, values, and Petra policy approval
+- Team culture, discipline, and pastoral care pathway
+- Appointing and developing the team leads — **Worship Lead**, **Song Selector**, **Tech Lead** — and section leads (pastor consulted)
+- Service planning standards and final accountability for Sunday readiness
+- Final accountability for song diet / set direction (often exercised *through* Song Selector)
+- Coordination with pastors, production, and other ministries
+- Seasonal calendar (series, special services, retreats)
 
 ## Does not own alone
 
-- Pastoral song diet and series-level song strategy (**Song Selector** + Worship Lead)
-- Final policy and team health (**Worship Lead**)
+- Every mix decision (Tech Lead / FOH)
+- Every musical arrangement choice mid-rehearsal (Worship Lead)
+- Every title pick when a Song Selector is appointed (they propose; Director still covers)
+- Church-wide HR or facilities master policy
 
-When one person is both Song Selector and Director, complete both charters.
+## Weekly rhythm (typical)
 
-## Must before rehearsal
-
-- [ ] Final-ish form published (sections labeled)
-- [ ] Key and tempo set
-- [ ] Charts / multitracks / references linked
-- [ ] Known hard transitions called out in the plan
-- [ ] Media has forms that match what will actually be sung
-
-## During rehearsal
-
-- Start on time; protect the clock
-- Give specific, kind notes (“guitars: half the delay on V2”)
-- Leave space for tech to solve real problems
-- End with a clean run when possible
+- Confirm upcoming rosters and gaps
+- Review setlists/order of service with **Song Selector**, Worship Lead, and service planner
+- Touch base with Tech Lead on anything unusual (guests, tracks, specials)
+- Post-service notes: people first, then process
 
 ## Success looks like
 
-Players are not guessing the form; vocals lock; the room can breathe and **sing**.
+Team knows the plan early; conflicts are handled cleanly; Sunday feels shepherded, not scrambled; the congregation sings.
 
 ## Related
 
-- [song-selector.md](song-selector.md)
 - [worship-lead.md](worship-lead.md)
+- [song-selector.md](song-selector.md)
+- [tech-lead.md](tech-lead.md)
+- [`../00-foundation/scope-and-authority.md`](../00-foundation/scope-and-authority.md) — decision rights and escalation
 

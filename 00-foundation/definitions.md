@@ -1,8 +1,8 @@
 # Definitions
 
 **Status:** draft  
-**Owner:** Worship Lead  
-**Last reviewed:** 2026-08-13
+**Owner:** Director  
+**Last reviewed:** 2026-08-20
 
 Language shapes culture. We use plain operational words without turning Sunday into a show.
 
@@ -25,10 +25,10 @@ Language shapes culture. We use plain operational words without turning Sunday i
 
 | Term | Meaning here |
 |---|---|
-| **Worship Lead** | Ministry leader with pastoral/operational ownership of the team |
-| **Song Selector** | Chooses songs / draft setlists for congregational singing and pastoral fit; hands off to Director for musical execution |
-| **Director** | Plans musical direction for a service or season; runs the band musically. Formerly “MD” / “Music Director” — older notes may still use those |
-| **Service Planner** | Builds order of service / liturgy flow (may be same person as Director or Worship Lead) |
+| **Director** | Owns the congregation's musical worship under the direction of the pastor; appoints the team leads (Worship Lead, Song Selector, Tech Lead); accountable for the worship experience. *Earlier drafts called this role “Worship Lead.”* |
+| **Worship Lead** | Leads the music: keys, forms, charts, rehearsal, platform musical calls. *Earlier drafts called this role “MD” / “Music Director” (briefly “Director”).* |
+| **Song Selector** | Chooses songs / draft setlists for congregational singing and pastoral fit; hands off to Worship Lead for musical execution |
+| **Service Planner** | Builds order of service / liturgy flow (may be same person as Worship Lead or Director) |
 | **Tech Lead** | Owns FOH/monitor/lights/media standards and tech roster health |
 | **FOH** | Front of house audio mix for the congregation |
 | **Monitors / IEM** | What musicians hear on stage (wedges or in-ear monitors) |

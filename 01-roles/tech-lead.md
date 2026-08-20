@@ -1,7 +1,7 @@
 # Tech Lead
 
 **Status:** draft  
-**Owner:** Worship Lead  
+**Owner:** Director  
 **Last reviewed:** 2026-08-13
 
 ## Purpose
@@ -11,7 +11,7 @@ Ensure production systems and tech volunteers reliably serve the service with ca
 ## Owns
 
 - Tech SOPs in `05-tech/` and equipment routines in `09-equipment/`
-- Recruiting, training, and scheduling of tech roles (with Worship Lead)
+- Recruiting, training, and scheduling of tech roles (with Director)
 - Input lists, stage plots, and show-file standards
 - Escalation for broken gear and safety hazards
 - Coordination with facilities / IT when needed

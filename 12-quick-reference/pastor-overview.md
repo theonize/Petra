@@ -1,7 +1,7 @@
 # Petra for Pastors — Framework Highlights
 
 **Status:** draft  
-**Owner:** Worship Lead + Pastoral oversight  
+**Owner:** Director + Pastoral oversight  
 **Last reviewed:** 2026-08-20  
 **Review cadence:** annual
 
@@ -47,7 +47,7 @@ The [song-selection-policy](../06-music-library/song-selection-policy.md) is the
 
 - **Six core criteria — every song passes all six:** biblically defensible theology · corporate-worship intent · congregational ownership · congregational singability · clear Christian confession · pastoral usefulness
 - **Hard boundaries:** no secular or generic love songs in the worship set; the congregation never sings in God's first-person voice; a **50-title rolling 12-month ceiling** (a maximum, not a target — a smaller repertoire known deeply is preferred)
-- **Continuity:** at least one song carries over from the preceding week; Worship Lead may waive with a recorded reason
+- **Continuity:** at least one song carries over from the preceding week; Director may waive with a recorded reason
 - **Teaching:** one unfamiliar song per service; ~3 outings in 6–8 weeks; known songs carry new ones; across the year the diet covers the whole Christian vocabulary — adoration, creation, incarnation, cross, resurrection and reign, Spirit, confession, assurance, thanksgiving, lament, petition, mission, communion, baptism, hope
 - **Pastoral touchpoints:** theology-sensitive or disputed lyrics go to pastoral oversight before use; the new-song gate requires a line-by-line lyric review; the **annual repertoire review is done with pastoral oversight** to confirm doctrinal alignment and find gaps in the church's sung theology
 - **Lifecycle:** Scout → Trial → Core → Rest → Archive ([song-lifecycle](../06-music-library/song-lifecycle.md)); register kept in the [annual-song-repertoire](../10-templates/annual-song-repertoire.md)
@@ -56,9 +56,9 @@ The [song-selection-policy](../06-music-library/song-selection-policy.md) is the
 
 | Role | In one line |
 |---|---|
-| **Worship Lead** | Spiritual and operational owner; approves policy; final accountability for Sunday readiness and song diet |
-| **Song Selector** | Chooses **what** we sing and why; publishes the fixed set; hands off to Director |
-| **Director** | Owns **how** it is played — keys, forms, charts, rehearsal |
+| **Director** | Owns the ministry under the pastor; appoints the team leads; approves policy; **accountable for the worship experience** |
+| **Worship Lead** | Owns **how** it is played — keys, forms, charts, rehearsal |
+| **Song Selector** | Chooses **what** we sing and why; publishes the fixed set; hands off to Worship Lead |
 | **Tech Lead** | Owns production standards and tech roster health |
 | Band, vocals, FOH, monitors, media, lights, stream, stage | Each has a one-page charter in [01-roles/](../01-roles/README.md) |
 
@@ -68,15 +68,16 @@ One person may wear several hats; each hat's must-dos still apply.
 
 | Decision | Propose | Decide |
 |---|---|---|
-| Songs / setlist titles for a service | Song Selector | Worship Lead |
-| Keys, tempos, forms, arrangements | Director | Director (Worship Lead if sensitive) |
-| **Appoint Director, Song Selector, or Tech Lead** | Worship Lead | **Pastoral oversight** |
-| **Change call times permanently** | Worship Lead | Worship Lead + **pastor liaison** |
+| Songs / setlist titles for a service | Song Selector | Director |
+| Keys, tempos, forms, arrangements | Worship Lead | Worship Lead (Director if sensitive) |
+| **Appoint the Director** | Pastoral oversight | **Pastoral oversight** |
+| Appoint Worship Lead, Song Selector, or Tech Lead | Director | Director (**pastor consulted**) |
+| **Change call times permanently** | Director | Director + **pastor liaison** |
 | Major gear purchase | Tech Lead | **Church finance / pastor process** |
-| One-week exception to an active policy | Role owner | Worship Lead |
-| Edit an active policy | Anyone | Worship Lead (or designee) — announced via changelog |
+| One-week exception to an active policy | Role owner | Director |
+| Edit an active policy | Anyone | Director (or designee) — announced via changelog |
 
-**Escalation:** peer → Director / Tech Lead → Worship Lead → **pastoral oversight**. Pastoral-care and safety issues skip the chain. Mission, vision, and scope pages name pastoral oversight as co-owner ([scope-and-authority](../00-foundation/scope-and-authority.md)).
+**Line of authority:** Pastor → Director → team leads. The pastor has final say; responsibility and accountability for the worship experience rest with the Director. **Escalation:** peer → Worship Lead / Tech Lead → Director → **pastoral oversight**; care and safety issues skip the chain ([scope-and-authority](../00-foundation/scope-and-authority.md)).
 
 **On a Sunday:** the platform lead listens to the pastor for deviations; if the sermon or prayer extends, the band watches the leader rather than inventing a concert. Incidents: people safety first, preserve the moment second, communicate once on a known channel ([service-run-of-show](../04-service/service-run-of-show.md) · [incidents](../04-service/incidents-and-contingencies.md)). Series notes and pastoral themes are the first input to each week's set.
 
@@ -100,6 +101,6 @@ Safeguards the study places on Petra itself: Christ, not competence, gives acces
 
 ## How to ask for a change
 
-Anyone may propose; the Worship Lead decides `active` policy; material changes are discussed before merge and logged in the [CHANGELOG](../CHANGELOG.md). Every page carries a status (`draft` / `active` / `pilot` / `deprecated`) and a named owner ([CONTRIBUTING](../CONTRIBUTING.md)); pending decisions sit in [open-questions](../11-reference/open-questions.md).
+Anyone may propose; the Director decides `active` policy; material changes are discussed before merge and logged in the [CHANGELOG](../CHANGELOG.md). Every page carries a status (`draft` / `active` / `pilot` / `deprecated`) and a named owner ([CONTRIBUTING](../CONTRIBUTING.md)); pending decisions sit in [open-questions](../11-reference/open-questions.md).
 
 **Where to look:** [PLAYBOOK](../PLAYBOOK.md) (one page) · [00-foundation/](../00-foundation/README.md) (why, values, scope) · [06-music-library/](../06-music-library/README.md) (song policy) · [08-culture-care/](../08-culture-care/README.md) · [07-onboarding/](../07-onboarding/README.md) · role handouts for [musicians](musician-quick-reference.md), [tech](tech-quick-reference.md), and the [song selector](song-selector-quick-reference.md).

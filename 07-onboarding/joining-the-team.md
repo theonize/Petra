@@ -1,7 +1,7 @@
 # Joining the Team
 
 **Status:** draft  
-**Owner:** Worship Lead  
+**Owner:** Director  
 **Last reviewed:** 2026-08-12
 
 ## Who we’re looking for
@@ -13,7 +13,7 @@
 
 ## Path
 
-1. **Interest** — conversation with Worship Lead / team lead  
+1. **Interest** — conversation with Director / team lead  
 2. **Church alignment** — membership/attendance expectations per church policy  
 3. **Safety** — background check / child protection steps if required  
 4. **Assessment** — musical or tech skills ([auditions-and-assessments.md](auditions-and-assessments.md))  

@@ -1,7 +1,7 @@
 # Lyrics & Stage Displays
 
 **Status:** draft  
-**Owner:** Tech Lead + Media Operator + Director  
+**Owner:** Tech Lead + Media Operator + Worship Lead  
 **Last reviewed:** 2026-08-13  
 **Review cadence:** semiannual
 
@@ -38,12 +38,12 @@ If someone says “video monitors,” read **confidence monitors**.
 
 1. **Default:** players and vocalists use **confidence monitors** (video monitors) for lyrics, section cues, and (when provided) charts.  
 2. **Music stands are not the norm.** Do not build a stand forest “just in case.”  
-3. Personal tablets on stands still count as stands if they block sightlines or become the primary posture (head down all set). Prefer confidence monitors or low-profile tablet mounts only with Director/Tech Lead OK.  
+3. Personal tablets on stands still count as stands if they block sightlines or become the primary posture (head down all set). Prefer confidence monitors or low-profile tablet mounts only with Worship Lead/Tech Lead OK.  
 4. Rehearse the way we serve: **midweek uses house/overhead and confidence monitors** — not a slides-optional practice with a Sunday surprise.
 
 ### When a stand (or paper/tablet) is OK
 
-Exception path — clear it with Director or Tech Lead:
+Exception path — clear it with Worship Lead or Tech Lead:
 
 | Situation | Notes |
 |---|---|
@@ -51,18 +51,18 @@ Exception path — clear it with Director or Tech Lead:
 | Guest / sub with no prep time | Temporary; simplify part if needed |
 | Complex orchestral/classical chart not on confidence | Prefer advance load to confidence when possible |
 | Confidence system failure | Paper/tablet backup is valid contingency |
-| Director-led moment | e.g. special piece, reading, sketch |
+| Worship Lead–called moment | e.g. special piece, reading, sketch |
 
 ### Player responsibilities
 
 - Learn enough of the form that a missed slide is recoverable
 - Glance at confidence; don’t bury your face
-- Tell Media/Director if confidence content is wrong or unreadable **at rehearsal**, not during the opener
+- Tell Media/Worship Lead if confidence content is wrong or unreadable **at rehearsal**, not during the opener
 - Bring a personal backup (phone/tablet chart) for emergency — keep it stowed unless needed
 
 ### Tech responsibilities
 
-- Confidence readable from each primary position (vocals, Director, rhythm section at minimum)
+- Confidence readable from each primary position (vocals, Worship Lead, rhythm section at minimum)
 - Brightness usable under stage light without washing the room
 - Latency low enough to follow live leads
 - Backup path documented (spare output, local tablet pack, or paper master in the rack)
@@ -111,7 +111,7 @@ Stream may stay off unless the stream operator is scheduled to rehearse or the w
 - Arm the **next** slide early; advance with the lead (slightly early is better than late)
 - Watch the platform, not only the arrangement script
 - When lost: **safe title / black / last good chorus** — never panic-click through the deck
-- Instrumental breaks: don’t flash the next verse early unless the Director wants the room primed
+- Instrumental breaks: don’t flash the next verse early unless the Worship Lead wants the room primed
 
 ### Visual readability (house)
 
@@ -138,8 +138,8 @@ Confidence may carry **more** than house:
 | Same lyrics as house | Baseline |
 | Section labels (`V1`, `C`, `B`, `Tag`) | Strongly preferred for band/vocals |
 | Next-slide / upcoming section peek | If software supports without lag confusion |
-| Chord charts / Director cues | When the church workflow provides them |
-| Talk notes / service cues | For Worship Lead / host as agreed |
+| Chord charts / Worship Lead cues | When the church workflow provides them |
+| Talk notes / service cues | For Director / host as agreed |
 
 **Do not** put private or pastoral-sensitive notes on a screen that can be camera-captured or mis-routed to house/stream.
 
@@ -159,7 +159,7 @@ Verify **routing** every service: confidence must not accidentally hit house; ho
 
 Pre:
 
-- [ ] Deck order matches Director plan (tags, endings, instrumentals)
+- [ ] Deck order matches Worship Lead plan (tags, endings, instrumentals)
 - [ ] House lyric standards pass (lines, contrast, accuracy)
 - [ ] Confidence content and readability checked from stage
 - [ ] Stand count is exception-only and agreed

@@ -12,7 +12,7 @@ Create a clear, comfortable congregational mix that prioritizes vocals and the l
 
 - House mix for the service
 - System alignment checks within published SOP
-- Coordinating with Director on dynamic shape
+- Coordinating with Worship Lead on dynamic shape
 - Protecting the room from damaging levels
 
 ## Attendance
@@ -25,7 +25,7 @@ Create a clear, comfortable congregational mix that prioritizes vocals and the l
 - [ ] Load correct show file / snapshot plan
 - [ ] Line check with stage
 - [ ] Gain structure sane before effects
-- [ ] Talk to Director about sparse vs full moments
+- [ ] Talk to Worship Lead about sparse vs full moments
 - [ ] At midweek: build mix against the real band, not only a line check
 
 ## Mix priorities (default)
@@ -40,7 +40,7 @@ Create a clear, comfortable congregational mix that prioritizes vocals and the l
 
 - Anticipate transitions; don’t chase every peak with the same aggression
 - Keep a written or mental note list for debrief
-- If something is truly broken, communicate to stage/Director calmly
+- If something is truly broken, communicate to stage/Worship Lead calmly
 
 ## Post
 

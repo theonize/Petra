@@ -1,7 +1,7 @@
 # Feedback & Conflict
 
 **Status:** draft  
-**Owner:** Worship Lead  
+**Owner:** Director  
 **Last reviewed:** 2026-08-12
 
 ## Musical notes
@@ -15,7 +15,7 @@
 
 1. Go to the person directly when safe  
 2. If unresolved, bring a lead  
-3. If still unresolved, Worship Lead / pastoral oversight  
+3. If still unresolved, Director / pastoral oversight  
 4. No faction-building in group chat  
 
 ## When feedback is hard to receive

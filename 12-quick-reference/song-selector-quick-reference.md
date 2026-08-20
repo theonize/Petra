@@ -1,7 +1,7 @@
 # Song Selector Quick Reference
 
 **Status:** draft  
-**Owner:** Worship Lead  
+**Owner:** Director  
 **Last reviewed:** 2026-08-20  
 **Review cadence:** semiannual
 
@@ -10,27 +10,27 @@ Two pages for the person who decides **what** we sing and **why**. Every line po
 ## The job in three lines
 
 - You curate **what** we sing and **why** — theologically sound, pastorally timed, musically reachable for *this* room ([song-selector](../01-roles/song-selector.md)).
-- The Director owns **how** — keys, forms, charts, rehearsal ([director](../01-roles/director.md)).
-- The Worship Lead holds final pastoral accountability; you propose, they decide ([scope-and-authority](../00-foundation/scope-and-authority.md)).
+- The Worship Lead owns **how** — keys, forms, charts, rehearsal ([worship-lead](../01-roles/worship-lead.md)).
+- The Director holds final pastoral accountability; you propose, they decide ([scope-and-authority](../00-foundation/scope-and-authority.md)).
 
-Success: the room recognizes enough of the diet to sing boldly; new songs are taught on purpose; Director and Media are not guessing titles the night before rehearsal. If you also wear the Director or Worship Lead hat, complete both charters.
+Success: the room recognizes enough of the diet to sing boldly; new songs are taught on purpose; Worship Lead and Media are not guessing titles the night before rehearsal. If you also wear the Worship Lead or Director hat, complete both charters.
 
 ## Weekly rhythm
 
 1. Pull series notes, calendar, pastoral themes
 2. Draft the set (or a short menu) with an intentional arc — opener energy, response moment, closer
-3. Review with Worship Lead (pastor liaison when needed)
-4. **Publish the fixed set by the team deadline: ____________** and hand off to Director for keys, forms, charts, tracks
-5. Confirm Media has titles early enough to build the deck; flag anything new, track-heavy, or production-special to Director/Media/Tech Lead
+3. Review with Director (pastor liaison when needed)
+4. **Publish the fixed set by the team deadline: ____________** and hand off to Worship Lead for keys, forms, charts, tracks
+5. Confirm Media has titles early enough to build the deck; flag anything new, track-heavy, or production-special to Worship Lead/Media/Tech Lead
 6. After Sunday: keep, rework the teach, or rest — one line in the register
 
-Rehearsal may amend keys, forms, arrangements, and cues; wholesale song replacement is an exception you or the Worship Lead lead, not a rehearsal habit ([rehearsal-standards](../03-rehearsal/rehearsal-standards.md)).
+Rehearsal may amend keys, forms, arrangements, and cues; wholesale song replacement is an exception you or the Director lead, not a rehearsal habit ([rehearsal-standards](../03-rehearsal/rehearsal-standards.md)).
 
-## Must before the Director locks rehearsal materials
+## Must before the Worship Lead locks rehearsal materials
 
 - [ ] Titles published by the weekly set-fix deadline
 - [ ] Every title passes the policy and is in the rolling repertoire register
-- [ ] At least one carryover from last week — or the Worship Lead exception is noted with a reason
+- [ ] At least one carryover from last week — or the Director exception is noted with a reason
 - [ ] New-to-us songs flagged with teach intent
 - [ ] Rough flow notes if no full planner doc
 - [ ] Landmines called out: range, complex form, sensitive lyric
@@ -54,12 +54,12 @@ Plus: repertoire fit (adds a function, not a duplicate) and team stewardship (th
 
 | Rule | Detail |
 |---|---|
-| **50-title rolling ceiling** | No more than 50 distinct congregational titles in any 12 months; before title 51, retire or defer one (Worship Lead approves). Ceiling is a maximum, not a target |
+| **50-title rolling ceiling** | No more than 50 distinct congregational titles in any 12 months; before title 51, retire or defer one (Director approves). Ceiling is a maximum, not a target |
 | **No secular / generic love songs** | In the worship set. Walk-in/transition music is a separate programming call |
 | **Congregation never sings as God** | No first-person-God lyrics ("I, the Lord, say…"); God's words are read as Scripture with the speaker identified |
-| **Week-to-week continuity** | Carry at least one song from the preceding service; meaningful repeat over token repeat; Worship Lead may waive for feast/special/pastoral need — record why |
+| **Week-to-week continuity** | Carry at least one song from the preceding service; meaningful repeat over token repeat; Director may waive for feast/special/pastoral need — record why |
 | **Theology-sensitive lyrics** | Go to pastoral oversight before use |
-| **Exceptions** | Worship Lead may grant a one-service exception for a clear pastoral reason — never for the two rules above. Record it; if it recurs, revise the policy openly |
+| **Exceptions** | Director may grant a one-service exception for a clear pastoral reason — never for the two rules above. Record it; if it recurs, revise the policy openly |
 
 ## Repertoire-shaping defaults
 
@@ -80,12 +80,12 @@ Record in the [annual-song-repertoire](../10-templates/annual-song-repertoire.md
 
 - Six criteria confirmed in writing · line-by-line lyric review with Scripture references and concerns
 - Fits under the 50-title ceiling · named function the repertoire lacks
-- Congregation-friendly key and teach strategy agreed with Director · second and third outings scheduled
-- Accurate lyrics, chart, licensing ready · Worship Lead approval; pastoral review if theology-sensitive
+- Congregation-friendly key and teach strategy agreed with Worship Lead · second and third outings scheduled
+- Accurate lyrics, chart, licensing ready · Director approval; pastoral review if theology-sensitive
 
 ## Lifecycle & review rhythm
 
-**Scout → Trial → Core → Rest → Archive** ([song-lifecycle](../06-music-library/song-lifecycle.md)). You own what enters and which titles this week; Director owns arrangement/rehearsal; Media/Tech Lead owns support; keep/rework/rest is a joint call after 2–3 outings.
+**Scout → Trial → Core → Rest → Archive** ([song-lifecycle](../06-music-library/song-lifecycle.md)). You own what enters and which titles this week; Worship Lead owns arrangement/rehearsal; Media/Tech Lead owns support; keep/rework/rest is a joint call after 2–3 outings.
 
 | Cadence | Do |
 |---|---|
@@ -95,7 +95,7 @@ Record in the [annual-song-repertoire](../10-templates/annual-song-repertoire.md
 
 ## Handoffs
 
-**Worship Lead** — draft set for review, exceptions with reasons, register count · **Director** — fixed titles, teach intent, landmines, flow notes, early enough for keys/charts · **Service Planner** — where songs sit in the whole gathering · **Media** — titles and expected forms early enough to build house + confidence decks · **Tech Lead** — heads-up on choir, orchestra, tracks, guests, anything production-special.
+**Director** — draft set for review, exceptions with reasons, register count · **Worship Lead** — fixed titles, teach intent, landmines, flow notes, early enough for keys/charts · **Service Planner** — where songs sit in the whole gathering · **Media** — titles and expected forms early enough to build house + confidence decks · **Tech Lead** — heads-up on choir, orchestra, tracks, guests, anything production-special.
 
 ## Where to look
 

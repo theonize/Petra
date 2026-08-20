@@ -1,40 +1,47 @@
 # Worship Lead
 
 **Status:** draft  
-**Owner:** Pastoral oversight  
-**Last reviewed:** 2026-08-13
+**Owner:** Director  
+**Last reviewed:** 2026-08-20
 
 ## Purpose
 
-Carry spiritual and operational ownership of the worship ministry so the team is healthy, prepared, and aligned with the church.
+Lead the musical preparation and execution of the set so the band is unified and the congregation can follow.
 
 ## Owns
 
-- Vision, values, and Petra policy approval
-- Team culture, discipline, and pastoral care pathway
-- Leadership development (Director, **Song Selector**, Tech Lead, section leads)
-- Service planning standards and final accountability for Sunday readiness
-- Final accountability for song diet / set direction (often exercised *through* Song Selector)
-- Coordination with pastors, production, and other ministries
-- Seasonal calendar (series, special services, retreats)
+- Musical execution of the set received from **Song Selector** / Director (keys, tempos, forms, arrangement map)
+- Chart quality and distribution timing
+- Rehearsal musical leadership (runway, notes, cuts)
+- Directing dynamics, transitions, and spontaneous moments within agreed boundaries
+- Click/tracks plan when used
+- Feedback to Song Selector when a song is not singable or not deliverable this week
 
 ## Does not own alone
 
-- Every mix decision (Tech Lead / FOH)
-- Every musical arrangement choice mid-rehearsal (Director)
-- Every title pick when a Song Selector is appointed (they propose; Worship Lead still covers)
-- Church-wide HR or facilities master policy
+- Pastoral song diet and series-level song strategy (**Song Selector** + Director)
+- Final policy and team health (**Director**)
 
-## Weekly rhythm (typical)
+When one person is both Song Selector and Worship Lead, complete both charters.
 
-- Confirm upcoming rosters and gaps
-- Review setlists/order of service with **Song Selector**, Director, and service planner
-- Touch base with Tech Lead on anything unusual (guests, tracks, specials)
-- Post-service notes: people first, then process
+## Must before rehearsal
+
+- [ ] Final-ish form published (sections labeled)
+- [ ] Key and tempo set
+- [ ] Charts / multitracks / references linked
+- [ ] Known hard transitions called out in the plan
+- [ ] Media has forms that match what will actually be sung
+
+## During rehearsal
+
+- Start on time; protect the clock
+- Give specific, kind notes (“guitars: half the delay on V2”)
+- Leave space for tech to solve real problems
+- End with a clean run when possible
 
 ## Success looks like
 
-Team knows the plan early; conflicts are handled cleanly; Sunday feels shepherded, not scrambled; the congregation sings.
+Players are not guessing the form; vocals lock; the room can breathe and **sing**.
 
 ## Related
 

@@ -2,8 +2,8 @@
 
 **Date:**  
 **Service:**  
-**Worship Lead:**  
 **Director:**  
+**Worship Lead:**  
 **Tech Lead on duty:**  
 
 ## Series / theme

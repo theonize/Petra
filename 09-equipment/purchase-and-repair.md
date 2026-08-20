@@ -1,7 +1,7 @@
 # Purchase & Repair
 
 **Status:** draft  
-**Owner:** Tech Lead + Worship Lead  
+**Owner:** Tech Lead + Director  
 **Last reviewed:** 2026-08-12
 
 ## When something breaks

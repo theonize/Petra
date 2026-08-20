@@ -1,7 +1,7 @@
 # Wardrobe Guidelines
 
 **Status:** draft  
-**Owner:** Worship Lead  
+**Owner:** Director  
 **Last reviewed:** 2026-08-12
 
 ## Goal

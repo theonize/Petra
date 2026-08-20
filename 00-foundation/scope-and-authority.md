@@ -1,7 +1,7 @@
 # Scope & Authority
 
 **Status:** draft  
-**Owner:** Worship Lead + Pastoral oversight  
+**Owner:** Director + Pastoral oversight  
 **Last reviewed:** 2026-08-13  
 **Review cadence:** annual
 
@@ -45,22 +45,25 @@ If a page starts micromanaging artistry instead of clearing the runway, rewrite 
 
 ## Decision rights (RACI-lite)
 
+Line of authority: **Pastor → Director → team leads** (Worship Lead, Song Selector, Tech Lead). The pastor has final say; the responsibility and accountability for the worship experience rest with the Director.
+
 | Decision | Propose | Decide | Informed |
 |---|---|---|---|
-| Song menu / setlist titles for a service | **Song Selector** | Worship Lead | Director, Service Planner, Media, band |
-| Keys, tempos, forms for a service | Director | Director (Worship Lead if sensitive) | Band, Media, Song Selector |
-| Arrange / cut a song section | Director | Director (Worship Lead if sensitive) | Band |
-| Change call times permanently | Worship Lead | Worship Lead + Pastor liaison | Full team |
-| Hire/appoint Director, Song Selector, or Tech Lead | Worship Lead | Pastoral oversight | Team |
-| Major gear purchase | Tech Lead | Church finance / pastor process | Worship Lead |
-| Exception to an `active` policy for one week | Role owner | Worship Lead | Affected teammates |
-| Edit Petra `active` policy | Anyone | Worship Lead (or designee) | Team via changelog / announce |
+| Appoint the Director | Pastoral oversight | Pastoral oversight | Team |
+| Song menu / setlist titles for a service | **Song Selector** | Director | Worship Lead, Service Planner, Media, band |
+| Keys, tempos, forms for a service | Worship Lead | Worship Lead (Director if sensitive) | Band, Media, Song Selector |
+| Arrange / cut a song section | Worship Lead | Worship Lead (Director if sensitive) | Band |
+| Change call times permanently | Director | Director + Pastor liaison | Full team |
+| Appoint Worship Lead, Song Selector, or Tech Lead | Director | Director (pastor consulted) | Team |
+| Major gear purchase | Tech Lead | Church finance / pastor process | Director |
+| Exception to an `active` policy for one week | Role owner | Director | Affected teammates |
+| Edit Petra `active` policy | Anyone | Director (or designee) | Team via changelog / announce |
 
 ## Escalation path
 
 1. Peer / section lead  
-2. Director or Tech Lead (domain)  
-3. Worship Lead  
+2. Worship Lead or Tech Lead (domain)  
+3. Director  
 4. Pastoral oversight  
 
 Pastoral-care and safety issues skip the chain and go straight to appropriate pastoral / safety contacts.

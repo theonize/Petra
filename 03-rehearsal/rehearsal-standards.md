@@ -1,7 +1,7 @@
 # Rehearsal Standards
 
 **Status:** draft  
-**Owner:** Director + Tech Lead + Worship Lead  
+**Owner:** Worship Lead + Tech Lead + Director  
 **Last reviewed:** 2026-08-18
 
 ## Purpose
@@ -20,8 +20,8 @@ Group rehearsal is also how we confirm who is actually ready to **serve** the li
 4. Call time means ready: tuned, patched, mic’d, app open, water filled (tech: show file/deck live, outputs verified).
 5. Phones don’t run the room; emergency use only during runs.
 6. Notes are normal; defensiveness slows everyone down.
-7. If you will be late or absent, notify Director / Tech Lead / Worship Lead ASAP — before rehearsal starts whenever humanly possible.
-8. The Song Selector publishes the fixed set by the team’s chosen weekly deadline. Everyone prepares from that plan. Rehearsal may amend keys, forms, arrangements, cues, and production elements; wholesale song replacement is an exception led by the Song Selector / Worship Lead.
+7. If you will be late or absent, notify Worship Lead / Tech Lead / Director ASAP — before rehearsal starts whenever humanly possible.
+8. The Song Selector publishes the fixed set by the team’s chosen weekly deadline. Everyone prepares from that plan. Rehearsal may amend keys, forms, arrangements, cues, and production elements; wholesale song replacement is an exception led by the Song Selector / Director.
 9. The normal group-rehearsal flow is: review the last performance, warm up with an easy song or focused exercise, work every part of the set, rehearse every transition between those parts, and run the set in sequence.
 
 ## Prior-rehearsal attendance (detail)
@@ -38,14 +38,14 @@ Accepting a schedule is accepting the rehearsal that belongs to it. Pre-service 
 |---|---|
 | Band players | **Yes** |
 | Vocalists | **Yes** |
-| Director / Worship Lead (when leading that service) | **Yes** (or pre-cleared exception) |
+| Worship Lead / Director (when leading that service) | **Yes** (or pre-cleared exception) |
 | **All scheduled tech** (FOH, Monitors, Media, Lights, Stream, Stage) | **Yes** — same bar as band |
 
 Tech is not “optional if the board looks familiar.” Media especially must be present to drive slides; FOH/monitors need the rehearsal to settle gains and cues with the actual players.
 
 ### Exceptions (must be granted, not assumed)
 
-Worship Lead, Director, or Tech Lead (for tech roles) may release someone when:
+Director, Worship Lead, or Tech Lead (for tech roles) may release someone when:
 
 - True emergency or sudden illness
 - Pre-approved absence with a **qualified** cover already confirmed
@@ -72,7 +72,7 @@ Group rehearsal uses the **same lyric system as Sunday**:
 
 ### Why
 
-- Media learns the real forms and cues with the Director
+- Media learns the real forms and cues with the Worship Lead
 - Players build muscle memory on confidence, not stands
 - Broken slides, bad breaks, and unreadable confidence get fixed **before** Sunday
 - “We’ll figure out lyrics on Sunday morning” is not a plan
@@ -104,7 +104,7 @@ Default staging is **confidence monitors** (also called video monitors) for lyri
 
 ## Etiquette
 
-- Talk between songs, not over the Director
+- Talk between songs, not over the Worship Lead
 - Tune quietly; fix buzzes without a TED talk
 - Guests and kids on stage only if planned and safe
 - Leave food/drinks away from consoles and snakes

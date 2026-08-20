@@ -1,7 +1,7 @@
 # Stage / Logistics
 
 **Status:** draft  
-**Owner:** Tech Lead / Director  
+**Owner:** Tech Lead / Worship Lead  
 **Last reviewed:** 2026-08-12
 
 ## Purpose

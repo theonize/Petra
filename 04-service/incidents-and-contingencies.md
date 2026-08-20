@@ -1,7 +1,7 @@
 # Incidents & Contingencies
 
 **Status:** draft  
-**Owner:** Worship Lead + Tech Lead  
+**Owner:** Director + Tech Lead  
 **Last reviewed:** 2026-08-12
 
 ## Principles
@@ -14,8 +14,8 @@
 
 | Failure | Immediate action | Owner |
 |---|---|---|
-| Lead vocal mic dies | Swap spare / channel; Director keeps singing if handheld available | Stage + FOH |
-| Click/tracks die | Director counts band in; drop to live arrangement | Director + playback owner |
+| Lead vocal mic dies | Swap spare / channel; Worship Lead keeps singing if handheld available | Stage + FOH |
+| Click/tracks die | Worship Lead counts band in; drop to live arrangement | Worship Lead + playback owner |
 | Lyrics freeze | Holding slide; lead vocal carries; switch to or reboot backup | Media |
 | Stream drop | In-room continues; restart encoder when safe | Stream |
 | Power blip | Stay calm; follow power-on SOP; pastoral cover | Tech Lead |

@@ -1,7 +1,7 @@
 # Availability & Swaps
 
 **Status:** draft  
-**Owner:** Worship Lead  
+**Owner:** Director  
 **Last reviewed:** 2026-08-13
 
 ## Blocking out
@@ -16,7 +16,7 @@
 1. You own finding a **qualified** replacement unless leadership releases you.
 2. Propose the swap in the official tool or designated workflow — not only a side text.
 3. Swap is not final until **both people and the scheduler/lead** confirm.
-4. Last-minute swaps (<24h): phone the Director/Tech Lead/Worship Lead as appropriate.
+4. Last-minute swaps (<24h): phone the Worship Lead/Tech Lead/Director as appropriate.
 
 ## Declining a schedule
 

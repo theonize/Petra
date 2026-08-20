@@ -1,7 +1,7 @@
 # Service Run-of-Show
 
 **Status:** draft  
-**Owner:** Worship Lead  
+**Owner:** Director  
 **Last reviewed:** 2026-08-12
 
 ## Spine (customize)
@@ -22,7 +22,7 @@
 
 | Domain | Primary | Backup |
 |---|---|---|
-| Musical calls | Director / platform lead | Worship Lead |
+| Musical calls | Worship Lead / platform lead | Director |
 | House mix | FOH | Tech Lead |
 | Lyrics | Media | Stream op if cross-trained |
 | Lights | Lighting | Tech Lead |

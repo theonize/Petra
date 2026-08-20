@@ -2,7 +2,7 @@
 
 **Review window:**  
 **Song Selector:**  
-**Worship Lead:**  
+**Director:**  
 **Distinct titles used in rolling 12 months:** ___ / **50 maximum**
 
 > Count every full congregational song title, including each title in a medley. A reprise of the same title is not a new title.
@@ -32,7 +32,7 @@ Add rows as needed, up to 50 active titles in the rolling window.
 - Congregation-friendly key / range note:
 - Lyric and doctrinal review completed by / date:
 - Licensing / source confirmed:
-- Worship Lead approval:
+- Director approval:
 
 ## Quarterly diet review
 

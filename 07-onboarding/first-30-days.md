@@ -7,7 +7,7 @@
 ## Goals
 
 - Know call times and communication norms
-- Meet Director/Tech Lead and section peers
+- Meet Worship Lead/Tech Lead and section peers
 - Serve at least once in a supported slot
 - Read foundation + your role charter in Petra
 - Get accounts/access to planning tools

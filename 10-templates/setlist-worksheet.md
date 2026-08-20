@@ -2,8 +2,8 @@
 
 **Date / service:**  
 **Song Selector:**  
-**Director:**  
-**Worship Lead cover:**  
+**Worship Lead:**  
+**Director cover:**  
 **Overall vibe / pastoral aim:**  
 
 | Order | Song | Key | BPM | Form notes | Tracks? | Lead vocal | New/teach? | Notes |
@@ -20,7 +20,7 @@
 - Congregational sing notes (familiar vs new):
 - Diet check (tempo/energy/range):
 - Previous-week carryover:
-- If no carryover, Worship Lead exception / reason:
+- If no carryover, Director exception / reason:
 - Rolling repertoire count after this set: ___ / 50
 - New title's unique repertoire function (if any):
 
@@ -36,7 +36,7 @@
 - [ ] No more than one unfamiliar song in this service
 - [ ] New title has planned repeat outings and appears in the annual register
 
-## Transitions (Director)
+## Transitions (Worship Lead)
 
 - 1 → 2:
 - 2 → 3:

@@ -1,7 +1,7 @@
 # Song Selection Policy
 
 **Status:** draft  
-**Owner:** Song Selector + Worship Lead  
+**Owner:** Song Selector + Director  
 **Last reviewed:** 2026-08-17  
 **Review cadence:** annual
 
@@ -16,7 +16,7 @@ Curate a small, truthful, singable repertoire that forms this congregation over 
 - Use no more than **50 distinct congregational song titles in any rolling 12-month period**.
 - Every full song the congregation is invited to sing counts, including seasonal songs, hymns, choruses, and each distinct title in a medley.
 - A reprise of the same title does not count again. Instrumental underscoring and brief spoken or chanted liturgical responses are not repertoire titles unless treated as songs.
-- The Song Selector maintains the annual repertoire register. Before adding title 51, retire or defer another title; the Worship Lead approves the decision.
+- The Song Selector maintains the annual repertoire register. Before adding title 51, retire or defer another title; the Director approves the decision.
 
 The ceiling is a maximum, not a target. A smaller repertoire known deeply is preferable to a larger one known shallowly.
 
@@ -43,7 +43,7 @@ Therefore, do not select secular songs or generic “love songs” for the worsh
 
 - Normally carry **at least one song from the immediately preceding week's service** into the next service.
 - Prefer a meaningful repeat over a token repeat: use continuity to deepen congregational ownership, reinforce the preached or liturgical theme, or establish a new song.
-- The Worship Lead may waive continuity for a major feast, special service, pastoral need, or a service with no suitable predecessor. Note the reason on the setlist worksheet.
+- The Director may waive continuity for a major feast, special service, pastoral need, or a service with no suitable predecessor. Note the reason on the setlist worksheet.
 
 ## Selection tests (must pass)
 
@@ -58,7 +58,7 @@ Therefore, do not select secular songs or generic “love songs” for the worsh
 | Repertoire fit | Does it add a needed function, or merely duplicate a stronger song already inside the 50-title ceiling? |
 | Team stewardship | Can the scheduled team lead it reliably without making production the point? |
 
-The Worship Lead holds final pastoral accountability. Theology-sensitive or disputed lyrics go to pastoral oversight before use.
+The Director holds final pastoral accountability. Theology-sensitive or disputed lyrics go to pastoral oversight before use.
 
 ## Repertoire-shaping defaults
 
@@ -83,10 +83,10 @@ Before a new title enters `Trial`:
 - [ ] Complete a line-by-line lyric review, recording Scripture references and any concern or ambiguity
 - [ ] Confirm it fits beneath the 50-title rolling ceiling
 - [ ] Name what function it adds that the current repertoire lacks
-- [ ] Choose a congregation-friendly key and teach strategy with the Director
+- [ ] Choose a congregation-friendly key and teach strategy with the Worship Lead
 - [ ] Schedule likely second and third outings
 - [ ] Prepare accurate lyrics, chart, and licensing information
-- [ ] Obtain Worship Lead approval; obtain pastoral review if theology-sensitive
+- [ ] Obtain Director approval; obtain pastoral review if theology-sensitive
 
 ## Review rhythm
 
@@ -110,7 +110,7 @@ Before a new title enters `Trial`:
 
 ## Exceptions
 
-The Worship Lead may approve a one-service exception for a clear pastoral or liturgical reason, except that secular/generic love songs and first-person-God songs remain outside the worship-set policy. Record the exception and rationale. If exceptions recur, revise the policy openly rather than normalizing an unwritten rule.
+The Director may approve a one-service exception for a clear pastoral or liturgical reason, except that secular/generic love songs and first-person-God songs remain outside the worship-set policy. Record the exception and rationale. If exceptions recur, revise the policy openly rather than normalizing an unwritten rule.
 
 ## Related
 

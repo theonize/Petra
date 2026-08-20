@@ -1,7 +1,7 @@
 # Song Lifecycle
 
 **Status:** draft  
-**Owner:** Song Selector + Worship Lead + Director  
+**Owner:** Song Selector + Director + Worship Lead  
 **Last reviewed:** 2026-08-17
 
 ## Stages
@@ -16,10 +16,10 @@
 
 | Stage work | Primary |
 |---|---|
-| What enters the diet / which titles this week | **Song Selector** (Worship Lead covers) |
-| Can we arrange and rehearse it well | **Director** |
+| What enters the diet / which titles this week | **Song Selector** (Director covers) |
+| Can we arrange and rehearse it well | **Worship Lead** |
 | Can media/tech support it | Media / Tech Lead |
-| Keep / rework / rest after outings | Song Selector + Director + Worship Lead |
+| Keep / rework / rest after outings | Song Selector + Worship Lead + Director |
 
 ## Intake criteria (discussion starters)
 
@@ -32,8 +32,8 @@
 ## Introducing a new song
 
 - Name what repertoire function the song adds and record it in the annual register
-- Teach strategy agreed (call-and-response, melody first, etc.) — Song Selector + Director
-- Charts + lyrics deck ready before first full-band week — Director + Media
+- Teach strategy agreed (call-and-response, melody first, etc.) — Song Selector + Worship Lead
+- Charts + lyrics deck ready before first full-band week — Worship Lead + Media
 - Plan approximately three outings within six to eight weeks; repeat the following week when suitable
 - Evaluate after 2–3 outings: keep, rework, or rest
 

@@ -1,7 +1,7 @@
 # Platform Etiquette
 
 **Status:** draft  
-**Owner:** Worship Lead  
+**Owner:** Director  
 **Last reviewed:** 2026-08-19
 
 ## Presence
