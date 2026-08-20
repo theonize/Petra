@@ -50,5 +50,5 @@ Capture decisions we still need so drafts can harden into `active` policy.
 
 ## Repo
 
-- [ ] Keep public on GitHub or private?
-- [ ] Who else has write access beyond Matt + Tirzah?
+- [x] Public on GitHub (decided 2026-08-20) — keep church-specific details as fill-in blanks; never commit contact info, credentials, or pastoral notes
+- [ ] Who else has write access beyond the current maintainers?
