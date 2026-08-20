@@ -19,4 +19,4 @@
 
 ## Inventory living doc
 
-Location of spreadsheet/asset list: **[TBD]**
+Every tech-team member should receive an inventory/asset list.

@@ -22,4 +22,4 @@
 ## SOP updates needed?
 
 - [ ] No  
-- [ ] Yes — link PR/commit:  
+- [ ] Yes — where is it written down:

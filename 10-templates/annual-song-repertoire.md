@@ -20,17 +20,11 @@ Add rows as needed, up to 50 active titles in the rolling window.
 ## New-song gate
 
 - Proposed title:
-- Biblically defensible theology / Scripture references:
-- Corporate-worship intent — evidence that it is meant to be sung together:
-- Congregational ownership notes:
-- Singability notes (melody, rhythm, range, repetition, phrasing):
-- Clear Christian confession:
-- Pastoral use:
-- Repertoire function it adds:
-- Current title it overlaps with, if any:
+- Pastoral use: Biblically defensible theology / scripture references / clear confession:
+- Corporate-worship intent — meant to be sung together:
+- Singability notes (melody, rhythm, vocal-range, repetition, phrasing):
+- Repertoire function (driver, meditative, rhetorical, etc.):
 - Planned first, second, and third outings:
-- Congregation-friendly key / range note:
-- Lyric and doctrinal review completed by / date:
 - Licensing / source confirmed:
 - Director approval:
 

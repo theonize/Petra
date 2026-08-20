@@ -98,6 +98,6 @@ Safeguards the study places on Petra itself: Christ, not competence, gives acces
 
 ## How to ask for a change
 
-Anyone may propose; the Director decides policy; material changes are discussed before merge and logged in the [Changelog](../CHANGELOG.md). Petra is a living system — no per-page status stamps; every page names an owner and git holds the history ([Contributing to Petra](../CONTRIBUTING.md)); pending decisions sit in [Open Questions](../11-reference/open-questions.md).
+Anyone may propose; the Director decides policy; material changes are discussed before merge and logged in the [Changelog](../CHANGELOG.md). Petra is a living system — no per-page status stamps; every page names an owner and git holds the history ([Contributing to Petra](../CONTRIBUTING.md)); church-specific blanks (names, clocks, tools) are collected in [Our Congregation](../10-templates/our-congregation.md).
 
 **Where to look:** [Playbook](../PLAYBOOK.md) (one page) · [Foundation](../00-foundation/README.md) (why, values, scope) · [Music Library](../06-music-library/README.md) (song policy) · [Culture & Care](../08-culture-care/README.md) · [Onboarding](../07-onboarding/README.md) · role handouts for [musicians](musician-quick-reference.md), [tech](tech-quick-reference.md), and the [song selector](song-selector-quick-reference.md).

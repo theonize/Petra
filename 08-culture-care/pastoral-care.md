@@ -14,6 +14,6 @@ Teams carry grief, burnout, marriage stress, and doubt. We would rather know and
 
 ## Boundaries
 
-- Petra is not the counseling center; we route to pastors/care team
+- The worship team is not a counseling center; we route to pastors/care team
 - Don’t process someone else’s private story in the band room
 - Romantic entanglement patterns that harm team health will be addressed pastorally

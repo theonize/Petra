@@ -4,6 +4,7 @@ Copy these into the planning tool or print as needed. Keep master copies here.
 
 | Template | Use |
 |---|---|
+| [Our Congregation](our-congregation.md) | Fill-in-the-blank: names, clocks, tools, and rules for **your** church, with pointers to where each is used |
 | [Service Plan Template](service-plan.md) | Order of service skeleton |
 | [Setlist Worksheet](setlist-worksheet.md) | Musical plan |
 | [Annual Song Repertoire Register](annual-song-repertoire.md) | Rolling 50-title register + new-song gate |

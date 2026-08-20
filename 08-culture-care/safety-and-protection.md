@@ -9,9 +9,9 @@ Church protection / safety policy wins over any worship preference.
 ## Platform-specific
 
 - Minors on team: ratios, check-in, and guardian rules per church policy
-- Never alone in secluded spaces with a minor in ways policy forbids
+- **Never alone in secluded spaces with a minor**
 - Two-adult norms for closed-room training when required
-- Report concerns through official channels immediately
+- Report concerns through official channels **immediately**
 
 ## Physical safety
 
@@ -20,4 +20,4 @@ Church protection / safety policy wins over any worship preference.
 - Know AED / evacuation basics for the building
 - Stop the show for real danger
 
-Link official church policy here: **[TBD]**
+Every team member should receive the official church policy.
