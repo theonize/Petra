@@ -2,7 +2,7 @@
 
 **Status:** draft  
 **Owner:** Worship Lead / Pastoral oversight  
-**Last reviewed:** 2026-08-13  
+**Last reviewed:** 2026-08-19  
 **Review cadence:** annual
 
 ## Mission
@@ -22,6 +22,10 @@ Everything else is downstream of that:
 | Only the platform sounds full | We failed the assignment, even if the band felt great |
 
 Talent, production, and creativity are gifts **for** congregational voice — not replacements for it.
+
+## Where attention goes
+
+The service gives people an hour to attend to Someone besides themselves. Musical worship may rightly be a distraction **from the world** — it must never become a distraction **from God**, and it is not aimed at the worship leaders. If the room's attention settles on the platform, we redirect it: simplify, turn down, step back, re-center the lyric.
 
 ## Vision
 
