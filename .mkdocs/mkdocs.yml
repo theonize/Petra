@@ -1,0 +1,68 @@
+site_name: Petra
+site_description: Worship team runbook — settle the mundane so the congregation can sing
+site_url: https://theonize.github.io/petra/
+repo_url: https://github.com/theonize/petra
+repo_name: theonize/petra
+edit_uri: edit/main/
+
+# The repo *is* the docs tree. MkDocs refuses a config file inside docs_dir, so the
+# config lives in .mkdocs/ and the site builds beside the repo (../site).
+docs_dir: ..
+site_dir: ../../site
+
+exclude_docs: |
+  .*
+  mkdocs.yml
+  *.sh
+
+theme:
+  name: material
+  language: en
+  icon:
+    logo: material/music-note
+    repo: fontawesome/brands/github
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep orange
+      accent: deep orange
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep orange
+      accent: deep orange
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.indexes
+    - navigation.instant
+    - navigation.tracking
+    - navigation.top
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - content.action.edit
+    - toc.follow
+
+plugins:
+  - search
+  - awesome-pages
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - tables
+  - admonition
+  - attr_list
+  - md_in_html
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.superfences
+
+validation:
+  links:
+    unrecognized_links: info
+    absolute_links: info

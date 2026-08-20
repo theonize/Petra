@@ -1,0 +1,67 @@
+name: Publish site
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          path: repo
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install MkDocs + pandoc
+        run: |
+          pip install --quiet mkdocs-material mkdocs-awesome-pages-plugin
+          sudo apt-get update -qq && sudo apt-get install -y -qq pandoc
+
+      - name: Build site (strict — broken links fail)
+        working-directory: repo
+        run: mkdocs build --strict -f .mkdocs/mkdocs.yml
+
+      - name: Build handout PDFs
+        working-directory: repo
+        run: bash 12-quick-reference/build-pdfs.sh ../site/pdf
+
+      # Pull requests: attach the rendered site for download; no deploy.
+      - name: Upload preview artifact (PR)
+        if: github.event_name == 'pull_request'
+        uses: actions/upload-artifact@v4
+        with:
+          name: site-preview
+          path: site
+
+      # Pushes to main: hand the site to GitHub Pages.
+      - name: Upload Pages artifact
+        if: github.event_name != 'pull_request'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    if: github.event_name != 'pull_request'
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

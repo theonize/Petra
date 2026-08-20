@@ -4,6 +4,7 @@ All notable changes to Petra docs.
 
 ## 2026-08-20
 
+- Website: MkDocs Material site published to GitHub Pages on every merge to `main` (`.github/workflows/pages.yml`, `.mkdocs/mkdocs.yml`, per-folder `.pages` titles); PRs build strictly and attach a preview artifact; handout PDFs rendered by `12-quick-reference/build-pdfs.sh` to `/pdf/`; folder links point at `README.md` so they resolve on both GitHub and the site
 - Terminology: **Director** replaces “MD” / “Music Director” repo-wide; `01-roles/music-director.md` renamed to `01-roles/director.md`; definitions note the former names
 - New `12-quick-reference/` — two-page handouts that point back into the skeleton: musician (band & vocals), tech (all tech roles), Song Selector, and a pastor overview of the framework
 - README routing table, PLAYBOOK, and CONTRIBUTING updated to reference the new folder

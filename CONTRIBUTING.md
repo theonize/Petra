@@ -54,6 +54,16 @@ Links to roles, templates, other SOPs.
 - Mark church-specific numbers (call times, room names, gear models) clearly so they are easy to update.
 - Do not store personal contact info, passwords, or private pastoral notes in this repo.
 
+## The website
+
+<https://theonize.github.io/petra/> is built from `main` by `.github/workflows/pages.yml` (MkDocs Material; config in `.mkdocs/mkdocs.yml`). Nothing to maintain for ordinary edits:
+
+- Every `.md` becomes a page at the same path; a folder's `README.md` is its index page.
+- The sidebar is generated from the folder tree. Section labels come from the `.pages` file in each folder (`title: Roles`); new pages need nothing.
+- Pull requests build the site (strict — a broken link fails the check) and attach it as a downloadable `site-preview` artifact; merges deploy.
+- Preview locally: `pip install mkdocs-material mkdocs-awesome-pages-plugin` then `mkdocs serve -f .mkdocs/mkdocs.yml`.
+- Handout PDFs under `/pdf/` are rendered by `12-quick-reference/build-pdfs.sh` in the same workflow.
+
 ## Git hygiene
 
 - Branch names: `docs/short-topic` or `policy/short-topic`

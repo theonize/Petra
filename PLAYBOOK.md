@@ -50,4 +50,4 @@ People safety first; preserve the moment second; communicate once on a known cha
 
 ## Finding anything else
 
-The [README](README.md) routes by need; every folder’s `README.md` lists its pages. Two-page handouts for [musicians](12-quick-reference/musician-quick-reference.md), [tech](12-quick-reference/tech-quick-reference.md), the [Song Selector](12-quick-reference/song-selector-quick-reference.md), and [pastors](12-quick-reference/pastor-overview.md) live in [`12-quick-reference/`](12-quick-reference/).
+The [README](README.md) routes by need; every folder’s `README.md` lists its pages. Two-page handouts for [musicians](12-quick-reference/musician-quick-reference.md), [tech](12-quick-reference/tech-quick-reference.md), the [Song Selector](12-quick-reference/song-selector-quick-reference.md), and [pastors](12-quick-reference/pastor-overview.md) live in [`12-quick-reference/`](12-quick-reference/README.md).

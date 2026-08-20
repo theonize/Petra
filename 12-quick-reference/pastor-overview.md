@@ -60,7 +60,7 @@ The [song-selection-policy](../06-music-library/song-selection-policy.md) is the
 | **Song Selector** | Chooses **what** we sing and why; publishes the fixed set; hands off to Director |
 | **Director** | Owns **how** it is played — keys, forms, charts, rehearsal |
 | **Tech Lead** | Owns production standards and tech roster health |
-| Band, vocals, FOH, monitors, media, lights, stream, stage | Each has a one-page charter in [01-roles/](../01-roles/) |
+| Band, vocals, FOH, monitors, media, lights, stream, stage | Each has a one-page charter in [01-roles/](../01-roles/README.md) |
 
 One person may wear several hats; each hat's must-dos still apply.
 
@@ -102,4 +102,4 @@ Safeguards the study places on Petra itself: Christ, not competence, gives acces
 
 Anyone may propose; the Worship Lead decides `active` policy; material changes are discussed before merge and logged in the [CHANGELOG](../CHANGELOG.md). Every page carries a status (`draft` / `active` / `pilot` / `deprecated`) and a named owner ([CONTRIBUTING](../CONTRIBUTING.md)); pending decisions sit in [open-questions](../11-reference/open-questions.md).
 
-**Where to look:** [PLAYBOOK](../PLAYBOOK.md) (one page) · [00-foundation/](../00-foundation/) (why, values, scope) · [06-music-library/](../06-music-library/) (song policy) · [08-culture-care/](../08-culture-care/) · [07-onboarding/](../07-onboarding/) · role handouts for [musicians](musician-quick-reference.md), [tech](tech-quick-reference.md), and the [song selector](song-selector-quick-reference.md).
+**Where to look:** [PLAYBOOK](../PLAYBOOK.md) (one page) · [00-foundation/](../00-foundation/README.md) (why, values, scope) · [06-music-library/](../06-music-library/README.md) (song policy) · [08-culture-care/](../08-culture-care/README.md) · [07-onboarding/](../07-onboarding/README.md) · role handouts for [musicians](musician-quick-reference.md), [tech](tech-quick-reference.md), and the [song selector](song-selector-quick-reference.md).

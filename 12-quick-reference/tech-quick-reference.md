@@ -83,4 +83,4 @@ Peer → **Tech Lead** → Worship Lead → Pastoral oversight. Safety hazards a
 | One-page overview | [PLAYBOOK](../PLAYBOOK.md) |
 | Your charter | [tech-lead](../01-roles/tech-lead.md) · [foh](../01-roles/foh-engineer.md) · [monitors](../01-roles/monitor-engineer.md) · [media](../01-roles/media-operator.md) · [lighting](../01-roles/lighting-operator.md) · [stream](../01-roles/stream-operator.md) · [stage](../01-roles/stage-logistics.md) |
 | Rehearsal rules & timeline | [rehearsal-standards](../03-rehearsal/rehearsal-standards.md) · [midweek runbook](../03-rehearsal/midweek-rehearsal-runbook.md) · [pre-service](../03-rehearsal/pre-service-rehearsal.md) |
-| SOPs, tracks, gear, tools | [05-tech/](../05-tech/) · [tracks-and-playback](../06-music-library/tracks-and-playback.md) · [09-equipment/](../09-equipment/) · [tools-and-systems](../11-reference/tools-and-systems.md) |
+| SOPs, tracks, gear, tools | [05-tech/](../05-tech/README.md) · [tracks-and-playback](../06-music-library/tracks-and-playback.md) · [09-equipment/](../09-equipment/README.md) · [tools-and-systems](../11-reference/tools-and-systems.md) |
