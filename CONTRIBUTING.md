@@ -18,6 +18,7 @@
 | Step-by-step how-tos | topic folders (`03-rehearsal/`, `05-tech/`, …) |
 | Blank forms / reusable checklists | `10-templates/` |
 | Tool links, glossary, external refs | `11-reference/` |
+| Two-page role handouts (pointers only, no new policy) | `12-quick-reference/` |
 | Logos, diagrams, stage plots | `assets/` |
 
 ## Page template

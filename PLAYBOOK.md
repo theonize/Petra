@@ -6,6 +6,8 @@ Everything in Petra serves one sentence:
 
 Petra settles the mundane — schedules, charts, patches, slides — so artists and tech are free to lead worship. When a page and that sentence conflict, the sentence wins.
 
+The service gives people a chance to attend to Someone besides themselves. It may be a distraction from the world; it must never be a distraction from God — and it is not about the people on the platform.
+
 ## Five habits that make it work
 
 1. **Sunday starts midweek.** Personal practice before rehearsal; group rehearsal before the service.
@@ -48,4 +50,4 @@ People safety first; preserve the moment second; communicate once on a known cha
 
 ## Finding anything else
 
-The [README](README.md) routes by need; every folder’s `README.md` lists its pages.
+The [README](README.md) routes by need; every folder’s `README.md` lists its pages. Two-page handouts for [musicians](12-quick-reference/musician-quick-reference.md), [tech](12-quick-reference/tech-quick-reference.md), the [Song Selector](12-quick-reference/song-selector-quick-reference.md), and [pastors](12-quick-reference/pastor-overview.md) live in [`12-quick-reference/`](12-quick-reference/).

@@ -38,6 +38,7 @@ Petra is meant to be:
 | Gear care & inventory | [`09-equipment/`](09-equipment/) |
 | Copy-paste forms & checklists | [`10-templates/`](10-templates/) |
 | Glossary, tools, links | [`11-reference/`](11-reference/) |
+| Two-page handouts per role + pastor overview | [`12-quick-reference/`](12-quick-reference/) |
 
 ## Document status legend
 

@@ -2,6 +2,16 @@
 
 All notable changes to Petra docs.
 
+## 2026-08-20
+
+- New `12-quick-reference/` — two-page handouts that point back into the skeleton: musician (band & vocals), tech (all tech roles), Song Selector, and a pastor overview of the framework
+- README routing table, PLAYBOOK, and CONTRIBUTING updated to reference the new folder
+
+## 2026-08-19
+
+- Foundation motion: the service is an opportunity to attend to Someone besides yourself — a distraction from the world is fine; a distraction from God is not, and attention is not aimed at the worship leaders
+- Added as mission-vision "Where attention goes", values #2 "Attention goes past the platform", a platform-etiquette presence line, and a PLAYBOOK intro line
+
 ## 2026-08-18
 
 - New `PLAYBOOK.md` — the playbook on one page: north star, five habits, every role in one line, the week at a glance
