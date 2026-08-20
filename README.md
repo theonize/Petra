@@ -26,6 +26,15 @@ Petra is meant to be:
 
 **Short on time?** Read [the playbook on one page](PLAYBOOK.md).
 
+## Start here
+
+- **New volunteer:** Read the [one-page playbook](PLAYBOOK.md), then your [role charter](01-roles/README.md) and the matching [quick-reference handout](12-quick-reference/README.md). Ask your team lead to explain any local times, tools, or room names that are still blank.
+- **Scheduled this week:** Open the official service plan first, then use the [midweek](03-rehearsal/midweek-rehearsal-runbook.md) and [pre-service](03-rehearsal/pre-service-rehearsal.md) runbooks. The service plan supplies the local details; Petra supplies the shared standard.
+- **Pastor or ministry leader:** Begin with the [pastor overview](12-quick-reference/pastor-overview.md), then review [scope and authority](00-foundation/scope-and-authority.md), [song selection](06-music-library/song-selection-policy.md), and [safety and protection](08-culture-care/safety-and-protection.md).
+- **Adopting Petra for a church:** Complete the [local adoption checklist](11-reference/local-adoption-checklist.md) before treating this template as an operational runbook.
+
+> **Template notice:** Bracketed text, `TBD`, and blank lines are choices the local church must complete. They are not instructions to volunteers. Until those choices are made, the Director should give the team the current local answer in the official planning or communication system.
+
 ## How to use
 
 | Section | If you need… |
@@ -41,7 +50,7 @@ Petra is meant to be:
 | [`Culture Care`](08-culture-care/README.md) | Culture, conflict, care |
 | [`Equipment`](09-equipment/README.md) | Gear care & inventory |
 | [`Templates`](10-templates/README.md) | Copy-paste forms & checklists |
-| [`Reference`](11-reference/README.md) | Glossary, tools, links |
+| [`Reference`](11-reference/README.md) | Local setup, glossary, tools, links |
 | [`Quick Reference`](12-quick-reference/README.md) | Two-page handouts per role + pastor overview |
 
 ## A living system

@@ -20,7 +20,7 @@ Group rehearsal is also how we confirm who is actually ready to **serve** the li
 6. Notes are normal; defensiveness slows everyone down.
 7. If you will be late or absent, notify Worship Lead / Tech Lead / Director ASAP — before rehearsal starts whenever humanly possible.
 8. The Song Selector publishes the fixed set by the team’s chosen weekly deadline. Everyone prepares from that plan. Rehearsal may amend keys, forms, arrangements, cues, and production elements; wholesale song replacement is an exception led by the Song Selector / Director.
-9. The normal group-rehearsal flow is: review the last performance, warm up with an easy song or focused exercise, work every part of the set, rehearse every transition between those parts, and run the set in sequence.
+9. The normal group-rehearsal flow is: review the previous service, warm up with an easy song or focused exercise, work every part of the set, rehearse every transition between those parts, and run the set in sequence.
 
 ## Prior-rehearsal attendance (detail)
 

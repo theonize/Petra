@@ -4,6 +4,7 @@ All notable changes to Petra docs.
 
 ## 2026-08-20
 
+- Editorial review: added audience-specific start paths and a clear template notice; added a local adoption checklist so unresolved church-specific decisions are completed before launch; strengthened safeguarding and emergency language; replaced "last performance" with "previous service"
 - Website: MkDocs Material site published to GitHub Pages on every merge to `main` (`.github/workflows/pages.yml`, `.mkdocs/mkdocs.yml`, per-folder `.pages` titles); PRs build strictly and attach a preview artifact; handout PDFs rendered by `12-quick-reference/build-pdfs.sh` to `/pdf/`; folder links point at `README.md` so they resolve on both GitHub and the site
 - Logo: `assets/petra.jpg` (the rock-cut city under the star) is the runbook mark — derived `petra-logo.png`, `favicon.png`, `favicon.ico`, `apple-touch-icon.png`; used as site logo + favicon, README header, and beside the title on the handout PDFs; site palette moved to deep purple to match
 - QR codes: every site page embeds a QR of its own URL (print-only on screen; `qr.svg` / `qr.png` served beside each page; "QR for this page" link in the footer) via `.mkdocs/hooks/qr.py`; handout PDFs carry a QR to their live page beside the title and ship `/pdf/<name>.qr.png`
