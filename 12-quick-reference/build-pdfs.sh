@@ -32,7 +32,7 @@ q = segno.make(url, error="m")
 host = url.split("//", 1)[-1].split("/", 1)[0]
 logo_b64 = base64.b64encode(open(logo, "rb").read()).decode()
 with open(html, "w", encoding="utf-8") as fh:
-    fh.write('<div class="handout-qr">' + q.svg_inline(scale=3, border=4) + f"<div>{host}</div></div>\n")
+    fh.write('<div class="handout-qr">' + q.svg_inline(scale=3, border=4, omitsize=True) + f"<div>{host}</div></div>\n")
     fh.write(f'<img class="handout-logo" src="data:image/png;base64,{logo_b64}" alt="">\n')
 q.save(svg, scale=3, border=4)
 q.save(png, scale=8, border=4)

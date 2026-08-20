@@ -37,7 +37,7 @@ def on_page_content(html: str, page, config, files):
         return html
     url = base + page.url
     _pages.append((page.url, url))
-    svg = _qr(url).svg_inline(scale=SCALE_SVG, border=4)
+    svg = _qr(url).svg_inline(scale=SCALE_SVG, border=4, omitsize=True)
     rel = "qr.svg" if page.url.endswith("/") or page.url == "" else page.url.rsplit("/", 1)[-1] + ".qr.svg"
     block = (
         '<div class="page-qr">'
