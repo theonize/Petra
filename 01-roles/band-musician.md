@@ -13,13 +13,13 @@ Electric/acoustic guitar, bass, keys/pads, drums/percussion, other instruments a
 ## Expectations
 
 - Personal practice before rehearsal (chart + reference + metronome/click if used)
-- **Attend the prior group rehearsal** for any service you are scheduled to serve (see [`../03-rehearsal/rehearsal-standards.md`](../03-rehearsal/rehearsal-standards.md))
+- **Attend the prior group rehearsal** for any service you are scheduled to serve (see [`Rehearsal Standards.md`](../03-rehearsal/rehearsal-standards.md))
 - Reliable gear in working order; backups for critical items when reasonable
 - Tune / patch / iPad charged **before** downbeat
 - Play the arrangement: leave holes, don’t fill every bar
 - Volume discipline — stage volume is a team problem, not a personal right
 - Click loyalty when click is on; recover quietly if you slip
-- **Stage reading default:** use **confidence monitors** (aka video monitors) for lyrics/cues/charts; music stands only with Worship Lead/Tech Lead exception ([`../05-tech/lyrics-and-stage-displays.md`](../05-tech/lyrics-and-stage-displays.md))
+- **Stage reading default:** use **confidence monitors** (aka video monitors) for lyrics/cues/charts; music stands only with Worship Lead/Tech Lead exception ([`Lyrics and Stage Displays.md`](../05-tech/lyrics-and-stage-displays.md))
 
 ## Preparation checklist
 

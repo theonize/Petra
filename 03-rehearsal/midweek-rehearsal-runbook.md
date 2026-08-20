@@ -39,19 +39,19 @@ If an item is not ready, tell the Worship Lead or Tech Lead **before** the ready
 |---|---|---|
 | T-0:15 | Tech open / line check; **house + confidence** up | Tech (all scheduled) |
 | T-0:00 | Ready-to-rehearse time — band on stage, tech at positions | All (band **and** tech) |
-| T+0:10 | Devotions / frame the night (short) | Director or Worship Lead |
+| T+0:10 | Devotions / frame the upcoming service (short) | Director or Worship Lead |
 | T+0:15 | Review the last performance: celebrate wins, identify a few concrete fixes | Worship Lead + Tech Lead |
 | T+0:25 | Warm-up: one easy song or a focused musical/technical exercise | Worship Lead + Tech |
 | … | Work every part of the set **and each transition between parts** — slides and production live | Worship Lead + Tech |
 | T+1:20 | Full set run (or partial if time) — full production path | Worship Lead + Tech |
-| T+1:40 | Notes + prayer | Worship Lead / Director / Tech Lead |
-| T+1:50 | Strike / reset as needed | All |
+| T+1:25 | Notes + prayer | Worship Lead / Director / Tech Lead |
+| T+1:30 | Strike / reset as needed | All |
 
 ## Who is expected
 
 - **Every band/vocalist** scheduled for the linked service
 - **Every tech** scheduled for the linked service (FOH, monitors, media, lights, stream as rostered)
-- Same attendance rule: no prior rehearsal → default do not serve ([`rehearsal-standards.md`](rehearsal-standards.md))
+- Same attendance rule: no prior rehearsal → default do not serve ([`Rehearsal Standards`](rehearsal-standards.md))
 
 ## Core rehearsal flow
 

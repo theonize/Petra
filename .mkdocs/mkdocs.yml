@@ -51,6 +51,12 @@ plugins:
   - search
   - awesome-pages
 
+hooks:
+  - hooks/qr.py
+
+extra_css:
+  - assets/site.css
+
 markdown_extensions:
   - toc:
       permalink: true

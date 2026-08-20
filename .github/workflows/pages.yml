@@ -29,7 +29,7 @@ jobs:
 
       - name: Install MkDocs + pandoc
         run: |
-          pip install --quiet mkdocs-material mkdocs-awesome-pages-plugin
+          pip install --quiet mkdocs-material mkdocs-awesome-pages-plugin segno
           sudo apt-get update -qq && sudo apt-get install -y -qq pandoc
 
       - name: Build site (strict — broken links fail)

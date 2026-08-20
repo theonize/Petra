@@ -82,7 +82,7 @@ Group rehearsal uses the **same lyric system as Sunday**:
 - Operator present for musical working time (not only strike)
 - Note deck fixes before leaving
 
-Details: [`../05-tech/lyrics-and-stage-displays.md`](../05-tech/lyrics-and-stage-displays.md).
+Details: [`Lyrics and Stage Displays.md`](../05-tech/lyrics-and-stage-displays.md).
 
 ## Preparation bar
 
@@ -94,11 +94,11 @@ Details: [`../05-tech/lyrics-and-stage-displays.md`](../05-tech/lyrics-and-stage
 | Media | Deck ordered to plan; **house + confidence** ready for rehearsal use |
 | Lights / Stream | Cue plan staged when scheduled for that service |
 
-Use the simple role-by-role guide in [`midweek-rehearsal-runbook.md`](midweek-rehearsal-runbook.md). Local teams fill in both a **present-by** time and a later **ready-to-rehearse** time; readiness, not merely entering the building, is the standard.
+Use the simple role-by-role guide in [`Midweek Rehearsal Runbook.md`](midweek-rehearsal-runbook.md). Local teams fill in both a **present-by** time and a later **ready-to-rehearse** time; readiness, not merely entering the building, is the standard.
 
 ## Stage reading default
 
-Default staging is **confidence monitors** (also called video monitors) for lyrics/cues and charts where provided, rather than music stands. Stands are exception-only — see [`../05-tech/lyrics-and-stage-displays.md`](../05-tech/lyrics-and-stage-displays.md).
+Default staging is **confidence monitors** (also called video monitors) for lyrics/cues and charts where provided, rather than music stands. Stands are exception-only — see [`Lyrics and Stage Displays.md`](../05-tech/lyrics-and-stage-displays.md).
 
 ## Etiquette
 
@@ -121,7 +121,7 @@ Default staging is **confidence monitors** (also called video monitors) for lyri
 
 ## Related
 
-- [midweek-rehearsal-runbook.md](midweek-rehearsal-runbook.md)
-- [pre-service-rehearsal.md](pre-service-rehearsal.md)
-- [`../02-scheduling/scheduling-policy.md`](../02-scheduling/scheduling-policy.md)
-- [`../05-tech/lyrics-and-stage-displays.md`](../05-tech/lyrics-and-stage-displays.md)
+- [Midweek Rehearsal Runbook.md](midweek-rehearsal-runbook.md)
+- [Pre-Service Rehearsal.md](pre-service-rehearsal.md)
+- [`Scheduling Policy.md`](../02-scheduling/scheduling-policy.md)
+- [`Lyrics and Stage Displays.md`](../05-tech/lyrics-and-stage-displays.md)

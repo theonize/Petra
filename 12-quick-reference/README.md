@@ -11,6 +11,8 @@ Two-page handouts that point back into the skeleton. Print or share one per role
 
 **Printable PDFs** (rebuilt by the site workflow on every merge): [musician](https://theonize.github.io/petra/pdf/musician-quick-reference.pdf) · [tech](https://theonize.github.io/petra/pdf/tech-quick-reference.pdf) · [song selector](https://theonize.github.io/petra/pdf/song-selector-quick-reference.pdf) · [pastor overview](https://theonize.github.io/petra/pdf/pastor-overview.pdf)
 
+Each PDF carries a QR code to its live page; the QR alone is at `https://theonize.github.io/petra/pdf/<name>.qr.png`.
+
 **Rules for these pages**
 
 - Stay at two printed pages (Letter, [`handout.css`](handout.css)); cut before you overflow

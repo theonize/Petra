@@ -6,7 +6,7 @@
 
 Confirm readiness and settle nerves — not rebuild the set.
 
-**Pre-service does not replace the prior midweek (group) rehearsal.** Teammates who missed the prior rehearsal are not automatically cleared to serve by showing up Sunday morning (see [`rehearsal-standards.md`](rehearsal-standards.md)).
+**Pre-service does not replace the prior midweek (group) rehearsal.** Teammates who missed the prior rehearsal are not automatically cleared to serve by showing up Sunday morning (see [`Rehearsal Standards.md`](rehearsal-standards.md)).
 
 ## Defaults
 

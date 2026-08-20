@@ -60,6 +60,7 @@ Links to roles, templates, other SOPs.
 - Pull requests build the site (strict — a broken link fails the check) and attach it as a downloadable `site-preview` artifact; merges deploy.
 - Preview locally: `pip install mkdocs-material mkdocs-awesome-pages-plugin` then `mkdocs serve -f .mkdocs/mkdocs.yml`.
 - Handout PDFs under `/pdf/` are rendered by `12-quick-reference/build-pdfs.sh` in the same workflow.
+- Every page carries a QR code of its own URL (`.mkdocs/hooks/qr.py`): hidden on screen, printed bottom-right; each page also serves `qr.svg` / `qr.png` beside it (e.g. `…/01-roles/director/qr.png`) and shows a small "QR for this page" link. Handout PDFs carry a QR to their live page; `/pdf/<name>.qr.png` is the shareable file. To dump QRs locally: `python .mkdocs/hooks/qr.py --out some/dir`.
 
 ## Git hygiene
 
