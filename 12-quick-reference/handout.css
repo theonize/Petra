@@ -26,3 +26,8 @@ input[type=checkbox] { margin: 0 0.3em 0 0; }
 /* Logo beside the title (left); QR floats right. */
 .handout-logo { float: left; width: 1.7cm; height: 1.7cm; margin: 0 0.5em 0.2em 0; }
 .no-print { display: none; }
+/* Print starts at the first section: hide the Owner line and the intro blurb. */
+h1 + p, h1 + p + .no-print + p { display: none; }
+/* Headings form their own block so their rules stop at the floated QR/logo instead of running through them. */
+h1, h2 { overflow: hidden; }
+h2:first-of-type { clear: left; }
