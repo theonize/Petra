@@ -11,9 +11,10 @@ Curate a small, truthful, singable repertoire that forms this congregation over 
 ### 1. Annual repertoire ceiling
 
 - Use no more than **50 distinct congregational song titles in any rolling 12-month period**.
-- Every full song the congregation is invited to sing counts, including seasonal songs, hymns, choruses, and each distinct title in a medley.
+- Every full song the congregation is invited to sing counts, including seasonal songs (Christmas, Holy Week), hymns, choruses, and each distinct title in a medley — so the weekly core will be smaller than 50.
+- **The counter is “sung in the trailing 12 months,” not the song’s stage.** A title on Rest or Archive that was sung 11 months ago still occupies a slot until it ages out of the window.
 - A reprise of the same title does not count again. Instrumental underscoring and brief spoken or chanted liturgical responses are not repertoire titles unless treated as songs.
-- The Song Selector maintains the annual repertoire register. Before adding title 51, retire or defer another title; the Director approves the decision.
+- The Song Selector maintains the annual repertoire register. To add a title while at 50, a previous title must age out of the window — or the Director, with pastoral oversight, records a policy change. “Resting” a song does not free a slot today.
 
 The ceiling is a maximum, not a target. A smaller repertoire known deeply is preferable to a larger one known shallowly.
 
@@ -28,13 +29,26 @@ Every song in the worship set must pass **all** of these criteria:
 5. **Clear Christian confession.** The song must name or unmistakably confess the God and gospel of the Christian faith rather than offer generic transcendence, romance, or sentiment that only becomes Christian through explanation.
 6. **Pastoral usefulness.** The song must help the church adore, remember, confess, lament, give thanks, petition, encourage one another, or respond to the Word and sacraments. A true and singable song may still be declined when it does not serve this congregation's present formation.
 
-Therefore, do not select secular songs or generic “love songs” for the worship set. Instrumental walk-in, event, or transition music outside the worship set is a separate pastoral/programming decision; it is not approved by this policy merely because it contains no lyrics.
+Therefore **we avoid** secular songs and generic “love songs” in the worship set. Instrumental walk-in, event, or transition music outside the worship set is a separate pastoral/programming decision; it is not approved by this policy merely because it contains no lyrics.
 
 ### 3. The congregation does not sing in God's first-person voice
 
-- Do not select songs in which the congregation sings **as though it were God speaking** (“I, the Lord, say…”).
-- First-person human response—“I worship,” “we believe,” “Lord, I need you”—is permitted, though the overall diet should favor language the gathered body can own together.
-- Direct words of God may be read as Scripture with the speaker clearly identified. That is different from placing the congregation in God's role through song.
+- **We avoid** songs in which the congregation sings **as though it were God speaking** (“I, the Lord, say…”).
+- First-person human response—“I worship,” “we believe,” “Lord, I need you”—is fine, though the overall diet should favor language the gathered body can own together.
+- Direct words of God may be read as Scripture with the speaker clearly identified. A sung Scripture quotation with a clear speaker cue (e.g. a hymn stanza introduced as God’s word, or a sung benediction) is a judgment call for leadership — see Exceptions. That is different from the room singing continuously *as* God with no cue.
+
+### Worked examples (illustrations, not a banned list)
+
+| Usually fine | Usually avoid | Criterion |
+|---|---|---|
+| Human response: “Lord, I need you”; “we believe” | A lyric that only works if every singer shares one private experience | Ownership |
+| A song that names Father, Son, Spirit, cross, or gospel in the words themselves | A lyric indistinguishable from a romance song until the leader explains it | Confession |
+| Sung Scripture with a speaker cue, approved by leadership | The room singing at length in God’s own voice with no cue | Voice |
+| A hymn or chorus written for the gathered church | A radio single the room can only listen to; a secular pop song as a worship number | Corporate intent / secular |
+
+**Crude singability test:** can an untrained voice on row 12 sing the melody in the published key without a soloist’s range or rhythm? If not, change the key, simplify, or pass.
+
+Add your own “we allow / we avoid” rows in [Our Congregation](../10-templates/our-congregation.md) so the gray areas are owned locally.
 
 ### 4. Week-to-week continuity
 
@@ -82,7 +96,7 @@ Before a new title enters `Trial`:
 - [ ] Name what function it adds that the current repertoire lacks
 - [ ] Choose a congregation-friendly key and teach strategy with the Worship Lead
 - [ ] Schedule likely second and third outings
-- [ ] Prepare accurate lyrics, chart, and licensing information
+- [ ] Confirm the title is in the church’s licensed catalog (or rights are otherwise cleared; originals: writer splits recorded); prepare accurate lyrics and chart
 - [ ] Obtain Director approval; obtain pastoral review if theology-sensitive
 
 ## Review rhythm
@@ -107,7 +121,7 @@ Before a new title enters `Trial`:
 
 ## Exceptions
 
-The Director may approve a one-service exception for a clear pastoral or liturgical reason, except that secular/generic love songs and first-person-God songs remain outside the worship-set policy. Record the exception and rationale. If exceptions recur, revise the policy openly rather than normalizing an unwritten rule.
+The Director may approve a one-service exception to the repertoire-shaping defaults for a clear pastoral or liturgical reason. The two **avoidances** above (secular / generic love songs; the congregation singing in God’s voice) are not the Director’s to waive alone: leadership — **Director with pastoral oversight** — may make a documented exception (e.g. a Scripture chorus, a God-voice hymn stanza with a speaker cue). Record every exception and its rationale on the setlist worksheet. If exceptions recur, revise the policy openly rather than normalizing an unwritten rule.
 
 ## Related
 

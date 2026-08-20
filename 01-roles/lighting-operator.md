@@ -9,8 +9,9 @@ Support focus, mood, and congregation comfort without turning the platform into 
 ## Owns
 
 - Cue list aligned to order of service
-- Safe levels (no hazardous strobes without clearance)
+- Safe levels — **strobes and seizure-risk effects are off by default**; only with the Director’s approval and a photosensitivity note on the plan (your church’s rule in [Our Congregation](../10-templates/our-congregation.md))
 - Stage wash sufficient for cameras and real faces
+- Knowing **blackout** and **restore** (grand master / bump) without looking
 
 ## Attendance
 
@@ -20,11 +21,13 @@ Support focus, mood, and congregation comfort without turning the platform into 
 ## Defaults
 
 - Bright enough for people to feel invited to sing
-- Dynamic for full-band moments; calmer for prayer/word
-- Avoid cue spam that distracts from lyric
+- Dynamic for full-band moments; **prayer / word = static warm wash, no movement**
+- Avoid cue spam that distracts from the lyric
+- Volunteers do not climb, fly, or rewire fixtures
 
 ## Pre-service
 
 - [ ] Patch / universe OK
 - [ ] Cue stack matches plan
-- [ ] Manual bump ready for unplanned moments
+- [ ] Blackout and restore (grand master / bump) ready for unplanned moments
+- [ ] Hands off at **freeze** unless safety/failure

@@ -7,14 +7,14 @@
 - Keep availability current in the scheduling tool.
 - “Maybe” is not a plan — convert to yes/no as soon as you can.
 - Extended travel or busy seasons: block early so leaders can recruit.
-- If you can do Sunday but **not** the prior rehearsal, say so up front — default policy is you need that rehearsal to serve.
+- Availability means rehearsal **and** service. If you cannot attend the prior rehearsal, **do not accept the slot** unless a lead has already granted a named exception (cover, simplify, or release). Disclosure is not permission.
 
 ## Swap rules
 
-1. You own finding a **qualified** replacement unless leadership releases you.
+1. You own finding a **qualified** replacement (listed for that role on the roster, or signed off by the Worship Lead / Tech Lead) unless leadership releases you. The cover takes the rehearsal **and** the service.
 2. Propose the swap in the official tool or designated workflow — not only a side text.
-3. Swap is not final until **both people and the scheduler/lead** confirm.
-4. Last-minute swaps (<24h): phone the Worship Lead/Tech Lead/Director as appropriate.
+3. Swap is not final until **both people and the swap confirmer** (Director, or the domain lead — see [Our Congregation](../10-templates/our-congregation.md)) confirm.
+4. Last-minute swaps (<24h): phone the Worship Lead, Tech Lead, or Director as appropriate — don’t only post.
 
 ## Declining a schedule
 

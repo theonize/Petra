@@ -41,5 +41,4 @@ Fill this in for your church — keep secrets out of git.
 
 ## License IDs (non-secret)
 
-- CCLI church #: **[TBD]**  
-- Other: **[TBD]**  
+Recorded with the licensing buckets in [Our Congregation](../10-templates/our-congregation.md). If you publish a fork, keep local names, clocks, and contacts out of the public tree.

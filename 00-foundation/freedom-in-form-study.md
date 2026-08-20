@@ -4,7 +4,7 @@
 
 ## Purpose
 
-This study supplies a biblical and pastoral baseline for Petra's conviction that a **mundane framework can free artists and the congregation to worship**. It is a teaching draft, not a doctrinal statement or an operating policy. Pastoral leadership owns final doctrinal language.
+This study supplies a biblical and pastoral baseline for Petra's conviction that a **mundane framework can free artists and the congregation to worship**. It is a teaching draft, not a doctrinal statement or an operating policy — **do not cite this page to win a scheduling argument**. Pastoral leadership owns final doctrinal language; the citations below are offered for pastoral review.
 
 ## Governing thesis
 
@@ -15,7 +15,7 @@ The system is scaffolding, not the sanctuary. Orthodoxy is a shared confession, 
 ## Primary texts
 
 - **Genesis 47:31** — At the end of his life, Israel bows in worship after securing Joseph's promise concerning his burial.
-- **Hebrews 11:21** — Hebrews remembers the dying Jacob blessing Joseph's sons and worshiping in faith, leaning on his staff.
+- **Hebrews 11:21** — Hebrews remembers the dying Jacob blessing Joseph's sons (Genesis 48) and worshiping in faith, bowing over the head of his staff.
 - **The Levites** — See especially Numbers 3:5–10; 8:5–26; 18:1–7; 1 Chronicles 23:24–32; 25:1–8; 2 Chronicles 29:25–30.
 - **Ephesians 5:15–21** — The Spirit-filled church addresses one another in psalms, hymns, and spiritual songs, sings to the Lord, gives thanks, and submits to one another.
 
@@ -25,7 +25,7 @@ Helpful companion texts: Exodus 14:12–15:21; 1 Corinthians 14:26–33, 40; Col
 
 ### Jacob: faithful worship in weakness
 
-Genesis 47:31 and Hebrews 11:21 present slightly different wording: Genesis in the Masoretic tradition reads **bed**, while Hebrews follows the Greek Old Testament's **staff** reading. The underlying unpointed Hebrew consonants permit the ancient difference. This study should acknowledge it rather than force a harmonization.
+Two related scenes, not one event told twice. Genesis 47:31 is Jacob bowing after securing Joseph's **burial oath**; Hebrews 11:21 reads Jacob's dying faith through his **blessing of Ephraim and Manasseh** (Genesis 48). The wording also differs: Genesis in the Masoretic tradition reads **bed**, while Hebrews follows the Greek Old Testament's **staff** (the unpointed Hebrew consonants permit either). This study should acknowledge both differences rather than force a harmonization.
 
 The shared theological picture is clear enough: Jacob's body is failing, but faith still bends him toward God's promise. His worship is not powered by ideal conditions, youthful strength, or musical intensity. It is embodied dependence at the edge of death.
 
@@ -38,7 +38,7 @@ Do not allegorize the staff into “the worship system” as though that were th
 The Levitical material joins spiritual seriousness to concrete organization:
 
 - people are **set apart for service** rather than self-appointed (Numbers 3; 8);
-- service is performed **on behalf of and for the good of the congregation** (Numbers 3:7–9; 8:9–19);
+- service is performed **on behalf of and for the good of the congregation** — including guarding the sanctuary so that the people would not bear guilt or plague by coming too near (Numbers 3:7–9; 8:9–19);
 - duties, boundaries, supervision, and accountability are named (Numbers 3; 18);
 - changing circumstances lead to adapted duties without abandoning the calling to serve (1 Chronicles 23:25–32);
 - thanksgiving and praise have recurring rhythms (1 Chronicles 23:30);
@@ -58,7 +58,7 @@ Ephesians 5 does not picture music as content delivered by a platform to an audi
 - gratitude;
 - mutual submission.
 
-The platform therefore serves two directions at once: **Godward praise** and **churchward formation**. Songs teach the room what to remember, love, confess, lament, and hope. This is why song choice is never merely musical and why congregational audibility matters.
+The platform therefore serves two directions at once: **Godward praise** and **churchward formation**. The parallel in Colossians 3:16 makes the formative side explicit — the word of Christ dwelling richly as the church **teaches and admonishes one another** in psalms, hymns, and spiritual songs — while Ephesians 5:19 stresses mutual address and melody to the Lord. Songs teach the room what to remember, love, confess, lament, and hope. This is why song choice is never merely musical and why congregational audibility matters. (“Psalms, hymns, and spiritual songs” is read here as a pastoral pointer to varied song, not a strict taxonomy.)
 
 ## Four movements for a sermon or team study
 
@@ -125,7 +125,7 @@ Song is formative speech. Therefore, freedom for the artist cannot mean freedom 
 ## Safeguards
 
 1. **Christ, not competence, gives access to God.** No rehearsal standard can justify us or summon the Spirit.
-2. **Scripture judges the system.** Human procedure must never nullify God's commands or bind consciences as though it were revelation (Mark 7:6–13).
+2. **Scripture judges the system.** Human procedure must never nullify God's commands (Mark 7:6–13), and house rules must not be treated as gospel or bind consciences as though they were revelation (Romans 14; Colossians 2:16–23).
 3. **Love governs freedom.** Freedom serves one another; it is not self-indulgence (Galatians 5:13).
 4. **Order serves edification.** “Decently and in order” belongs to Paul's concern that the gathered church be built up, not to aesthetic perfectionism (1 Corinthians 14).
 5. **Pastoral authority and operational authority are distinct.** Petra coordinates worship-team work; it does not write the church's doctrine.

@@ -16,10 +16,10 @@ Keep names short enough for console scribble strips.
 
 ## Rules
 
-1. One living input list per service template (update when plot changes).
-2. Stage plot and input list must match — if not, stage plot loses until updated.
+1. One living input list per service template (update when the plot changes).
+2. **The input list is canonical; update the plot the same day.**
 3. Guest inputs appended at the end, not inserted mid-list on Sunday morning.
-4. Store canonical templates in `10-templates/` and/or the planning tool.
+4. Starter list: [`input-list.csv`](../10-templates/input-list.csv) (`Mic_mount` = how the mic is held — it is not a music stand). Keep the canonical copy in the planning tool; a stage-plot drawing lives in `assets/` when you make one.
 
 ## Stage plot minimum content
 

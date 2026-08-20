@@ -14,13 +14,10 @@ Make the platform safe, clear, and ready — instruments, mics, stands, stools, 
 
 - Stage plot execution
 - Cable management and trip hazards
-- Mic stands, DI placement, water, towels, stands for tablets
-- Quick-change instrument plans
+- Mic stands, DI placement, water, towels, tablet mounts for cleared exceptions
+- Quick-change instrument plans and quiet mic handoffs
 - Strike and reset
 
-## Checklist spine
+## Checklist
 
-- [ ] Plot matches who is actually playing
-- [ ] Labels on inputs match FOH input list
-- [ ] Pathways clear for pastoral moments / altar calls if used
-- [ ] Spare SM58/cable/DI in known location
+Run the [Stage Checklist](../05-tech/stage-checklist.md). Spine: plot matches who is playing · labels match the input list · pathways clear for pastoral moments · spare SM58 / cable / DI in the known location · hands off at freeze.

@@ -2,6 +2,26 @@
 
 All notable changes to Petra docs.
 
+## 2026-08-20 — review pass
+
+Responds to the editorial review (`review/FINDINGS.md`, kept local) and ports the content of PR #4, which is closed in favour of this pass.
+
+- **Who fixes the set:** Song Selector publishes the *proposed* set by the weekly deadline; it is *fixed* when the Director confirms — or by the confirm-by time if the Director is silent; the Worship Lead publishes keys/forms/charts by a separate **keys/charts deadline** (default ≥ 48 h before ready-to-rehearse). Playbook, charters, Scope, policy, worksheet, runbook, handouts aligned
+- **One set of role names:** Definitions is current-state only (rename history lives here); new *hats* — **Platform lead** (whom band and media watch; usually the Worship Lead; named on the service plan), **Service Planner**, **Section lead**; “the leader” / “platform lead” replaced throughout; **Qualified** defined (on the roster for the role, or signed off by the domain lead)
+- **Director accountability** reworded to “the congregation’s worship and the team’s health”; Director does not conduct from the floor; Worship Lead owns musical calls during the service and calls freeze / monitor freeze
+- **Song selection:** “ban” language → **we avoid**; leadership (Director with pastoral oversight) may make a documented exception to the two avoidances; worked allowed/avoid examples and a crude singability test; 50-title counter clarified (“sung in the trailing 12 months”, seasonal titles count, Rest does not free a slot); new-song gate checks the licensed catalog
+- **Clocks / freeze:** Present · Ready (= call time) · Service-ready · **Freeze** (default doors, called once on talkback) defined and printed on the run-of-show, service plan, and every tech checklist; monitor freeze distinguished; 90-minute midweek clock rebuilt (5 frame · 5 review · 5 warm-up · **45 work · 20 run** · 10 notes) with a worked example; pre-service sample clock
+- **One source for church values:** `[TBD]` and duplicate blanks removed from policy pages; runbook clock pages say “copy from Our Congregation”; Our Congregation gains *Petra defaults vs you-must-fill*, a **before-your-first-Sunday** checklist (from PR #4), safety & care rows (designated reporter, AED/exits, hearing policy), confirm-by and keys/charts clocks, licensing buckets, local song gray-area rows, strobes, first-week logistics
+- **Safety (light touch):** adhere to your congregation’s protection policy; baseline stated; do not serve until you have the policy and the designated reporter; do not investigate / confront / promise secrecy; incident log carries no protection matters. **Incidents:** stopping-for-a-person rule, pastor-mic / IEM-death / feedback / power rows; no references to SOPs that don’t exist
+- **Disclosure is not permission** for the prior-rehearsal rule; swap cover takes rehearsal *and* service; swap confirmer named; exception-granted fields
+- **Licensing buckets** with a reporting owner; tracks-in-room ≠ masters-on-stream
+- **Tech:** plain-language *minimum viable Sunday* per seat and a one-tech **boot order**; new Stage Checklist; spoken word first in FOH priorities; hearing as people-safety; strobes off by default; glossary rebuilt around volunteer vocabulary
+- **Foundation:** index split Binding vs Teaching; study marked “not policy”; Jacob scenes, staff wording, Col 3:16, Num 8:19, Rom 14 / Col 2 corrected or added — **pending pastoral review**; Mission: craft removes obstacles, does not manufacture presence; Playbook trump sentence limited to artistic/preference conflicts; “Defaults over doctrine” → “Defaults over preference debates”
+- **Templates:** service plan (Platform lead, Song Selector, Media, special dress, theology-sensitive note, doors/freeze); rehearsal agenda; setlist worksheet (WL columns, exceptions line, spontaneous-inside-rehearsed-song); annual register; onboarding checklist; **new Assessment Notes**; swap request; incident log; `input-list.csv` `Stand` → `Mic_mount`
+- **Culture, care, onboarding:** wardrobe rewritten around function with private correction; pastoral care “bigger than the band” table; vocalist “smile with your eyes” → be present, watch the Platform lead; green-room rule written out; written assessment outcome with two listeners; first-30-days reads Mission + Values
+- **README** *Start here* table and template notice; CONTRIBUTING leads with *Editing content (no git needed)* and a pre-filled issue link; Changelog and Contributing off the site sidebar; LICENSE placeholder filled; Owner line on the Playbook
+- **Handouts:** drifts fixed (who grants rehearsal exceptions; who to phone; the two avoidances named), terms aligned, type enlarged
+
 ## 2026-08-20
 
 - Website: MkDocs Material site published to GitHub Pages on every merge to `main` (`.github/workflows/pages.yml`, `.mkdocs/mkdocs.yml`, per-folder `.pages` titles); PRs build strictly and attach a preview artifact; handout PDFs rendered by `12-quick-reference/build-pdfs.sh` to `/pdf/`; folder links point at `README.md` so they resolve on both GitHub and the site

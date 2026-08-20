@@ -1,10 +1,12 @@
 # The Playbook on One Page
 
+**Owner:** Director  
+
 Everything in Petra serves one sentence:
 
 > **Encourage the congregation to sing.**
 
-Petra settles the mundane — schedules, charts, patches, slides — so artists and tech are free to lead worship. When a page and that sentence conflict, the sentence wins.
+Petra settles the mundane — schedules, charts, patches, slides — so artists and tech are free to lead worship. When a page and that sentence conflict on artistic or preference grounds, the sentence wins. Safety, protection, and licensing pages are never optional.
 
 The service gives people a chance to attend to Someone besides themselves. It may be a distraction from the world; it must never be a distraction from God — and it is not about the people on the platform.
 
@@ -13,14 +15,14 @@ The service gives people a chance to attend to Someone besides themselves. It ma
 1. **Sunday starts midweek.** Personal practice before rehearsal; group rehearsal before the service.
 2. **No prior rehearsal → no serve** (default). Accepting a slot includes the rehearsal tied to it — band, vocals, and tech alike.
 3. **Rehearse the way we serve.** House lyrics and confidence monitors run at midweek rehearsal, not only Sunday.
-4. **One plan, published early.** The Song Selector fixes the set by the team’s weekly deadline; everyone prepares from that plan.
+4. **One plan, published early.** The Song Selector publishes the proposed set by the weekly deadline; it is **fixed** when the Director confirms (silence by the confirm-by time counts). The Worship Lead publishes keys, forms, and charts by the charts deadline. Everyone prepares from that plan. Clocks live in [Our Congregation](10-templates/our-congregation.md).
 5. **Eyes up.** Confidence monitors are the default; music stands are the exception.
 
 ## Every role in one line
 
 | Role | In one line |
 |---|---|
-| [Director](01-roles/director.md) | Owns the ministry under the pastor; appoints the team leads; accountable for the worship experience |
+| [Director](01-roles/director.md) | Owns the ministry under the pastor; appoints the team leads; accountable for the congregation’s worship |
 | [Worship Lead](01-roles/worship-lead.md) | Owns **how** it is played — keys, forms, charts, rehearsal |
 | [Song Selector](01-roles/song-selector.md) | Chooses **what** we sing and why; hands the set to the Worship Lead |
 | [Vocalist](01-roles/vocalist.md) | Leads congregational melody with blend and presence |
@@ -37,10 +39,10 @@ One person may wear several hats in a week; each hat’s must-dos still apply.
 
 ## The week at a glance
 
-1. **Set fixed** by the team deadline (Song Selector) → keys, forms, and charts published (Worship Lead)
+1. **Set proposed** by the weekly deadline (Song Selector) → **confirmed** (Director) → **keys, forms, charts published** by the charts deadline (Worship Lead)
 2. **Midweek rehearsal** — everyone serving Sunday, full production path (house + confidence live)
 3. **Fixes land before Sunday** — charts, decks, cues, gear
-4. **Pre-service run-through** confirms readiness; freeze time ends experiments
+4. **Pre-service run-through** confirms readiness; **freeze** (default: doors) ends experiments
 5. **Service** — the room sings; tech stays invisible
 6. **Strike + notes** — people first, then process
 

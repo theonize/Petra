@@ -2,28 +2,28 @@
 
 **Owner:** Worship Lead + Tech Lead  
 
-## Fill in the local rhythm
+## The local clock
 
-Keep this runbook generic; each team fills in its actual rhythm:
+Copy these from [Our Congregation](../10-templates/our-congregation.md) — that page is the single source; write the values here only on a printed copy:
 
-- **Set fixed by:** ____________________ (day/time)
+- **Proposed set published by / confirmed by:** ____________________
+- **Keys / forms / charts published by:** ____________________
 - **Rehearsal day:** ____________________
 - **Present by:** ____________________
 - **Ready to rehearse by:** ____________________
 - **Rehearsal ends:** ____________________
 - **Location / access notes:** ____________________
-- **Official plan / communication tool:** ____________________
 
 **Rehearsal is mandatory for everyone scheduled to serve the linked service.** “Present” means in the building. “Ready to rehearse” means at your position with your personal preparation and required equipment complete.
 
 ## Before rehearsal: simple readiness guide
 
-The set is fixed by the team’s chosen deadline. The **Song Selector** is responsible for publishing it; everyone else prepares from and adheres to that plan. Rehearsal may amend how the set is delivered, but it is not the normal place to select a different set.
+The set is fixed before rehearsal: the **Song Selector** publishes it by the weekly deadline and the Director confirms; the **Worship Lead** publishes keys, forms, and charts by the keys/charts deadline. Everyone else prepares from and adheres to that plan. Rehearsal may amend how the set is delivered, but it is not the normal place to select a different set.
 
 | Role | Arrive ready with |
 |---|---|
-| Song Selector / Director | Fixed song list, pastoral purpose, and any new-song teaching intent published |
-| Worship Lead | Keys, tempos, forms, charts/references, tracks, leads, and difficult transitions prepared |
+| Song Selector / Director | Confirmed song list, pastoral purpose, and any new-song teaching intent published |
+| Worship Lead | Keys, tempos, forms, charts/references, tracks, leads, and difficult transitions published by the deadline |
 | Band | Songs and forms learned; instrument, patches, and personal backup ready |
 | Vocals | Lyrics, melody, and assigned parts learned; water and personal backup ready |
 | Tech Lead / Stage | Roster, stage needs, input list, and unusual production needs reviewed |
@@ -33,35 +33,39 @@ The set is fixed by the team’s chosen deadline. The **Song Selector** is respo
 
 If an item is not ready, tell the Worship Lead or Tech Lead **before** the ready-to-rehearse time so the plan can be simplified.
 
-## Default timeline
+## Default timeline (90-minute minimum)
+
+Ninety minutes is the floor, not the target. If you have more time, **grow the work block — never cut the full run.** If you only have 90 minutes including strike, cut the review to two sentences or move it to chat.
 
 | Time | Block | Owner |
 |---|---|---|
-| T-0:15 | Tech open / line check; **house + confidence** up | Tech (all scheduled) |
-| T-0:00 | Ready-to-rehearse time — band on stage, tech at positions | All (band **and** tech) |
-| T+0:10 | Devotions / frame the upcoming service (short) | Director or Worship Lead |
-| T+0:15 | Review the last performance: celebrate wins, identify a few concrete fixes | Worship Lead + Tech Lead |
-| T+0:25 | Warm-up: one easy song or a focused musical/technical exercise | Worship Lead + Tech |
-| … | Work every part of the set **and each transition between parts** — slides and production live | Worship Lead + Tech |
-| T+1:20 | Full set run (or partial if time) — full production path | Worship Lead + Tech |
-| T+1:25 | Notes + prayer | Worship Lead / Director / Tech Lead |
+| T−0:15 | Tech open / line check; **house + confidence** up | Tech (all scheduled) |
+| T−0:00 | Ready-to-rehearse time — band on stage, tech at positions | All (band **and** tech) |
+| T+0:00 | Frame the night: purpose of this service, anything new (5 min) | Director or Worship Lead |
+| T+0:05 | Review the previous service: two wins, two fixes (5 min) | Worship Lead + Tech Lead |
+| T+0:10 | Warm-up: one easy song or a focused musical/technical exercise (5 min) | Worship Lead + Tech |
+| T+0:15 | **Work block (45 min):** every part of the set **and each transition between parts** — slides and production live | Worship Lead + Tech |
+| T+1:00 | **Full set run (20 min)** — in sequence, full production path; revisit failure points only if time remains | Worship Lead + Tech |
+| T+1:20 | Notes + prayer (10 min) | Worship Lead / Director / Tech Lead |
 | T+1:30 | Strike / reset as needed | All |
+
+**Worked example — 4 songs, 3 transitions, 90 minutes:** ~8 min per song in the work block (32 min) leaves ~4 min per transition (12 min); the 20-minute run covers a 22-minute set once with a restart on the worst transition. Five songs? Take the extra 12 minutes from the clock, not from the run.
 
 ## Who is expected
 
 - **Every band/vocalist** scheduled for the linked service
 - **Every tech** scheduled for the linked service (FOH, monitors, media, lights, stream as rostered)
-- Same attendance rule: no prior rehearsal → default do not serve ([`Rehearsal Standards`](rehearsal-standards.md))
+- Same attendance rule: no prior rehearsal → default do not serve ([Rehearsal Standards](rehearsal-standards.md)); exceptions are granted in advance, recorded on the agenda
 
 ## Core rehearsal flow
 
-1. **Review the last performance.** Briefly name what served the congregation well, what did not, and which lessons apply to this set. Keep the review concrete and forward-looking rather than replaying every note.
+1. **Review the previous service.** Briefly name what served the congregation well, what did not, and which lessons apply to this set. Keep the review concrete and forward-looking rather than replaying every note.
 2. **Warm up.** Use an easy song or a focused exercise that prepares the team to listen, blend, follow cues, and operate the production path together.
 3. **Work each part of the set.** Rehearse every song and other planned element, prioritizing difficult forms, tracks, vocal stacks, cues, and production needs without leaving familiar material assumed.
 4. **Work every transition.** Rehearse the handoff into and out of each part: count-ins, endings, key or patch changes, spoken cues, prayers/readings, track starts, slide changes, lighting cues, and silence. A set is not complete merely because its songs work in isolation.
 5. **Run the set in sequence.** Use the full production path when possible, then revisit any failure points.
 
-During each song, test whether the congregation can reasonably sing it. Confirm that the **key, range, tempo, phrasing, and arrangement** help the room participate rather than merely fitting the platform lead. Change the key or simplify the arrangement when needed.
+During each song, test whether the congregation can reasonably sing it. Confirm that the **key, range, tempo, phrasing, and arrangement** help the room participate rather than merely fitting the Platform lead. Change the key or simplify the arrangement when needed.
 
 ## Tech parallel track
 
@@ -102,7 +106,7 @@ Before leaving, the Worship Lead and Tech Lead make sure the current plan and af
 ## End state
 
 - [ ] Open issues listed (who owns overnight fixes)
-- [ ] Lessons from the last performance reviewed and applied
+- [ ] Lessons from the previous service reviewed and applied
 - [ ] Every set part and every transition rehearsed
 - [ ] Agreed set amendments captured in the plan, charts/tracks, and production materials
 - [ ] Keys and arrangements confirmed as congregationally reachable

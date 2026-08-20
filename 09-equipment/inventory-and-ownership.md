@@ -19,4 +19,4 @@
 
 ## Inventory living doc
 
-Every tech-team member should receive an inventory/asset list.
+Keep the asset list in the planning tool or a shared sheet (location in [Our Congregation](../10-templates/our-congregation.md)); every tech-team member should know where it is. Petra does not ship an inventory template — a simple sheet with item, serial, location, owner, and condition is enough.

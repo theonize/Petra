@@ -3,8 +3,7 @@
 ## Internal
 
 - Petra repo: https://github.com/theonize/petra
-- Church protection policy: **[TBD]**
-- Facility emergency plan: **[TBD]**
+- Church protection policy, emergency plan, designated reporter: recorded in [Our Congregation](../10-templates/our-congregation.md) — if those rows are blank, this church has not finished adopting Petra
 
 ## Helpful external (optional reading)
 

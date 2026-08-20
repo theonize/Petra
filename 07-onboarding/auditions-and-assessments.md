@@ -6,6 +6,11 @@
 
 Assessment is matching gifts to needs — not American Idol. Candidates should leave encouraged even if not placed yet.
 
+## How it is recorded
+
+- Two listeners when possible
+- The outcome is written on [Assessment Notes](../10-templates/assessment-notes.md) — provisional / shadow more / not this season — with who decided and what the candidate was told. A decline we cannot explain kindly in writing is a decline we should not make.
+
 ## Musicians / vocalists
 
 **Typically evaluate**
@@ -13,7 +18,7 @@ Assessment is matching gifts to needs — not American Idol. Candidates should l
 - Time and pitch
 - Ability to learn a provided chart
 - Blend and dynamic control
-- Attitude under notes
+- Response to a note (can they try it, without defensiveness?)
 - Gear readiness (for instrumentalists)
 
 **Suggested flow**

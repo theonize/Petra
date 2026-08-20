@@ -22,13 +22,16 @@ Lead the musical preparation and execution of the set so the band is unified and
 
 When one person is both Song Selector and Worship Lead, complete both charters.
 
-## Must before rehearsal
+## Must before rehearsal — by the keys/charts deadline
 
-- [ ] Final-ish form published (sections labeled)
+Keys, forms, and charts are published by the team’s **keys/charts deadline** (default: at least 48 hours before ready-to-rehearse; clocks in [Our Congregation](../10-templates/our-congregation.md)) so players practice in the right key and vocalists can flag range. Rehearsal may still amend.
+
+- [ ] Form published with sections labeled; later changes are exceptions, called out
 - [ ] Key and tempo set
 - [ ] Charts / multitracks / references linked
 - [ ] Known hard transitions called out in the plan
 - [ ] Media has forms that match what will actually be sung
+- [ ] Playback owner named if tracks are used (if blank, the Worship Lead owns playback)
 
 ## During rehearsal
 
@@ -36,6 +39,13 @@ When one person is both Song Selector and Worship Lead, complete both charters.
 - Give specific, kind notes (“guitars: half the delay on V2”)
 - Leave space for tech to solve real problems
 - End with a clean run when possible
+
+## During the service
+
+- Usually the **Platform lead**: owns musical calls — entries, holds, endings, cutting or extending a song, the spontaneous moment within agreed boundaries
+- Listens to the pastor for deviations; does not invent a concert when the pastor extends
+- Calls **freeze** on talkback (with the Tech Lead) and the **monitor freeze** after the final run
+- Does not override pastoral direction from the Director or pastor; the Director does not conduct from the floor unless pre-agreed
 
 ## Success looks like
 

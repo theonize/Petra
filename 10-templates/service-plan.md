@@ -4,7 +4,10 @@
 **Service:**  
 **Director:**  
 **Worship Lead:**  
+**Platform lead (who the band watches):**  
+**Song Selector:**  
 **Tech Lead on duty:**  
+**Media:**  
 
 ## Series / theme
 
@@ -27,16 +30,20 @@
 
 - Guests:
 - Baptism / communion / other:
-- Tracks:
+- Tracks (playback owner):
+- Special dress:
+- Theology-sensitive lyric or reading (pastoral review done?):
 
 ## Risks / watch-outs
 
 - 
 
-## Call times
+## Clock
 
 | Role group | Present by | Ready for run-through | Service-ready |
 |---|---|---|---|
 | Tech | | | |
 | Band | | | |
 | Vocals | | | |
+
+**Doors:** ____  **Freeze (default: doors):** ____  **Service starts:** ____

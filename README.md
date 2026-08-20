@@ -26,6 +26,19 @@ Petra is meant to be:
 
 **Short on time?** Read [the playbook on one page](PLAYBOOK.md).
 
+## Start here
+
+| If you are… | Read |
+|---|---|
+| **New to the team** | [Joining the Team](07-onboarding/joining-the-team.md) → [Playbook](PLAYBOOK.md) → your [role charter](01-roles/README.md) and [handout](12-quick-reference/README.md) |
+| **Band / vocals, scheduled this week** | Your team’s service plan → [Musician Quick Reference](12-quick-reference/musician-quick-reference.md) → [Midweek Rehearsal Runbook](03-rehearsal/midweek-rehearsal-runbook.md) |
+| **Tech, scheduled this week** | Your team’s service plan → [Tech Quick Reference](12-quick-reference/tech-quick-reference.md) → your [checklist](05-tech/README.md) |
+| **Song Selector** | [Song Selector Quick Reference](12-quick-reference/song-selector-quick-reference.md) → [Song Selection Policy](06-music-library/song-selection-policy.md) |
+| **Pastor / elder** | [Petra for Pastors](12-quick-reference/pastor-overview.md) → [Scope & Authority](00-foundation/scope-and-authority.md) → [Song Selection Policy](06-music-library/song-selection-policy.md) |
+| **Director / adopting Petra for a church** | [Director](01-roles/director.md) → [Our Congregation](10-templates/our-congregation.md) (fill it in before your first Sunday) → [Playbook](PLAYBOOK.md) |
+
+> **Template notice.** Petra is a generic skeleton. Blanks and `[TBD]` are choices for your church’s leadership to make — not instructions to volunteers. They are collected in one place, [Our Congregation](10-templates/our-congregation.md); until it is filled in, the Director gives the team the local answer in the planning tool.
+
 ## How to use
 
 | Section | If you need… |

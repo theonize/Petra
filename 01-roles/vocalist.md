@@ -21,13 +21,13 @@ Lead and support congregational singing with clear melody, blend, and pastoral p
 
 - [ ] Listen to reference at set key
 - [ ] Mark breaths, unison vs harmony, and any descant moments
-- [ ] Note ad-libs: only where planned or clearly opened by Worship Lead/lead
+- [ ] Note ad-libs: only where planned or clearly opened by the Worship Lead / Platform lead
 - [ ] Wardrobe per [team guidelines](../08-culture-care/wardrobe-guidelines.md)
 - [ ] Prior rehearsal on the calendar; conflicts flagged early
 
 ## On stage
 
-- Smile with your eyes; watch the leader
+- Be present to God and the room; do not perform emotion you are not carrying. Watch the **Platform lead**
 - Use confidence monitors; stay present to the room
 - Hold still through prayers and scripture unless directed
 - If you lose a line, mute / pull back — do not invent loudly

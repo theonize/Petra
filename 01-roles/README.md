@@ -4,7 +4,7 @@ Role charters define **ownership**, not every micro-task. Detailed SOPs live in 
 
 | Role | In one line |
 |---|---|
-| [Director](director.md) | Owns the ministry under the pastor; appoints the team leads; accountable for the worship experience |
+| [Director](director.md) | Owns the ministry under the pastor; appoints the team leads; accountable for the congregation’s worship |
 | [Worship Lead](worship-lead.md) | Owns **how** it is played — keys, forms, charts, rehearsal |
 | [Song Selector](song-selector.md) | Chooses **what** we sing and why; hands the set to the Worship Lead |
 | [Vocalist](vocalist.md) | Leads congregational melody with blend and presence |
@@ -20,4 +20,4 @@ Role charters define **ownership**, not every micro-task. Detailed SOPs live in 
 **Notes:**
 
 - One person may hold multiple roles on a given week (e.g. Song Selector + Worship Lead). When that happens, they still own each charter’s must-dos — or explicitly hand off pieces in the plan.
-- **Service Planner** (order of service beyond the musical set) is a hat, not a separate charter — usually worn by the Director or Worship Lead. See [Definitions](../00-foundation/definitions.md).
+- **Hats, not charters** (see [Definitions](../00-foundation/definitions.md)): **Platform lead** — the person on the mic whom band and media watch during the set (usually the Worship Lead; named on the service plan). **Service Planner** — order of service beyond the set (usually Director or Worship Lead). **Section lead** — experienced player/tech who coaches a slice of the team and is the first stop for questions.

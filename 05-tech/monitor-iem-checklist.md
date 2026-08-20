@@ -2,13 +2,15 @@
 
 **Owner:** Monitor Engineer / Tech Lead  
 
+Minimum viable Sunday: **everyone hears click (if used), lead vocal, and themselves; nobody shouts for a mix mid-song.**
+
 ## Pre
 
-- [ ] Packs assigned / labeled
+- [ ] Packs assigned / labeled; spare pack charged and where the plot says
 - [ ] Frequencies coordinated
 - [ ] Click/guide routed and metered
 - [ ] Personal mix workflow explained to any guest
-- [ ] Wedges as backup if IEM failure policy says so
+- [ ] Pack-death default agreed: spare pack → nearest wedge → play on the room; tell the Worship Lead once (your church’s choice in [Our Congregation](../10-templates/our-congregation.md))
 
 ## Build order (typical)
 
@@ -18,7 +20,11 @@
 4. Own instrument  
 5. Others as requested  
 
+## Monitor freeze
+
+After the final run, no major mix rebuilds unless pain or safety. Requests come through the cue workflow — specific (“more acoustic in the verse”), never shouted mid-song.
+
 ## Post
 
 - [ ] Packs returned, charging
-- [ ] Note chronic “more me” stage volume issues for Worship Lead/Tech Lead
+- [ ] Note chronic “more me” stage-volume issues for the Worship Lead / Tech Lead

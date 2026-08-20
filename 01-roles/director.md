@@ -6,7 +6,7 @@
 
 Carry general ownership of the congregation's musical worship — spiritual and operational — under the direction of the pastor, so the team is healthy, prepared, and aligned with the church.
 
-**Line of authority:** Pastor → Director → team leads (Worship Lead, Song Selector, Tech Lead). The pastor has final say; the **responsibility and accountability for the worship experience rest with the Director**.
+**Line of authority:** Pastor → Director → team leads (Worship Lead, Song Selector, Tech Lead). The pastor has final say; **responsibility and accountability for the congregation’s worship and the team’s health rest with the Director**.
 
 ## Owns
 
@@ -14,7 +14,8 @@ Carry general ownership of the congregation's musical worship — spiritual and 
 - Team culture, discipline, and pastoral care pathway
 - Appointing and developing the team leads — **Worship Lead**, **Song Selector**, **Tech Lead** — and section leads (pastor consulted)
 - Service planning standards and final accountability for Sunday readiness
-- Final accountability for song diet / set direction (often exercised *through* Song Selector)
+- Confirming the weekly set the Song Selector proposes (silence by the confirm-by time = confirmed); final accountability for song diet / set direction
+- Does not conduct from the floor on Sunday unless pre-agreed — musical calls during the service belong to the Worship Lead
 - Coordination with pastors, production, and other ministries
 - Seasonal calendar (series, special services, retreats)
 

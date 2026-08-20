@@ -40,21 +40,24 @@ If a page starts micromanaging artistry instead of clearing the runway, rewrite 
 | “Must” only for safety, care, or congregational clarity | Rules that exist to flex control |
 | Exceptions with a named decider | Tribal knowledge |
 
-## Decision rights (RACI-lite)
+## Decision rights
 
-Line of authority: **Pastor → Director → team leads** (Worship Lead, Song Selector, Tech Lead). The pastor has final say; the responsibility and accountability for the worship experience rest with the Director.
+Line of authority: **Pastor → Director → team leads** (Worship Lead, Song Selector, Tech Lead). The pastor has final say; responsibility and accountability for the congregation’s worship and the team’s health rest with the Director.
+
+Who **proposes**, who **decides**, who is **told**:
 
 | Decision | Propose | Decide | Informed |
 |---|---|---|---|
-| Appoint the Director | Pastoral oversight | Pastoral oversight | Team |
-| Song menu / setlist titles for a service | **Song Selector** | Director | Worship Lead, Service Planner, Media, band |
-| Keys, tempos, forms for a service | Worship Lead | Worship Lead (Director if sensitive) | Band, Media, Song Selector |
+| Appoint the Director | Pastor | Pastor | Team |
+| Songs / setlist titles for a service | **Song Selector** publishes the proposed set by the weekly deadline | **Director confirms** — the set is *fixed* once confirmed, or by the confirm-by time if the Director is silent (see [Our Congregation](../10-templates/our-congregation.md)). After that only a named exception changes titles | Worship Lead, Service Planner, Media, band |
+| Keys, tempos, forms for a service | Worship Lead | Worship Lead (Director if sensitive); published by the keys/charts deadline | Band, Media, Song Selector |
 | Arrange / cut a song section | Worship Lead | Worship Lead (Director if sensitive) | Band |
-| Change call times permanently | Director | Director + Pastor liaison | Full team |
+| Change call times permanently | Director | Director + pastor (or named delegate) | Full team |
 | Appoint Worship Lead, Song Selector, or Tech Lead | Director | Director (pastor consulted) | Team |
 | Major gear purchase | Tech Lead | Church finance / pastor process | Director |
 | Exception to a policy for one week | Role owner | Director | Affected teammates |
-| Edit Petra policy | Anyone | Director (or designee) | Team via changelog / announce |
+| Exception to a song-selection avoidance (e.g. a Scripture chorus sung in God’s voice) | Song Selector / Director | Director **with pastoral oversight**, recorded on the setlist worksheet | Team |
+| Edit Petra policy | Anyone | Director (or named delegate) | Team via changelog / announce |
 
 ## Escalation path
 

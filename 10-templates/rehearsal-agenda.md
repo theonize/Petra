@@ -2,11 +2,12 @@
 
 **Date:**  
 **Worship Lead:**  
-**Tech lead:**  
-**Linked service:**
-**Set fixed by:**
-**Present by:**
-**Ready to rehearse by:**
+**Tech Lead:**  
+**Linked service:**  
+**Set confirmed (date/time):**  
+**Keys / charts published (date/time):**  
+**Present by:**  
+**Ready to rehearse by:**  
 **End:**  
 
 ## Goals tonight
@@ -15,7 +16,7 @@
 2.  
 3.  
 
-## Review the last performance
+## Review the previous service
 
 - What served the congregation well:
 - What needs correction:
@@ -26,9 +27,15 @@
 - Easy song or focused exercise:
 - Listening / blend / cue / production focus:
 
+## Production live
+
+- [ ] House / overhead lyrics on and advancing
+- [ ] Confidence monitors on; readable from stage
+- [ ] Media present for the working time
+
 ## Work order
 
-Include **every part of the set and every transition between parts**, even when the focus or time box is brief.
+Include **every part of the set and every transition between parts**, even when the focus or time box is brief. Protect the full run (≈20 min).
 
 | Order | Song / item / transition | Focus | Time box | Worked? |
 |---|---|---|---|---|
@@ -45,9 +52,9 @@ Include **every part of the set and every transition between parts**, even when 
 
 ## Attendance at ready-to-rehearse time
 
-| Person / role | Present + ready / late or not ready / released / covered |
-|---|---|
-| | |
+| Person / role | Present + ready / late or not ready / released / covered | Exception granted by |
+|---|---|---|
+| | | |
 
 ## Agreed amendments to the set
 
@@ -57,8 +64,13 @@ Include **every part of the set and every transition between parts**, even when 
 
 ## Congregational reachability
 
-- [ ] Keys and ranges work for the congregation
+- [ ] Keys and ranges work for the congregation (untrained voice, row 12)
 - [ ] Tempos, phrasing, and arrangements leave room for the congregation to sing
+
+## Sunday
+
+- [ ] Sunday clock confirmed (present / ready / service-ready / freeze)
+- [ ] Platform lead named on the service plan
 
 ## Action items before Sunday
 

@@ -15,20 +15,33 @@ Confirm readiness and settle nerves — not rebuild the set.
 - Protect prayer and pastoral prep time
 - Run **confidence monitors** and **house/overhead** the way Sunday will run (stands only if already excepted)
 
-## Fill in the local Sunday clock
+## The local Sunday clock
+
+Copy from [Our Congregation](../10-templates/our-congregation.md) — the single source; write values here only on a printed copy:
 
 - **Present by:** ____________________
 - **Ready for run-through by:** ____________________
 - **Service-ready by:** ____________________
-- **Service starts:** ____________________
-- **Freeze time:** ____________________
-- **Location / access notes:** ____________________
+- **Doors / service starts:** ____________________
+- **Freeze:** ____________________ (default: doors)
 
-These are distinct commitments:
+These are distinct commitments (see [Definitions](../00-foundation/definitions.md)):
 
 - **Present** — in the building.
 - **Ready for run-through** — at your position, personally prepared, patched, tuned, and able to begin.
 - **Service-ready** — pre-service checks complete; final clothing, equipment, water, and position settled.
+- **Freeze** — experiments stop; called on talkback by the Worship Lead or Tech Lead.
+
+### Sample clock (overwrite with yours)
+
+| When | What |
+|---|---|
+| T−40 | Line check / IEMs; house + confidence up |
+| T−30 | Confidence readability glance; 1–2 problem spots only |
+| T−20 | Opener + one transition-heavy moment; vocal blend pass if needed |
+| T−10 | **Freeze**; platform quiet for doors / countdown per church norm |
+| T−5 | Team prayer |
+| T | Service |
 
 ## Before the service: simple readiness guide
 
@@ -53,6 +66,6 @@ These are distinct commitments:
 6. Platform quiet for doors / countdown per church norm
 7. Team prayer
 
-## Freeze time
+## Freeze
 
-After the locally filled-in **freeze time**, no new arrangements, no experimental patches, no console rearchitecture unless safety/failure.
+After **freeze** (default: doors, or T−10), no new arrangements, no experimental patches, no console or routing changes unless safety/failure. The Worship Lead or Tech Lead calls it once on talkback. Separately, **monitor freeze** applies after the final run: no major mix rebuilds unless pain or safety.

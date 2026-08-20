@@ -30,7 +30,7 @@ Full standards: [Lyrics & Stage Displays](lyrics-and-stage-displays.md).
 
 ## Service
 
-- [ ] Eyes on platform lead
+- [ ] Eyes on the **Platform lead** (named on the service plan)
 - [ ] Next slide armed
 - [ ] Advance slightly early; never dump random verses when lost
 - [ ] Black/safe slide known

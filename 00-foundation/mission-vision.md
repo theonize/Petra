@@ -4,7 +4,7 @@
 
 ## Mission
 
-Help the church **sing** — encounter God through music, word, and well-run technical craft — so the room can respond without distraction.
+Help the church **sing** and attend to God. Music, word, and well-run technical craft **remove avoidable obstacles** so the room can respond without distraction — they do not manufacture God’s presence.
 
 ## Primary intent (non-negotiable)
 

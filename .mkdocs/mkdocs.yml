@@ -10,6 +10,10 @@ edit_uri: edit/main/
 docs_dir: ..
 site_dir: ../../site
 
+not_in_nav: |
+  CHANGELOG.md
+  CONTRIBUTING.md
+
 exclude_docs: |
   .*
   mkdocs.yml

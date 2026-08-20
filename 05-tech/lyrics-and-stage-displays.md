@@ -8,6 +8,8 @@
 2. Help the **team** stay eyes-up and together without a wall of music stands.  
 3. Keep house, confidence, and stream outputs intentional — not three accidents.
 
+**Who owns what:** Song Selector = titles · Worship Lead = the sung words and form · Media = build, route, advance · Stream = lower-thirds unless combined · Director = theology disputes. Run checklist: [Media / Lyrics Checklist](media-lyrics-checklist.md); this page is standards.
+
 ## Naming
 
 **Confidence monitors** is the preferred term in this runbook.

@@ -28,14 +28,16 @@ Create a clear, comfortable congregational mix that prioritizes vocals and the l
 
 ## Mix priorities (default)
 
-1. Lead vocal intelligibility  
-2. Groove (kick/snare/bass relationship)  
-3. Supporting vocals  
-4. Harmony instruments  
-5. Sparkle / FX  
+1. Spoken word — the pastor’s mic is intelligible first, always  
+2. Lead vocal intelligibility  
+3. Groove (kick/snare/bass relationship)  
+4. Supporting vocals  
+5. Harmony instruments  
+6. Sparkle / FX  
 
 ## During service
 
+- Stop changing things at **freeze** (default: doors) unless safety or failure
 - Anticipate transitions; don’t chase every peak with the same aggression
 - Keep a written or mental note list for debrief
 - If something is truly broken, communicate to stage/Worship Lead calmly
@@ -43,5 +45,5 @@ Create a clear, comfortable congregational mix that prioritizes vocals and the l
 ## Post
 
 - [ ] Save show file if changed intentionally
-- [ ] Note phantom problems for Tech Lead
+- [ ] Note unexplained noises / ghost signals for the Tech Lead
 - [ ] Power-down per strike checklist

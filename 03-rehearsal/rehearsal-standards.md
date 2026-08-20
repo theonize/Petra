@@ -19,8 +19,8 @@ Group rehearsal is also how we confirm who is actually ready to **serve** the li
 5. Phones don’t run the room; emergency use only during runs.
 6. Notes are normal; defensiveness slows everyone down.
 7. If you will be late or absent, notify Worship Lead / Tech Lead / Director ASAP — before rehearsal starts whenever humanly possible.
-8. The Song Selector publishes the fixed set by the team’s chosen weekly deadline. Everyone prepares from that plan. Rehearsal may amend keys, forms, arrangements, cues, and production elements; wholesale song replacement is an exception led by the Song Selector / Director.
-9. The normal group-rehearsal flow is: review the last performance, warm up with an easy song or focused exercise, work every part of the set, rehearse every transition between those parts, and run the set in sequence.
+8. The Song Selector publishes the proposed set by the weekly deadline; it is fixed when the Director confirms (silence by the confirm-by time counts). The Worship Lead publishes keys, forms, and charts by the keys/charts deadline. Everyone prepares from that plan. Rehearsal may amend keys, forms, arrangements, cues, and production elements; wholesale song replacement is an exception led by the Song Selector / Director. Clocks: [Our Congregation](../10-templates/our-congregation.md).
+9. The normal group-rehearsal flow is: review the previous service, warm up with an easy song or focused exercise, work every part of the set, rehearse every transition between those parts, and run the set in sequence.
 
 ## Prior-rehearsal attendance (detail)
 
@@ -42,6 +42,8 @@ Accepting a schedule is accepting the rehearsal that belongs to it. Pre-service 
 Tech is not “optional if the board looks familiar.” Media especially must be present to drive slides; FOH/monitors need the rehearsal to settle gains and cues with the actual players.
 
 ### Exceptions (must be granted, not assumed)
+
+If you cannot attend the prior rehearsal, **do not accept the slot** unless a lead has *already* granted a named exception (cover, simplify, or release). Telling the scheduler you “work Wednesdays” is disclosure, not permission.
 
 Director, Worship Lead, or Tech Lead (for tech roles) may release someone when:
 
@@ -111,7 +113,7 @@ Default staging is **confidence monitors** (also called video monitors) for lyri
 
 - Forms are stable
 - Every planned part and the transition into the next part have been rehearsed
-- Key, range, tempo, and arrangement are reachable for the congregation, not only the platform lead
+- Key, range, tempo, and arrangement are reachable for the congregation, not only the Platform lead
 - Entrances are clean
 - Loud/soft map is shared
 - Tech can execute without heroics

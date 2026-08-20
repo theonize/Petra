@@ -21,12 +21,12 @@ Ensure production systems and tech volunteers reliably serve the service with ca
 - Review roster coverage (FOH, monitors, media, lights, stream) for **rehearsal and service**
 - Scan set for unusual needs (choir mics, guest artist, playback)
 - Confirm show files / lyric decks are staged for midweek
-- Capture issues in a running punch list
+- Capture issues in a running fix list (who owns each, by when)
 
 ## Expectations for tech teammates
 
 - Scheduled tech attends the **prior group rehearsal** (default: no rehearsal → do not serve)
-- Media runs **overhead and confidence** during practice
+- Media runs **overhead and confidence** at group rehearsal
 - Exceptions only when granted with a qualified cover
 
 ## Success looks like
