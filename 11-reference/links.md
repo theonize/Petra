@@ -4,7 +4,7 @@
 
 ## Internal
 
-- Petra repo: https://github.com/theonize/Petra
+- Petra repo: https://github.com/theonize/petra
 - Church protection policy: **[TBD]**
 - Facility emergency plan: **[TBD]**
 

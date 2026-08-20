@@ -56,7 +56,7 @@ Links to roles, templates, other SOPs.
 
 ## The website
 
-<https://theonize.github.io/Petra/> is built from `main` by `.github/workflows/pages.yml` (MkDocs Material; config in `.mkdocs/mkdocs.yml`). Nothing to maintain for ordinary edits:
+<https://theonize.github.io/petra/> is built from `main` by `.github/workflows/pages.yml` (MkDocs Material; config in `.mkdocs/mkdocs.yml`). Nothing to maintain for ordinary edits:
 
 - Every `.md` becomes a page at the same path; a folder's `README.md` is its index page.
 - The sidebar is generated from the folder tree. Section labels come from the `.pages` file in each folder (`title: Roles`); new pages need nothing.
